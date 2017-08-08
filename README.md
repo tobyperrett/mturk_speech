@@ -4,7 +4,7 @@ The process is as follows:
 1. Split narration files up into ~30s chunks.  Small chunks (rather than full ~10 min clips) are used as mechanical turk workers will transcribe these for less.
 2. Host audio files on a server.
 3. Use mechanical turk to get narration transcripts for 30s clips.
-4. Merge transcrips back into their full 
+4. Merge 30s transcrips back into their full versions.
 5. Align transcripts with audio.  Two methods are provided:
     - aeneas: offline, no manual work needed
     - youtube: manual video upload, transcript upload and transcript download are required for each clip
@@ -17,27 +17,27 @@ ____________Assumptions:____________
 
 2. The layout of the dataset folder is as follows:
 
-Top level: scripts/readme etc
+    Top level: scripts/readme etc
 
-    DONE_aeneas: output .sbv transcript files produced by youtube
+        DONE_aeneas: output .sbv transcript files produced by youtube
 
-    DONE_youtube: output .sbv transcript files produced by aeneas
+        DONE_youtube: output .sbv transcript files produced by aeneas
 
-    ground_truths: ground truth annotations
+        ground_truths: ground truth annotations
 
-    mturk_input: all files necessary for mechanical turk - .csv jobfile(s) and 30s audio clips which can be copied to a file host
+        mturk_input: all files necessary for mechanical turk - .csv jobfile(s) and 30s audio clips which can be copied to a file host
 
-    mturk_results: mechanical turk completed results .csv's should be placed here
+        mturk_results: mechanical turk completed results .csv's should be placed here
 
-    subtitles_downloads: .sbvs from youtube should be downloaded here
+        subtitles_downloads: .sbvs from youtube should be downloaded here
 
-    transcripts: merged transcript files are here, ready for upload to youtube (they contain a blank line between each action)
+        transcripts: merged transcript files are here, ready for upload to youtube (they contain a blank line between each action)
 
-    transcripts_no_newline: merged transcript files are here, ready for use by aeneas (no blank line between each action)
+        transcripts_no_newline: merged transcript files are here, ready for use by aeneas (no blank line between each action)
 
-    Pxx:  All videos belonging to person xx (of the form Pxx_yy.mp4) are stored here.  These videos are not required.
-        
-        narrations: narration audio files of the form Pxx_yy.mp3/m4a are stored here.
+        Pxx:  All videos belonging to person xx (of the form Pxx_yy.mp4) are stored here.  These videos are not required.
+            
+            narrations: narration audio files of the form Pxx_yy.mp3/m4a are stored here.
             
 
 
