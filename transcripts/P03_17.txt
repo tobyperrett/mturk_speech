@@ -1,0 +1,50 @@
+stir food
+
+turn down hot
+
+stir food
+
+continue stirring food
+
+pick up pan
+
+place pan
+
+stir food
+
+turn off hot
+
+open cupboard
+
+pick up plates
+
+place plates
+
+pick up spoon
+
+pick up lid
+
+pick up sole spoon
+
+spoon rice onto plate
+
+continue screening rice onto plate
+
+put saucepan aside
+
+pick up saucepan
+
+put food onto plate
+
+put more food onto plate
+
+put saucepan down
+
+open up drawer
+
+grab knives
+
+grab fork
+
+grab fork
+

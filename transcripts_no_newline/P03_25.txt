@@ -1,0 +1,16 @@
+put glasses on the side
+fill glass
+put glass on side
+open fridge
+take squash
+close fridge
+pour squash
+close squash
+put squash in fridge
+take grapes
+close fridge
+pick up glass
+turn on tap
+fill up class
+turn off tap
+pick up glass

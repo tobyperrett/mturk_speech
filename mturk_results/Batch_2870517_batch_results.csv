@@ -1,0 +1,112 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.media-link","Answer.TranscriptionTexts","Approve","Reject"
+"3N3WJQXELRPWUYWKH3QOBHA7PJDL21","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","3B1NLC6UGZVFNXHJYC9LJM8EBAEGPP","AXDG90BRBZFQQ","Submitted","Fri Jul 14 16:54:05 PDT 2017","Fri Jul 14 16:56:10 PDT 2017","Tue Jul 18 16:56:10 PDT 2017","","","","125","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_12_01.wav","stirring tahini
+scoop tahini
+put tahini on meat
+scoop tahini
+pour tahini on meat
+close tahini
+put tahini away
+open yogurt
+pickup spoon
+scoop yogurt
+put yogurt
+put spoon
+put yogurt
+close yogurt
+mix meat"
+"31J7RYECZKPP5DEOYZQA6Y02XDZL1K","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","3VZLGYJEYL9KNNEFAV7RY6ANOZGXZI","AXDG90BRBZFQQ","Submitted","Fri Jul 14 16:44:06 PDT 2017","Fri Jul 14 16:47:35 PDT 2017","Tue Jul 18 16:47:35 PDT 2017","","","","209","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_12_05.wav","move tray
+put tray
+pickup plate
+move can
+get thyme
+put plate
+put thyme
+set off timer
+open oven
+pull drawer
+pickup bowl
+push drawer
+close oven
+move tray
+set off timer
+put bowl
+remove towels"
+"3TFJJUELSGO3RU2E4QXP8YKKVA02C3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:33 PDT 2017","","","3A7Y0R2P2ONUN89BS945ACMX64AJXX","A2EU7V62HDHN5Y","Submitted","Mon Jul 17 05:34:22 PDT 2017","Mon Jul 17 05:43:06 PDT 2017","Fri Jul 21 05:43:06 PDT 2017","","","","524","0% (0/0)","0% (0/0)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_26.wav","hold glass and mix stock with hot water
+stirring stock 
+carry glass and stir stock
+carry glass and stir stock
+return glass
+hold glass and stir stock 
+still stirring stock remove spoon open lid 
+hold lid and pour stock into pan
+put glass 
+pickup spoon 
+remove stock
+put stock"
+"3TFJJUELSGO3RU2E4QXP8YKKVA02C3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:33 PDT 2017","","","3WJ1OXY92AFT7E5ZQVF01E2LO548AO","A1MLIYVA8P7V2F","Rejected","Fri Jul 14 18:33:07 PDT 2017","Fri Jul 14 18:33:31 PDT 2017","Tue Jul 18 18:33:31 PDT 2017","","Mon Jul 17 03:15:32 PDT 2017","Instructions specified one action per line.","24","0% (0/2)","0% (0/2)","0% (0/2)","http://bristolengineeringsurvey.esy.es/audio/P02_09_26.wav","Hold glass and mix stock with hot water. Stirring stock. Carry Glass and stir stock. Carry glass and stir stock. Return glass. Hold glass and stir stock. Still stirring stock remove spoon open lid. Hold lid and pour stock into pan. Put glass. Pickup spoon. Remove stock. Put stock."
+"3ULIZ0H1V94B3OB36CA3P945BN051H","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","37C0GNLMHF2417PNHQ9471E03B9D63","A3Q7NSRL06K0LR","Submitted","Fri Jul 14 08:57:14 PDT 2017","Fri Jul 14 09:03:00 PDT 2017","Tue Jul 18 09:03:00 PDT 2017","","","","346","100% (4/4)","100% (4/4)","100% (4/4)","http://bristolengineeringsurvey.esy.es/audio/P03_05_01.wav","put cup
+grab salt
+open salt
+pour salt
+put salt
+shake saucer
+open cupboard
+grab lid
+close cupboard
+put lid 
+stir food
+grab almond
+open canned almonds"
+"38G0E1M85L48AFHGER204931Z8ZUVC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:32 PDT 2017","","","35H6S234SAZ9XUAU2KRL9PQ8RZH564","A2EU7V62HDHN5Y","Submitted","Mon Jul 17 05:44:28 PDT 2017","Mon Jul 17 05:50:09 PDT 2017","Fri Jul 21 05:50:09 PDT 2017","","","","341","0% (0/0)","0% (0/0)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_06.wav","take off gloves
+open cupboard
+get stainer
+put stainer 
+open fridge
+get tomato
+put tomato in stainer
+then put in tomato 
+return tomato to fridge
+pickup lettuce
+pickup cucumber
+close fridge 
+pickup stainer"
+"38G0E1M85L48AFHGER204931Z8ZUVC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:32 PDT 2017","","","3KV0LJBBH2K0RKTKM7B51MSQ8CIMRV","A36KYJFSPRAFNH","Rejected","Fri Jul 14 09:44:51 PDT 2017","Fri Jul 14 09:48:42 PDT 2017","Tue Jul 18 09:48:42 PDT 2017","","Mon Jul 17 03:15:32 PDT 2017","Instructions specified one action per line.","231","0% (0/6)","0% (0/6)","0% (0/6)","http://bristolengineeringsurvey.esy.es/audio/P02_06_06.wav","Take off gloves. Open cupboard. Get stainer. Put stainer. Open fridge. Get tomato. Put tomato in stainer. Still putting tomato. Return tomato to fridge. Pick up lettuce. Pick up cucumber. Close fridge. Pick up stainer."
+"3G57RS03HG4IS9TZPGAHUSEA3TE52Y","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","373ERPL3YO744FJ4V4CHN0NI2KCRTZ","A3Q7NSRL06K0LR","Submitted","Fri Jul 14 09:13:04 PDT 2017","Fri Jul 14 09:13:50 PDT 2017","Tue Jul 18 09:13:50 PDT 2017","","","","46","100% (4/4)","100% (4/4)","100% (4/4)","http://bristolengineeringsurvey.esy.es/audio/P03_20_00.wav","open lid
+put lid
+turn off hot
+grab spoon
+put lid
+pick up sauce
+start rice
+spoon rice into the lunch box
+pat down rice
+spoon rice"
+"3WRAAIUSBIYGZV8D81MRSTOS8GFXA6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:33 PDT 2017","","","35GMH2SV3EGZIJ9RDH6IUJICPS8EO1","A11BBVVW1ZKOFM","Submitted","Mon Jul 17 04:07:19 PDT 2017","Mon Jul 17 04:09:38 PDT 2017","Fri Jul 21 04:09:38 PDT 2017","","","","139","100% (2/2)","100% (2/2)","100% (2/2)","http://bristolengineeringsurvey.esy.es/audio/P11_05_11.wav","stir onions
+swap pans
+stir courgette
+stir courgette
+adjust hob
+stir courgette
+open fridge
+take out cheese
+take out artichokes
+take out sun-dried tomato
+open artichokes
+get fork"
+"3WRAAIUSBIYGZV8D81MRSTOS8GFXA6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","2","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 03:15:33 PDT 2017","","","382M9COHEHEUVOTO93IRTPA169VUEI","A36KYJFSPRAFNH","Rejected","Fri Jul 14 09:57:18 PDT 2017","Fri Jul 14 10:00:16 PDT 2017","Tue Jul 18 10:00:16 PDT 2017","","Mon Jul 17 03:15:32 PDT 2017","Instructions specified one action per line.","178","0% (0/6)","0% (0/6)","0% (0/6)","http://bristolengineeringsurvey.esy.es/audio/P11_05_11.wav","Stir onions. Swap pans. Stir corgette. Stir corgette. Adjust hot. Stir corgette. Open fridge. Take out cheese. Take out artichokes. Take out sun dried tomato. Open artichokes. Get fork."
+"3I01FDIL6L7DWM8S4MS0S422GAC2D3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","3FIJLY1B6U399XLONS331182ATJFPQ","A1F3A369ZN9W2Y","Submitted","Fri Jul 14 09:58:40 PDT 2017","Fri Jul 14 10:11:21 PDT 2017","Tue Jul 18 10:11:21 PDT 2017","","","","761","100% (3/3)","100% (3/3)","100% (3/3)","http://bristolengineeringsurvey.esy.es/audio/P11_05_19.wav","rinse slicerput away slicerrinse forkput away forkrinse guardturn off tapdrop guardrinse guardput away guardadjust lidstir courgettesstir courgettesstir courgettesadjust hobpick up courgettes"
+"3KG2UQJ0MIN3AH1QVRW4KRCZAKRNQJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 14 08:43:06 PDT 2017","1","BatchId:2870517;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 21 08:43:06 PDT 2017","","","3SKRO2GZ71QH8RU031JAGII9FBP1K9","AXDG90BRBZFQQ","Submitted","Fri Jul 14 16:51:53 PDT 2017","Fri Jul 14 16:53:59 PDT 2017","Tue Jul 18 16:53:59 PDT 2017","","","","126","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_04_09.wav","get garlic paste
+close fridge
+get stock cubes
+close cupboard
+put stock cubes
+put garlic paste
+put almonds
+get stock cubes
+open stock cubes
+take a stock cube
+close stock cubes
+put stock cubes
+open stock cube
+put wrapper in bin
+crumble stock cube"

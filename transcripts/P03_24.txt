@@ -1,0 +1,276 @@
+turn down hob
+
+turn on extractor fan
+
+open freezer
+
+open drawer
+
+grab sweet corn
+
+grab carrots
+
+close freezer drawer
+
+close freezer
+
+move lunchbox
+
+grab saucepan
+
+place saucepan
+
+turn on hob
+
+open drawer
+
+grab scissors
+
+close drawer
+
+open carrot bag
+
+pour carrots
+
+open sweet corn
+
+pour sweet corn
+
+grab carrot back
+
+open freezer
+
+open drawer
+
+put carrots
+
+put sweet corn
+
+close drawer
+
+close freezer
+
+grab lid
+
+put lid
+
+shake pan
+
+transfer water
+
+put pan on hob
+
+OPEN DRAWER
+
+GRAB KNIFE
+
+CLOSE DRAWER
+
+CUT POTATOES
+
+GRAB OIL
+
+OPEN OIL
+
+PUT SAUCEPAN ON PAN
+
+POUR OIL
+
+GRAB SPOON 
+
+TURN DOWN FAN
+
+MOVE POTATOES
+
+Stir potatoes
+
+Pick up potatoes
+
+Pick up potatoes
+
+Keep stiring potatoes 
+
+Shake pan
+
+Stir potatoes
+
+Stir potatoes
+
+Turn on extractor fan
+
+shake pan
+
+open drawer
+
+grab spoon
+
+close drawer
+
+grab spice
+
+shake pan
+
+stir potatoes
+
+shake pan
+
+stir potatoes
+
+grab pepper
+
+open pepper
+
+grind pepper
+
+close pepper
+
+put pepper
+
+spin spice mix
+
+close spice mix 
+
+close spice mix on side
+
+shake pan 
+
+stir potatoes
+
+shake pan
+
+stir potatoes
+
+shake pan
+
+stir potatoes
+
+Grab plates
+
+Put plate
+
+Put rubbish in bin
+
+Grab scissors
+
+Open drawer
+
+Put scissors
+
+Close drawer
+
+Grab spoon
+
+Put spoon
+
+Tear off plastic
+
+Tear off paper
+
+Put rubbish in bin
+
+Shake potatoes
+
+Stir potatoes
+
+Turn on water
+
+Wash hands
+
+Grab plastic
+
+Wash plastic
+
+Turn off tap
+
+Put plastic on side
+
+Dry hands
+
+Check potatoes
+
+Stir potatoes
+
+Check potatoes
+
+Stir potatoes
+
+Turn on extractor fan
+
+Stir potatoes
+
+Turn down hob
+
+Turn off hob
+
+Move saucepan
+
+Put lid on saucepan
+
+Move tap
+
+Drain water
+
+pour vegetables on plate
+
+pour vegetables on plate
+
+grab spoon
+
+spoon vegetables
+
+put saucepan
+
+grab saucepan
+
+spoon potatoes
+
+put saucepan on side
+
+turn off oven
+
+open oven
+
+turn off tractor fan
+
+put spoon
+
+grab oven mitts
+
+grab tray
+
+close oven
+
+put tray on side
+
+put down oven mitts
+
+open foil
+
+open foil
+
+grab spoon
+
+put on oven mitt
+
+spoon salmon
+
+spoon salmon
+
+grab plate
+
+put salmon on plate
+
+put down spoon
+
+grab foil
+
+put foil in bin
+
+put oven mitts on oven
+
+open drawer
+
+grab cutlery 
+
+close drawer
+

@@ -1,0 +1,14 @@
+put grapes
+
+grab salmon
+
+put salmon
+
+grab sole spoon
+
+put sole spoon in fridge
+
+open washing machine
+
+check drains
+

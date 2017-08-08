@@ -1,0 +1,19 @@
+open drawer
+grab tongs
+close drawer
+remove pancake
+place pancake
+remove pancake
+place pancake
+flip tongs
+open butter
+pick up knife
+get butter
+spread butter
+spread more butter
+close butter
+cut knife
+pick up butter
+open fridge
+place butter
+close fridge

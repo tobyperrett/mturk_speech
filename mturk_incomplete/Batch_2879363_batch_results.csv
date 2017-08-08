@@ -1,0 +1,1497 @@
+"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.media-link","Answer.TranscriptionTexts","Approve","Reject"
+"3FHTJGYT8MZC0DJP8A4KU2DS4RBPG8","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3X4MXAO0BGNWWWNYQ9HSAKUH859WRT","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:42:58 PDT 2017","Fri Jul 21 10:44:21 PDT 2017","Tue Jul 25 10:44:21 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","83","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_11.wav","dice chicken
+take onions
+put onions in sauce pan
+put bowl
+take chicken
+slice chicken
+dice chicken
+pour kettle into stock
+put kettle
+stir stock"
+"391JB9X4ZX7BHWIV6LX7BQBQ63HKMA","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","30H4UDGLT2HFF7D59F7GWRSB9LDMP6","A35RQEPHNHWXSL","Approved","Fri Jul 21 12:00:08 PDT 2017","Fri Jul 21 12:02:37 PDT 2017","Tue Jul 25 12:02:37 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","149","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_01.wav","Take sweet cornClose cupboardOpen freezerPull out drawerPut sweet cornClose drawerClose freezerTake bag Fold bagTake bagTake bagFold bagTake boxPut box"
+"36KM3FWE3QBQJ344YML09OZRXGH07A","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:41 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:42 PDT 2017","","","34Q075JO1XCFV1NWZ89SXY30329109","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:10:43 PDT 2017","Fri Jul 21 12:12:30 PDT 2017","Tue Jul 25 12:12:30 PDT 2017","","Mon Jul 24 03:56:41 PDT 2017","No newline between actions (see instructions).","107","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_02_04.wav","Test bottle.  Open fridge.  Put bottle in fridge.  Close fridge.  Pick up bin bag.  Place bin.  Put bin bag.  Pick up bin.  Turn on water.  Place bin.  Open cupboard.  Take cleaning record.  Pour cleaning record. Test water.  Fill bin."
+"36KM3FWE3QBQJ344YML09OZRXGH07A","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:41 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:42 PDT 2017","","","3Z9WI9EOZZNSC2FE5QMV85YGZ5SHK8","AE1UDGB29G7X7","Approved","Mon Jul 24 05:53:08 PDT 2017","Mon Jul 24 05:58:31 PDT 2017","Fri Jul 28 05:58:31 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","323","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P03_02_04.wav","Test bottle
+Open fridge
+Put bottle in fridge
+Close fridge
+Pick up bin bag
+Place bin
+Put bin bag
+Pick up bin
+Turn on water
+Place bin
+Open cupboard
+Take cleaning liquid
+Pour cleaning liquid
+Test water
+Fill bin"
+"3J6BHNX0U8RHZE3VIMC7O50QBTRNKD","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3IHR8NYAM70ZBHOZ3B7KAXBBNRR4PM","A2ALHGJFCAUSBX","Approved","Fri Jul 21 06:29:56 PDT 2017","Fri Jul 21 06:36:41 PDT 2017","Tue Jul 25 06:36:41 PDT 2017","Mon Jul 24 03:56:41 PDT 2017","","","405","100% (1/1)","100% (1/1)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_10.wav","Puts dinner next to sink
+Pickup knife
+Chop lettuce using knife on chopping board
+Chop lettuce
+Pickup chopped lettuce
+Put lettuce in salad plate
+Pick lettuce
+Put lettuce
+Chop end of cucumber
+Slice cucumber
+Slice cucumber using knife"
+"3HFWPF5AK8I8JTNT5C1U6DTUN6DS3J","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3F0BG9B9MPMQ3IYJWW1AQ0OXI1EY7U","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 10:26:29 PDT 2017","Fri Jul 21 10:30:32 PDT 2017","Tue Jul 25 10:30:32 PDT 2017","Mon Jul 24 03:56:41 PDT 2017","","","243","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_16_04.wav","rinse off chopping block
+put chopping block on drying rack
+open cupboards
+take out bowl
+take out bowl
+close cupboards
+put down bowl
+put down bowl
+pick up spin
+stir kale
+put down lids
+put down spin
+pick up fork
+pick up fork
+put down forks
+move bowls
+open cupboards
+take out soy sauce"
+"3YLTXLH3DE5Q09E0SGM2F2PTJROPH7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3KRVW3HTZNKCSZTX1WBARWXMW5LSMT","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:05:11 PDT 2017","Fri Jul 21 12:07:36 PDT 2017","Tue Jul 25 12:07:36 PDT 2017","Mon Jul 24 03:56:41 PDT 2017","","","145","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_24_08.wav","pour vegetables on platepour vegetables on plategrab spoonspoon vegetablesput saucepangrab saucepanspoon potatoesput saucepan on sideturn off ovenopen oventurn off tractor fan"
+"386T3MLZLMUUJH9N8RD6NOVM80N08X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3JBT3HLQF81FEECOO4XA4TOKOP8PZ3","A14EPEMGRA4FK6","Approved","Fri Jul 21 07:44:44 PDT 2017","Fri Jul 21 07:48:33 PDT 2017","Tue Jul 25 07:48:33 PDT 2017","Mon Jul 24 03:56:41 PDT 2017","","","229","100% (5/5)","100% (5/5)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_14.wav","PICK UP TRAY
+PUT TRAY ON STOVE
+PICK UP TRAY
+PUT TRAY
+PICK UP PLATE
+POUR OIL FROM PLATE TO TRAY
+SPREAD OIL IN TRAY
+PICK UP PLATE POUR OIL IN TRAY
+SPREAD OIL IN TRAY 
+GET BALL OF DOUGH FROM BOWL
+KNEAD DOUGH
+ROLL BALL OF DOUGH"
+"3UDTAB6HH5YUXMSXDJJKNKQXS6509M","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","32SCWG5HIH3DQ4SDMZ0Z7VVPJLQ6P8","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 09:59:02 PDT 2017","Fri Jul 21 10:03:13 PDT 2017","Tue Jul 25 10:03:13 PDT 2017","Mon Jul 24 03:56:41 PDT 2017","","","251","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_08_00.wav","pick up backpackunzip backpacktake out salmonput in fridgetake out salmonput in fridgetake out ricedrop on floortake out kaleput in fridgetake out leeksput in fridgetake out cerealput on floorpick up pastadrop on flooropen fridgecheck the milkput milk in fridge"
+"3OYHVNTV5SXZHZ37J1CK3U0V13WKOP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","32AT8R96GL8V57Y6AY2WI6EG9STSUS","A3PU538CX0YDKS","Approved","Fri Jul 21 12:22:06 PDT 2017","Fri Jul 21 12:24:35 PDT 2017","Tue Jul 25 12:24:35 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","149","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_03.wav","open tap
+fill pan with water
+close tap
+put pan with broccoli on stove
+switch stove on
+pick up towel
+dry hands
+put towel
+pick up towel from floor
+put towel
+open fridge
+get Tupperware
+pick up plate
+open Tupperware
+put plate
+open Tupperware
+pick up chicken from Tupperware
+put chicken on plate
+close Tupperware
+put Tupperware in sink"
+"31D0ZWOD09Y825225PXKJF1HYON0A1","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3IGI0VL647J3CPM46G91K6CL46KONK","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:29:01 PDT 2017","Fri Jul 21 10:30:44 PDT 2017","Tue Jul 25 10:30:44 PDT 2017","2017-07-25 17:31:27 UTC","","","103","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_10_00.wav","open ovenput on oven glovesput pizza in ovenput away oven glovesturn off timerset timer"
+"31KPKEKW49CDLF7UB3XGEQLNG680BW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","37ZHEEHM6WLPNF1V7B8K06SK90N731","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:14:38 PDT 2017","Fri Jul 21 11:24:19 PDT 2017","Tue Jul 25 11:24:19 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","581","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_03_20.wav","hold stain and stir sauceset off timeswitch off stovepickup pot with pastamove chopping board from sinkpour water and pasta from pot to mesh in on top of sinkshake mesh with pastapour pasta into panput mesh in sinkhold pan and stir pasta with sauce"
+"3QI9WAYOGPA7GCABOEZSDG5EXXFS6P","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:42 PDT 2017","","","37TD41K0AH8ZJDH6O7HWO0SA2R4SCY","A2954ZZILSPN4L","Rejected","Fri Jul 21 09:00:30 PDT 2017","Fri Jul 21 09:01:38 PDT 2017","Tue Jul 25 09:01:38 PDT 2017","","Mon Jul 24 03:56:42 PDT 2017","No newline between actions (see instructions).","68","0% (0/2)","0% (0/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_26_00.wav","Put plates on the side, open fridge, put grapes in fridge, close fridge."
+"3QI9WAYOGPA7GCABOEZSDG5EXXFS6P","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:42 PDT 2017","","","3L0KT67Y8EFCMGIBKZZLLRKT6VHSYY","AE1UDGB29G7X7","Approved","Mon Jul 24 05:40:24 PDT 2017","Mon Jul 24 05:44:12 PDT 2017","Fri Jul 28 05:44:12 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","228","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P03_26_00.wav","Put plates on the side
+Open fridge
+Put grapes in fridge
+Close fridge"
+"3IQ9O0AYW5YOOWIRFFD7KOR587OITY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3IJXV6UZ1XIEV13T1SDD9TL9TUFIRC","A3PU538CX0YDKS","Approved","Fri Jul 21 11:38:27 PDT 2017","Fri Jul 21 11:41:46 PDT 2017","Tue Jul 25 11:41:46 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","199","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_17.wav","lower heat
+move water using spoon
+from pot to pan
+still moving more water
+put spoon down
+mix cheese pesto and onions in pan using wooden spoon
+still mixing cheese and pesto in pan using wooden spoon
+still mixing cheese and sauce into pan using wooden spoon"
+"3G4VVJO6PYFH2ZF8Y1PZSU5LB8SPKB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3PIWWX1FJJ5TSO4MB5P4J3EIWSSJJF","A14EPEMGRA4FK6","Approved","Fri Jul 21 07:54:50 PDT 2017","Fri Jul 21 07:56:42 PDT 2017","Tue Jul 25 07:56:42 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","112","100% (5/5)","100% (5/5)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_00.wav","OPEN CUPBOARD
+GET PLASTIC BOWL
+CLOSE CUPBOARD
+PUT BOWL
+OPEN CUPBOARD
+GET FLOUR
+GET YEAST
+PUT YEAST
+PUT FLOUR
+GET SALT
+GET OIL
+PUT SALT
+PUT OLIVE OIL
+PICK OLIVE OIL"
+"389A2A304NHWVKZ0P3TBPAR5YR80C3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3CCZ6YKWR7IWFDCS0RUXTZHAILA95B","A7F176Y07MZRR","Approved","Fri Jul 21 07:36:02 PDT 2017","Fri Jul 21 07:38:19 PDT 2017","Tue Jul 25 07:38:19 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","137","100% (4/4)","100% (4/4)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_16_01.wav","put salt in binput salt insideturn on tapwash handsturn off tap dry handsget lidput lid on sidestir foodstir food"
+"3VDVA3ILICE9JL0NN8TUT6VU1B5G1V","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","37C0GNLMHF2417PNHQ9471E052J6DQ","A3V07DG07W3S5G","Approved","Fri Jul 21 08:53:28 PDT 2017","Fri Jul 21 09:02:32 PDT 2017","Tue Jul 25 09:02:32 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","544","100% (3/3)","100% (3/3)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_19.wav","“put spoon”
+“increase heat”
+“hold pan” and
+“stir sauce”
+“increase heat”
+“hold pan” and
+“stir sauce”
+“set a timer”
+“stir sauce”
+“still stirring sauce”
+“lower heat”
+“hold pan” and
+“stir sauce”
+“open cupboard”
+“search in cupboard”
+“pick up steel mash”
+“close cupboard”"
+"3H4IKZHALAHI7KOYFZ4NGXHU5OWNNI","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3OHYZ19UGC4WS6SFXC4WY0SL5ZHOAW","A37M5A56UNVLI9","Approved","Fri Jul 21 09:19:40 PDT 2017","Fri Jul 21 09:25:23 PDT 2017","Tue Jul 25 09:25:23 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","343","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_03.wav","mixing meat
+open yogurt
+pick up spoon
+scoop yogurt
+pour yogurt
+put spoon
+put yogurt
+hold pan
+stir meat with yogurt
+still stirring meat
+taste meat mix
+stir meat
+pick up pan
+put pan"
+"32LAQ1JNT8OTXNDR9W2L3RFG22BUTI","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3K3R2QNK8B2D0S271S251B9QH3Z9UR","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:00:56 PDT 2017","Fri Jul 21 12:05:07 PDT 2017","Tue Jul 25 12:05:07 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","251","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_10_00.wav","Place bagOpen fridgeGrab pancakesClose fridgeTake pancakesPut pancakes in toasterTurn toaster onOpen fridgePut pancakes in fridgeGrab bottleClose fridgePut bottle in bagTake lunchboxPut lunchboxPlace bagOpen fridgeGrab butterClose fridgePlace butterOpen cupboardGrab platePut plate"
+"3MWOYZD5WUN0P5OAGE40VMHZVY1NOX","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3P529IW9KYKJIC6QV0AWKKZI7ASFLM","A35RQEPHNHWXSL","Approved","Fri Jul 21 10:03:06 PDT 2017","Fri Jul 21 10:06:22 PDT 2017","Tue Jul 25 10:06:22 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","196","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_15.wav","Put bowl of doughTurn oven onGet bowl of doughKnead bowl of doughRoll bowl of doughPut bowl of doughGet bowl of doughGet some oilKnead bowl of doughRoll bowl of doughPut bowl of doughGet some oilSpread oil on handGet bowl of doughKnead bowl of dough"
+"3OLZC0DJ8IE31OMGKADML6FQ5S4IVE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3MD9PLUKKIDFBT0B8PKI04JPOAQNZO","A3PU538CX0YDKS","Approved","Fri Jul 21 11:09:23 PDT 2017","Fri Jul 21 11:12:37 PDT 2017","Tue Jul 25 11:12:37 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","194","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_08.wav","get sauce pan
+put sauce pan
+turn on hob
+get olive oil
+open olive oil
+pour olive oil
+close olive oil
+put olive oil
+get kettle
+fill kettle
+put kettle
+turn on kettle
+open cupboard
+grab measuring cup
+close cupboard
+get stock
+put stock
+open cupboard
+get almonds
+open fridge"
+"3E22YV8GG05IA50BVEHFKMMP53XNPE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","34J10VATJFXEJ0OTODOD43B4X8AIQ8","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:50:04 PDT 2017","Fri Jul 21 10:51:44 PDT 2017","Tue Jul 25 10:51:44 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","100","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_20_02.wav","turn on tap
+put spoon
+rinse saucepan
+turn off tap
+pour water
+grab saucepan
+put down lid
+fill saucepan
+rinse saucepan
+turn off tap
+pour water
+grab sponge
+wash lid
+put lid in drying rack"
+"3LN50BUKPUASM5XQJ1107UI008XPLE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3LEP4MGT3GZA7J6IDHQCIH0SJ37DBV","A3PU538CX0YDKS","Approved","Fri Jul 21 12:01:12 PDT 2017","Fri Jul 21 12:01:31 PDT 2017","Tue Jul 25 12:01:31 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","19","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_07_01.wav","open cabinet
+close cabinet
+close shaker"
+"34XASH8KLPLCSNFBJD2F77XP0DNPMG","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3ZPPDN2SLVVWBW5LBSN0XTNNV9R9EK","A35RQEPHNHWXSL","Approved","Fri Jul 21 04:57:30 PDT 2017","Fri Jul 21 05:01:50 PDT 2017","Tue Jul 25 05:01:50 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","260","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_20_08.wav","Pour soap on spongeWash dish coverWash dish coverWash dish coverWash dish coverTurn on tapWash plateWash plateWash glassPut down glassPick up plateWash plate"
+"3E22YV8GG05IA50BVEHFKMMP53XPNG","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3GU1KF0O4I0JWG98IQH7IBHHXMYPB9","A37M5A56UNVLI9","Approved","Fri Jul 21 09:10:45 PDT 2017","Fri Jul 21 09:15:42 PDT 2017","Tue Jul 25 09:15:42 PDT 2017","Mon Jul 24 03:56:42 PDT 2017","","","297","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_05_03.wav","Take out spoon
+Tap spoon
+Close almonds
+Open cupboard
+Put almonds
+Close cupboard
+Grab salt
+Pour salt
+Put salt
+Stuff food
+Rinse spoon
+Spoon food
+Stuff food"
+"30IRMPJWDYI2ECVNBTTOXP50CQGKRY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3DR23U6WE5DFVBEZ9YSHOTOZPH0TEC","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:28:50 PDT 2017","Fri Jul 21 05:33:59 PDT 2017","Tue Jul 25 05:33:59 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","309","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_34.wav","Hold pan andStir meatPick up lidCover panPut spoonOpen cupboardPick up glassClose cupboardPick up water filterHold glass andPour water into glassPut water filterDrink from glassPut glass downPick up lidPut lidStir meatIncrease heatIncrease heatHold pan and Stir meat"
+"3JU8CV4BRKB0SQ0NWTHSZBMUVD2POV","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","30X31N5D63PBQYK84TL5I52M2OPSA2","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:40:46 PDT 2017","Fri Jul 21 10:42:54 PDT 2017","Tue Jul 25 10:42:54 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","128","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_20_06.wav","rinse bowl 
+clean bowl 
+move tap 
+turn off tap 
+clean side 
+put sponge 
+dry hands 
+put lid on lunch box 
+grab lid 
+put lid on lunch box 
+grab lunch boxes 
+open fridge 
+put lunch box in fridge 
+close fridge 
+grab grape 
+close fridge"
+"34KYK9TV2Q7DMOR6K5G0OWR6BYQSBA","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:43 PDT 2017","","","36WLNQG78Z9FZPKI9C1WOZIDKVPBE0","AE1UDGB29G7X7","Approved","Mon Jul 24 05:11:03 PDT 2017","Mon Jul 24 05:21:41 PDT 2017","Fri Jul 28 05:21:41 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","638","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P03_16_02.wav","Shake rice
+Move Saucepan
+Move Saucepan
+Pick up kettle
+Pour water
+Put kettle
+Put a lid 
+Stir food"
+"34KYK9TV2Q7DMOR6K5G0OWR6BYQSBA","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:43 PDT 2017","","","3VHP9MDGRNJQF8CKINHXH19VD1RFCJ","A3TX2KJ7VJG3N0","Rejected","Fri Jul 21 12:20:18 PDT 2017","Fri Jul 21 12:21:45 PDT 2017","Tue Jul 25 12:21:45 PDT 2017","","Mon Jul 24 03:56:43 PDT 2017","Poor quality (didn't match ground truth example).","87","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_16_02.wav","shake rice
+use sauce spoon
+use sauce spoon
+pick up kettle
+pour water
+put kettle
+put lid
+stir food"
+"3ICOHX7ENBABSIJELUZ6FYR8J3L0EW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3MB8LZR5BFSUYYY4WB1T0XRNF6KKL4","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:14:19 PDT 2017","Fri Jul 21 12:16:18 PDT 2017","Tue Jul 25 12:16:18 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","119","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_08_01.wav","rearrange fridgeput in milkpick up peanut butterput peanut butter in cupboardsclose cupboardspick up backpackthrow over therepick up sssput away pastaput away riceclose cupboards"
+"3B9J25CZ24CWWTJCY5CVZGXOTJQSCH","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","37M28K1J0QCIRV1IHZCRQ4BZ65BJAC","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:26:04 PDT 2017","Fri Jul 21 10:29:01 PDT 2017","Tue Jul 25 10:29:01 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","177","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_25_00.wav","put glasses on the sidefill glassput glass on sideopen fridgetake squashclose fridgepour squashclose squashput squash in fridgetake grapesclose fridgepick up glassturn on tapfill up classturn off tappick up glass"
+"30EMX9PEVJIEFRV0QITTNZAWYSZKSM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3GGAI1SQEVXWLI414ALACRT4A2UMCO","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:08:18 PDT 2017","Fri Jul 21 11:14:37 PDT 2017","Tue Jul 25 11:14:37 PDT 2017","Mon Jul 24 03:56:43 PDT 2017","","","379","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_15_00.wav","pickup Tupperwarepickup pieplace pie in Tupperwarepickup pie place in Tupperwarepickup pieplace piepickup pieput piepickup pieput piepickup pieput piepickup pieput piemove piepick up lidclose Tupperwarepickup paper towelget paper towelpickup Tupperwaredry Tupperwarehold Tupperware and dry Tupperwarepickup pieput in Tupperwarepick up pie put up piepickup pieput piepickup pieput piepickup pieput pie"
+"30U1YOGZG9V61LPQY176JMF6EJ2SDH","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","33FOTY3KEMKZPTICBO2CSZ51CR31CZ","A3PU538CX0YDKS","Approved","Fri Jul 21 11:57:37 PDT 2017","Fri Jul 21 11:59:23 PDT 2017","Tue Jul 25 11:59:23 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","106","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_22.wav","pick up meat
+add meat to pan
+hold pan and mix meat with onions using wooden spoon
+break meat in pan
+mix meat in pan using wooden spoon
+turn meat in pan
+turning meat in pan
+break meant in pan using wooden spoon"
+"3087LXLJ6LF3YWJAG5JCXGC8V400FE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3907X2AHF04P839CZXOWHIED3CKP2Y","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:52:02 PDT 2017","Fri Jul 21 05:55:39 PDT 2017","Tue Jul 25 05:55:39 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","217","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_15_03.wav","Wash leeksWash leekWash leekTurn off tapShake off leeksShake off handsPut leeks on chopping boardPick up knifeRemove bottom of leekRemove bottom of leekRemove bottom of leekThrow away extra leekChop leekChop leek"
+"31MCUE39BJL5TOE2AC7DHZARZVJG3N","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3BQU611VFPJFG0E43H7E5FMC4CO99N","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:07:11 PDT 2017","Fri Jul 21 05:11:35 PDT 2017","Tue Jul 25 05:11:35 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","264","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_02_00.wav","Place the smartphone on counterOpen fridgeTake eggsTake chivesTake eggsPlace eggs on fridgeClose fridgePlace eggs on counterPlace chives on counterTake mugPlace mug on counterCrack eggsCrack egg"
+"3KG2UQJ0MIN3AH1QVRW4KRCZAZJNQ5","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3LO69W1SU3CPWC2L6KGE25ZU8PWLGV","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:04:08 PDT 2017","Fri Jul 21 11:08:17 PDT 2017","Tue Jul 25 11:08:17 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","249","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_27_00.wav","turn on lightput glass insideopen fridgegrab squashopen squashpour squashplace glassclose squashopen fridgeput squash in fridgeclose freezeropen drawerpush drawerclose freezerclose fridgemove tapturn on tapwash hands"
+"3XWUWJ18TKP8X0SG91SV8N1ILGIUU9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3WEV0KO0OMR9O5NKO3C786ASNRNDSQ","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:48:32 PDT 2017","Fri Jul 21 10:48:53 PDT 2017","Tue Jul 25 10:48:53 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","21","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_14_01.wav","put rice
+open container
+open rice bag
+pour rice
+pick up glass
+place glass
+shake container
+close container
+pick up rice
+put rice in cupboard
+close cupboard
+pick up crisps
+place crisps
+close cupboard"
+"38RHULDV9XEGGDMLAKII78Y4C16IWO","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3K9FOBBF2HIV64J7TOT9SP8R90KLN3","A7F176Y07MZRR","Approved","Fri Jul 21 07:31:02 PDT 2017","Fri Jul 21 07:35:55 PDT 2017","Tue Jul 25 07:35:55 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","293","100% (4/4)","100% (4/4)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_13.wav","move scissors put platepick up oil sprinkle oil into pasta pot pick up salt put salt into pasta pot put salt lower heat on stove pick up chopping board with onions chop a few onions using knife pick up chopping board switch stove on"
+"3B0MCRZMBQTIDQCOBTU7OBRK5IYPPC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3LPW2N6LKT1UZ50VY2POPV4OV7MU5R","A7F176Y07MZRR","Approved","Fri Jul 21 07:38:23 PDT 2017","Fri Jul 21 07:41:57 PDT 2017","Tue Jul 25 07:41:57 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","214","100% (4/4)","100% (4/4)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_23.wav","add pine nuts to piepick up pine nuts bagpour pine nuts into handreturn pine nuts bagsadd pine nuts unto pieadd pine nuts to pieput pine nuts on pie pick up pine nuts bagopen fridgereturn bagclose fridgepick up towel pick up oven glovesopen oven"
+"3FVBZG9CLIDNCSAGBV7C01OLBJD0HC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","3TMSXRD2X6Z83ROHSF2D4TC447CW1U","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 09:55:27 PDT 2017","Fri Jul 21 09:59:02 PDT 2017","Tue Jul 25 09:59:02 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","215","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_23_02.wav","put packaging on sideturn on tapwash handsturn off tapgrab oilpour oilpour oilclose oilput oil on sidegrab pepperopen peppergrind peppergrind pepperclose pepperput pepper on sidegrab herbspour herbs"
+"3LCXHSGDLS5BTR3QUWIQP4XREV3SEA","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:42 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:42 PDT 2017","","","37UEWGM5HT73VV7VTLS7HU4NCS3R1S","A3PU538CX0YDKS","Approved","Fri Jul 21 11:29:29 PDT 2017","Fri Jul 21 11:31:10 PDT 2017","Tue Jul 25 11:31:10 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","101","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_15_02.wav","put Tupperware in  fridge
+move tupperware
+close fridge"
+"338GLSUI42A3Z53MP72W7MIRQWISFS","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3BDCF01OGXTPI3NL0Q2K956YDLLYL5","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:52:32 PDT 2017","Fri Jul 21 10:54:37 PDT 2017","Tue Jul 25 10:54:37 PDT 2017","Mon Jul 24 03:56:44 PDT 2017","","","125","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_24_00.wav","pick up pot
+pick up pot lids
+put down pot and lids
+pick up wine glass
+open cupboard
+put down wine glass
+put away wine glass
+pick up bowl
+open cupboards
+put away bowl
+pick up chopping block
+put away chopping block
+pick up bowl
+put away bowl
+pick up mug
+put away mug
+push back glass
+move mug"
+"3W9XHF7WGJUFUR8FFIYJX46I0BDKTB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3FE2ERCCZX73FAYHMVMTOVHG4LVPOR","A1EA1LCQJOQ7W1","Approved","Fri Jul 21 12:12:35 PDT 2017","Fri Jul 21 12:12:50 PDT 2017","Tue Jul 25 12:12:50 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","15","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_10_02.wav","Place cup."
+"3YGYP1364083MIGQ86L4PHM46LLNR6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","304SM51WA33G98P0A7L1DGMSK6GBSM","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 11:55:47 PDT 2017","Fri Jul 21 11:59:10 PDT 2017","Tue Jul 25 11:59:10 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","203","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_23.wav","Stir pastaStir pastaPut away TupperwareRinse knifeClean knifeRinse off knifePut away knifePick up chopping blockRinse off chopping blockScrub chopping blockScrub chopping blockRinse handsAdjust  hob"
+"38G0E1M85L48AFHGER204931ZNRUVY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3OF2M9AATGNE3NF8BCS28C2LUFTKZO","A31TV31M9JFJNT","Approved","Fri Jul 21 12:18:13 PDT 2017","Fri Jul 21 12:23:35 PDT 2017","Tue Jul 25 12:23:35 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","322","100% (1/1)","100% (1/1)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_23_04.wav","scoop garlic paste
+close garlic paste
+open fridge
+put garlic paste
+close fridge
+spread garlic
+spread garlic
+put spoon
+grab Tabasco
+open Tabasco 
+pour Tabasco
+close Tabasco
+put Tabasco on the side"
+"3RKHNXPHGVVUU4N4FNOT20SKJPKKU2","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3GGAI1SQEVXWLI414ALACRT4A2VMCP","A3PU538CX0YDKS","Approved","Fri Jul 21 11:26:30 PDT 2017","Fri Jul 21 11:29:29 PDT 2017","Tue Jul 25 11:29:29 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","179","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_32.wav","put glass
+pick up glass
+rinse glass
+close tap
+put glass
+empty sink
+hold in empty sink
+remove glass
+open lid
+pick up wooden spoon
+stir meat
+put lid
+hold pan and stir meat
+breaking meat into smaller pieces
+turning and stirring meat
+turn meat"
+"3ZRKL6Z1E729D5ZH0R8EP7I3RBISGR","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3J88R45B2GXQ9JC9NM9P7889GPUPXQ","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:31:25 PDT 2017","Fri Jul 21 11:34:46 PDT 2017","Tue Jul 25 11:34:46 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","201","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_14.wav","peel onion
+still peeling onion
+peeling onion
+put onion
+pick up chopping board
+open trash
+throw peels
+close trash bin
+put chopping board
+put onion on chopping board
+slice onion using knife
+still slicing onion
+still slicing onion
+chopping onion"
+"3E9ZFLPWOXRV5DRBKPE49RCBL3CIXH","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3F6KKYWMNB0C8SVFG7VL9C0M0TSDNT","A3PU538CX0YDKS","Approved","Fri Jul 21 12:24:36 PDT 2017","Fri Jul 21 12:26:55 PDT 2017","Tue Jul 25 12:26:55 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","139","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_21.wav","pick up meat
+break meat into pieces
+add to pan
+pick up meat
+break meat into pieces
+add to pan
+pick up meat
+break meat into pieces 
+and add to pan
+pick up spoon
+mix meat
+hold pan and mix meat
+lower heat
+pick up meat
+break meat into pieces
+add meat to pan"
+"3IVKZBIBJZ8ND1USKXQWA7U46BVSHQ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","324G5B4FB37T6N2YOOQ1Y8UD6O307Z","A3PU538CX0YDKS","Approved","Fri Jul 21 11:15:15 PDT 2017","Fri Jul 21 11:16:29 PDT 2017","Tue Jul 25 11:16:29 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","74","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_09_02.wav","pick up pepper
+grab
+pick up herbs
+scrub chopping block
+turn on tap 
+rinse fork
+chopping block on drying rack
+shake"
+"3QE4DGPGBQAQBKX6AQCWR42XDVFG48","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3JCG6DTRV3PR0YCC1LTMD52QOD2QQK","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:11:41 PDT 2017","Fri Jul 21 05:15:37 PDT 2017","Tue Jul 25 05:15:37 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","236","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_14_00.wav","Set off timerWear oven gloveOpen ovenPull drawer of ovenPick up trayPlace tray on stovePull drawerPick up trayPut trayPick up trayPut tray in ovenClose ovenSet timerRemove oven glove"
+"3HEM8MA6H8B3D2D3B69WOGHUAEKPQ3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3FTYUGLFSUK8I3P9C7ZZFV0097MD5V","A2HCJ21MPFU20O","Approved","Fri Jul 21 12:06:45 PDT 2017","Fri Jul 21 12:11:29 PDT 2017","Tue Jul 25 12:11:29 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","284","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_21.wav","put down pot put down pot on hubput caulder on potput lid in sinkstirringspick up chopping blockput artichokes in panput down knifechopping blockput cheese in pan put cheese in panclean off knifescrape cheese into pan"
+"3WRKFXQBOA6K5IHLPL06S5JKN96IYN","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3RGU30DZTA7JTWA7E22WZV6Z0M4JM0","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:27:17 PDT 2017","Fri Jul 21 11:28:24 PDT 2017","Tue Jul 25 11:28:24 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","67","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_16_03.wav","turn down hob"
+"3MVY4USGB5MN9W5CQF8HAJVJ6OASIJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","37U1UTWH9VLL6VRGS61MW4RVQYAR8D","A3PU538CX0YDKS","Approved","Fri Jul 21 11:41:47 PDT 2017","Fri Jul 21 11:44:01 PDT 2017","Tue Jul 25 11:44:01 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","134","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_04_03.wav","sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+apply water
+change side
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+shake off blade"
+"3SMIWMMK604LP4HL417WQBMF6WTUW8","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3R5F3LQFV2JXTE0N94KVFTJUEL5ZOR","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 12:21:52 PDT 2017","Fri Jul 21 12:24:49 PDT 2017","Tue Jul 25 12:24:49 PDT 2017","Mon Jul 24 03:56:45 PDT 2017","","","177","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_14.wav","move wooden spoon
+pick up knife
+slide onions from chopping board to pan
+put chopping board and knife into sink
+pick up knife
+stir onions in pan using wooden spoon
+divide onion into smaller pieces using wooden spoon
+pick up onion piece
+put onion piece
+stir onion in pan using wooden spoon"
+"3GL25Y6842TH1WH254CW1KJS2CWXMC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3L6L49WXW0WVI76GJWY6CR6UWUP455","A3PU538CX0YDKS","Approved","Fri Jul 21 11:31:11 PDT 2017","Fri Jul 21 11:33:42 PDT 2017","Tue Jul 25 11:33:42 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","151","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_23_00.wav","open fridge
+pick out milk
+open cupboards
+pick up bowl
+close cupboards
+pick up spoon
+put down bowl and spoon
+open milk
+pour milk into bowl
+put on lid
+put milk in fridge
+pick up cereal
+put down cereal
+look around
+pick up cereal"
+"3M93N4X8HJMJ47PI8XTHMKAJJ3ZSJV","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3QJOXOW4XJQBIGOF01R52FT7VE8EMA","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:28:25 PDT 2017","Fri Jul 21 11:37:16 PDT 2017","Tue Jul 25 11:37:16 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","531","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_04_20.wav","pickup stockpour granulesclose stockput stockstir foodcontinue stirring foodopen cupboardgrab lidput lid on saucepanturn down hobput spatulatake spoonwash spoon"
+"3YCT0L9OML8FNXG3NVL9FRR0SN4NSU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3QHK8ZVMIMHT5VUAQYO01U8XSCABLA","A3PU538CX0YDKS","Approved","Fri Jul 21 12:07:46 PDT 2017","Fri Jul 21 12:10:04 PDT 2017","Tue Jul 25 12:10:04 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","138","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_05.wav","remove onion skin
+remove onion skin
+throw away onion skin
+throw away onion skin
+stir courgette
+stir courgette
+throw away onion skin
+slice open onions
+remove onion
+remove onion 
+remove onion
+drop onion
+put down onion
+throw away onion bag
+pick up onions
+put down onion
+remove onion skin"
+"3VEI3XUCZQW3P3S3OLYWT6RZ60MPR4","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3Z3ZLGNNSITZTX6A3AHQ0X9FEQ7Q3A","A37M5A56UNVLI9","Approved","Fri Jul 21 09:15:48 PDT 2017","Fri Jul 21 09:19:37 PDT 2017","Tue Jul 25 09:19:37 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","229","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_27.wav","Put spoon
+Pick up wooden spoon
+Stir meat water and hold lid
+Hold lid and stir meat
+Cover lid
+Put spoon
+Lower heat
+Pick up plates
+Open cupboard
+Return plates
+Put plates
+Pick up plates
+Put plates
+Pick up plate
+Put plate"
+"3U74KRR67LKG2XTICVQZPWNMU6INTJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:40 PDT 2017","","","3OONKJ5DKCI1BGX73Q4STBCROXUBO3","A123JYV8EGIHA6","Approved","Mon Jul 24 04:56:50 PDT 2017","Mon Jul 24 04:58:28 PDT 2017","Fri Jul 28 04:58:28 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","98","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P03_02_03.wav","close bottle
+open fridge
+place bottle in fridge
+pour swash
+put down bottle
+fill bottle
+close bottle
+shake bottle
+open bottle
+pour bottle
+close bottle
+place bottle
+pick up bottle
+fill bottle
+turn off tap
+pick up lid
+close bottle"
+"3U74KRR67LKG2XTICVQZPWNMU6INTJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:40 PDT 2017","","","3URFVVM165HS6JKK5QW4EZBJW6OZUX","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:04:05 PDT 2017","Fri Jul 21 12:06:32 PDT 2017","Tue Jul 25 12:06:32 PDT 2017","","Mon Jul 24 03:56:40 PDT 2017","No newline between actions (see instructions).","147","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_02_03.wav","Close bottle.  Open fridge.  Place bottle in fridge.  Pour squash.  Put down bottle.  Fill bottle.  Close bottle.  Shake bottle.  Open bottle.  Pour bottle. Close bottle.  Place bottle.  Pick up bottle.  Fill bottle.  Turn off tap.  Pick up lid.  Close bottle."
+"3APP19WN70D4Q71KTE5BO2MB9MLG6T","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3XUHV3NRVKXPUJUBY3IP6GFY1ZH5HY","A3PU538CX0YDKS","Approved","Fri Jul 21 12:15:08 PDT 2017","Fri Jul 21 12:16:11 PDT 2017","Tue Jul 25 12:16:11 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","63","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_04_01.wav","take bowl
+place bowl on counter
+add porridge
+place porridge on cabinet
+take honey
+take oil
+pour oil on pan
+close bottle
+rinse hands
+close tap"
+"3J9UN9O9J2RJ3Y56ZVAXCE40OBH0JH","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3R08VXYT7CUMED3JHVJM533H7TK7WA","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:43:32 PDT 2017","Fri Jul 21 11:47:25 PDT 2017","Tue Jul 25 11:47:25 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","233","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_12_13.wav","get meat mixput mix on ball of doughget meat mixput mix on ball of doughget meat mix from panput mix on ball of doughget meat mix from panput mix meat on ball of doughget meat mix from panput meat mix on ball of doughget meat mix from panput meat mix on ball of doughget meat mix from panput meat mix on ball of dough"
+"3ECKRY5B1PVKA8RQL72P6CSMT3AIZE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:46 PDT 2017","","","3E337GFOL97FKC56IXWTFX3JE0GNGG","A123JYV8EGIHA6","Approved","Mon Jul 24 04:51:49 PDT 2017","Mon Jul 24 04:56:33 PDT 2017","Fri Jul 28 04:56:33 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","284","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P11_22_03.wav","put fork in bowl
+open cupboards
+take out soy sauce
+take out chili oil
+squirt chili oil
+squirt chili oil
+put down chili oil
+pick up soy sauce
+pour on soy sauce
+pour on soy sauce
+put down soy sauce
+pick up tissue
+wipe down soy sauce"
+"3ECKRY5B1PVKA8RQL72P6CSMT3AIZE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:46 PDT 2017","","","3KOPY89HM81I7A2X8KXH3WXT0VU3JB","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:15:36 PDT 2017","Fri Jul 21 12:17:14 PDT 2017","Tue Jul 25 12:17:14 PDT 2017","","Mon Jul 24 03:56:46 PDT 2017","No newline between actions (see instructions).","98","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_22_03.wav","Put fork in bowl.  Open cupboard.  Take out soy sauce.  Take out chili oil.  Squirt chili oil, squirt chili oil.  Put down chili oil.  Pick up soy sauce.  Pour on soy sauce.  Pour on soy sauce.  Put down soy sauce.  Take out tissue.  Wipe down soy sauce."
+"30EMX9PEVJIEFRV0QITTNZAWYSZSKU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","3UN61F00HWO2JD8EU8UJKKH4O9I5R0","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:22:36 PDT 2017","Fri Jul 21 12:24:35 PDT 2017","Tue Jul 25 12:24:35 PDT 2017","","Mon Jul 24 03:56:46 PDT 2017","No newline between actions (see instructions).","119","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_02_06.wav","Pour bin.  Pick up towel.  Wipe bin.  Continue wiping bin.  Wipe outside of bin.  Put bin down.  Put towel in bin.  Get bag.  Open bag.  Shake bag.  Put bag in bin.  Open bag."
+"30EMX9PEVJIEFRV0QITTNZAWYSZSKU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","3ZAZR5XV01HWKP3KJZB4KTPDQMWZCZ","A123JYV8EGIHA6","Approved","Mon Jul 24 04:56:53 PDT 2017","Mon Jul 24 05:00:47 PDT 2017","Fri Jul 28 05:00:47 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","234","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P03_02_06.wav","pour bin
+pick up towel
+wipe bin
+continue wiping bin
+wipe outside of bin
+put bin down
+put towel in bin
+get bag
+open bag
+shake bag
+put bag in bin
+open bag"
+"324N5FAHSWAU7JC4KDYYYMU3XWTKVR","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","39GHHAVOMFQ3P6L18Y20D1PZEWUJ4I","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:24:42 PDT 2017","Fri Jul 21 12:29:22 PDT 2017","Tue Jul 25 12:29:22 PDT 2017","","Mon Jul 24 03:56:46 PDT 2017","No newline between actions (see instructions).","280","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_05_03.wav","Slice courgette into pan.  Throw away courgette.  Slice courgette into bin.  Slice courgette into pan.  Slice courgette into pan.  Slice courgette into pan.  Throw away courgette.  Slice courgette into bin.  Slice courgette into pan. Slice courgette into pan.  Slice courgette into pan.  Shake courgette."
+"324N5FAHSWAU7JC4KDYYYMU3XWTKVR","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","3UJ1CZ6IZHOEKS8R9XUOAUM0BQDS5I","AWDXILWQ7F3CC","Approved","Mon Jul 24 05:35:55 PDT 2017","Mon Jul 24 05:36:36 PDT 2017","Fri Jul 28 05:36:36 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","41","100% (3/3)","100% (3/3)","100% (3/3)","http://bristolengineeringsurvey.esy.es/audio/P11_05_03.wav","slice courgette into pan
+throw away courgette
+slice courgette into bin
+slice courgette into pan
+slice courgette into pan
+slice courgette into pan
+throw away courgette
+slice courgette into bin
+slice courgette into pan
+slice courgette into pan
+slice courgette into pan
+shake courgette"
+"3MA5N0ATTBA7M8C9AN3UKODH45VKW1","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","3FIJLY1B6U399XLONS331182CK2FPT","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:01:09 PDT 2017","Fri Jul 21 12:04:02 PDT 2017","Tue Jul 25 12:04:02 PDT 2017","","Mon Jul 24 03:56:46 PDT 2017","No newline between actions (see instructions).","173","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_09_13.wav","Open tap.  Clean surface.  Open trash bin.  Open tap.  Pour liquid into hand,  Wash hands.  Close tap.  Pick up towel.  Dry hands.  Pick up chopping board. Put chopping board.  Pick up onion.  Put onion on chopping board.  Chop end of onion.  Chop end of onion."
+"3MA5N0ATTBA7M8C9AN3UKODH45VKW1","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:47 PDT 2017","","","3JPSL1DZ5SYEALS3WX4JJBSGG57NA8","AE1UDGB29G7X7","Approved","Mon Jul 24 05:58:46 PDT 2017","Mon Jul 24 06:03:07 PDT 2017","Fri Jul 28 06:03:07 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","261","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P02_09_13.wav","Open tap
+Clean surface
+Open trash bin
+Open tap
+Pour liquid into hand
+Wash hands
+Close tap
+Pick up towel
+Dry hands
+Pick up chopping board
+Put chopping board
+Pick up onion
+Put onion on chopping board
+Chop end of onion
+Chop end of onion"
+"3GMLHYZ0LDWPE9CLJ2PKB87VH4TUY7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","36AHBNMV1RB6KRZTN94WQSYT4CEDYZ","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:34:46 PDT 2017","Fri Jul 21 09:39:31 PDT 2017","Tue Jul 25 09:39:31 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","285","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_14.wav","Stir onionsStir onionsPut lid on pastaClean off forkRemove sun dried tomatoesRemove sun dried tomatoesRemove sun dried tomatoesRemove sun dried tomatoTake lid off pastaStir onionsStir courgetteStir courgette"
+"3SSN80MU8BNMB8HZKSZGM7ROD71KXU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3SUWZRL0MYC9TD3NDLKODJWL5EVE62","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:49:31 PDT 2017","Fri Jul 21 11:54:49 PDT 2017","Tue Jul 25 11:54:49 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","318","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_01_01.wav","Clean mugPut down mugClean  another mugScrub mugScrub handlePut down mugPick up bowlScrub bowlScrub underside of bowlPut down bowlPick up spoonScrub spoonPut down spoonPick up spoonScrub spoonPick up bowlScrub plateScrub platePut down platePick up glassScrub glassScrub inside glassPut down glassPick up another glassScrub glassScrub glassScrub inside glass"
+"3VADEH0UHBWFQISG3AY1JGWVS25PSS","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3EQHHY4HQSRBUNZ0EX07LG3XMZQG5W","A37M5A56UNVLI9","Approved","Fri Jul 21 09:31:46 PDT 2017","Fri Jul 21 09:34:51 PDT 2017","Tue Jul 25 09:34:51 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","185","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_16.wav","put vinegar
+close herb
+put back herb
+put back herb
+put back vinegar
+move pasta
+return pasta
+search
+searching
+searching
+pick up olive oil
+put olive oil or sprinkle olive oil on salad
+put olive oil on salad"
+"3TRB893CSI9NU7FPCOA3UGM74X5G7S","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3RRCEFRB7MBX7NNPK6PJFD6M6Q44BZ","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:39:36 PDT 2017","Fri Jul 21 09:43:55 PDT 2017","Tue Jul 25 09:43:55 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","259","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_10_01.wav","Grab knifePlace knifeOpen cupboardGrab glassClose cupboardPut glassOpen fridgeGrab juiceClose fridgeShake juiceOpen juicePour juicePlace glassClose juiceOpen fridgePlace juiceClose fridgePick up juice"
+"3Y7LTZE0YSLPJZMQFOR3PFGXNYXUZY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","30LB5CDZNC9CQX847JIKPSNCGH7Z0H","A3FY6THWKRYN9M","Approved","Fri Jul 21 09:05:33 PDT 2017","Fri Jul 21 09:08:56 PDT 2017","Tue Jul 25 09:08:56 PDT 2017","Mon Jul 24 03:56:46 PDT 2017","","","203","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_16_01.wav","Take out clothes
+Put clothes in washer
+Put clothes in washer
+Put clothes in washer
+Put clothes in washer
+Put clothes in washer
+Close door
+Turn on washer
+Set dials
+Scoop washing powder
+Put washing powder in washing machine
+Turn off timer
+Pour kale into pot"
+"3R5OYNIC2B8G5I5VSA3RTLSHULJPTH","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3HUTX6F6VUM7N3XBKXBHSI9NTBU2O8","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:30:44 PDT 2017","Fri Jul 21 10:38:04 PDT 2017","Tue Jul 25 10:38:04 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","440","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_04_18.wav","put down glassstir foodpick up bottlepour onionsstir foodput onions in panstir foodcontinue stirring foodtake spiceopen spice pour spiceclose spicetake spiceopen spice"
+"302U8RURJY0VFPX7HQQEQEB7RRYNVZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:43 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:43 PDT 2017","","","3DQQ64TANGKBKJ7JDHD35PU27NPPWY","A3PU538CX0YDKS","Approved","Fri Jul 21 11:44:02 PDT 2017","Fri Jul 21 11:46:06 PDT 2017","Tue Jul 25 11:46:06 PDT 2017","Mon Jul 24 03:56:47 PDT 2017","","","124","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_15_00.wav","play music
+adjust stereo
+open cupboards
+take out measuring jug
+close cupboards
+pour water into measuring jug
+turn off water
+pick up kettle
+put water in kettle
+put water in kettle
+open blinds
+move pot
+turn off water
+empty water
+pour out water"
+"3SV8KD29L3RBG3HELAN1JS7ZL7ZKZR","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3GDTJDAPVUAU9FEONY55A5XLKBH8MC","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:16:23 PDT 2017","Fri Jul 21 12:19:20 PDT 2017","Tue Jul 25 12:19:20 PDT 2017","Mon Jul 24 03:56:47 PDT 2017","","","177","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_09_00.wav","put on oven glovestake out oven trayslice open pizza packput pizza on trayslice off top of ovenslice off bottom onioncut into onion to remove skinpick up half of onionslice half of onion, this onionpick up half onionslice half of onionremove excess onionwalk to sinkturn on taprinse sponge"
+"3T2EL38U0LJ8MBFUXXJDIT3XCDTXQZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","39LNWE0K4UV6BTVA5M8IE48T0TIIUF","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:24:20 PDT 2017","Fri Jul 21 11:27:17 PDT 2017","Tue Jul 25 11:27:17 PDT 2017","Mon Jul 24 03:56:47 PDT 2017","","","177","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_14_00.wav","carry bowl to sinkput bowl in sinkturn on taprinse spoonshake off spoonput spoon awayrinse bowlrinse bowlturn off waterput bowl in drying rackshake hands"
+"3MG8450X2N9V5VKKSFT1YHEJDZQPU8","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3JPSL1DZ5SYEALS3WX4JJBSGFPKNAO","A3PU538CX0YDKS","Approved","Fri Jul 21 11:19:20 PDT 2017","Fri Jul 21 11:19:58 PDT 2017","Tue Jul 25 11:19:58 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","38","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_04.wav","pick up spatula
+stir courgette
+pick up courgette
+slice courgette into bin
+slice courgette into pan
+slice courgette into pan
+throw away courgette
+pick up onion
+pick up chopping block
+put down onion
+pick up knife
+slice onion
+slice onion
+drop onion"
+"3X0EMNLXEOOVIA9KX536U3G2R6ZPVX","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3Z9WI9EOZZNSC2FE5QMV85YGYPAKHW","A33VJJ7V3XRYKJ","Approved","Fri Jul 21 12:09:16 PDT 2017","Fri Jul 21 12:10:49 PDT 2017","Tue Jul 25 12:10:49 PDT 2017","Mon Jul 24 03:56:47 PDT 2017","","","93","85% (11/13)","85% (11/13)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_24_01.wav","close cupboards
+put away scissors
+pick up bag
+open bag
+open bag
+put bag in bin"
+"3DWGDA5POE3S1IQIC3SGT7Y4OQTV1Z","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3AZHRG4CU4JB541BMCNBLRIX1MM302","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 12:05:57 PDT 2017","Fri Jul 21 12:10:13 PDT 2017","Tue Jul 25 12:10:13 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","256","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_03_00.wav","open cupboard
+pick up tupperware
+open tupperware
+pick up stone
+place down stone
+pick up tupperware
+close lid
+pick up another tupperware
+place in sink
+turn on tap
+pick up stone
+place stone
+adjust tap
+adjust tap
+test water
+turn off tap
+pick up tupperware
+walk with tupperware
+place down tupperware"
+"3VCK0Q0PO4DFMOWRET2P5LLHXVM0NL","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","30LSNF239UUXRHM8M2YC8LD1H2W2IE","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:44:23 PDT 2017","Fri Jul 21 10:45:40 PDT 2017","Tue Jul 25 10:45:40 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","77","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_04_00.wav","take bottle
+put bottle on bean
+take pan
+place pan on the stove
+turn on stove
+adjust heat stove
+open cabinet
+take oil
+take honey
+take milk
+take porridge
+close cabinet"
+"3H6W48L9F3O8XZ9PNF82G5ZGYF1PW7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","37W3JXSD6675TXZK449MIGNEBSCWYJ","A1BRWW02JVSKB","Approved","Fri Jul 21 08:15:48 PDT 2017","Fri Jul 21 08:19:19 PDT 2017","Tue Jul 25 08:19:19 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","211","100% (1/1)","100% (1/1)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_11.wav","pickup mesh
+pickup pot
+pour broccoli from pot to mesh
+shake mesh
+put mesh on plate
+move mesh
+put mesh onto
+put pan
+open cupboard
+get plate
+put mesh onto plate
+put plate and mesh down
+pickup kettle
+pour water
+from kettle to pot"
+"3O4VWC1GEV5FKQ43IISGEC27RN0J3U","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","30MVJZJNHMC4MCRDPTYRU90F0N0J94","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:56:21 PDT 2017","Fri Jul 21 12:00:02 PDT 2017","Tue Jul 25 12:00:02 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","221","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_05.wav","Put onionPick up chopping boardOpen trash binThrow peelsClose trash binPut chopping boardPut onion on chopping boardPut knifePick up kettleOpen kettleOpen tapFill kettleHold tap andFill kettleClose tapClose kettlePut kettle downSwitch kettle onOpen cupboard"
+"3ZG552ORAL3ZQ38EV7SUYQ89GW7V2G","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","308XBLVESI348TPNVILWN6HWYZJRBQ","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:23:16 PDT 2017","Fri Jul 21 05:28:34 PDT 2017","Tue Jul 25 05:28:34 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","318","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_11_00.wav","Pick up lidPlace lidPick up wooden spoonHold pan andMix meatHold pan andStir meat in pan using wooden spoonStill stiring meatSet timerPut spoonPick up forkPick up some meatTaste meatPut forkHold panPick up wooden spoonStir meatPut wooden spoonSwitch off ovenMove pan"
+"3DWNFENNE2U02MN7IWXZOHUD5NWJ4F","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3UWN2HHPUY4IAHEXDXQA4BMM1VLSNJ","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:51:08 PDT 2017","Fri Jul 21 09:54:29 PDT 2017","Tue Jul 25 09:54:29 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","201","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_06.wav","Put board Put binPut lid on binOpen fridgeTake chickenClose fridgePut chickenOpen drawerGet knifeClose drawerOpen chickenPut chicken on cutting boardSlice chicken"
+"3HKIF5DF6XWR8Q3IRL8N8CDDZNTG94","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","34S9DKFK73OF63Q6C3IZMXANIAJNYI","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:01:56 PDT 2017","Fri Jul 21 05:07:01 PDT 2017","Tue Jul 25 05:07:01 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","305","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_02_02.wav","Take pan Distribute oilTake spactulaTake mugPour omelet on panRinse mugOpen dishwasherPull trayPut mug on dishwasherPush trayClose dishwasherTake slicing trayTake chives"
+"3K8CQCU3KD08UEXC70VACGULY00NW9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3VE8AYVF8MWO35M71B1SFFDCNA18F1","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:54:42 PDT 2017","Fri Jul 21 11:57:41 PDT 2017","Tue Jul 25 11:57:41 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","179","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_15_05.wav","pick up kale
+pick up spoon
+pour water into pan
+mix water
+put down spoon
+pick up salmon
+put salmon in water
+push down salmon
+put salmon in water
+push down salmon
+adjust salmon
+adjust salmon
+adjust salmon
+open oven
+pick up oven gloves"
+"3QQUBC64ZDDNJE22H5RWEZ8S726NX2","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3WJEQKOXA81BWELERA6LM4FDCOL1A0","A33VJJ7V3XRYKJ","Approved","Fri Jul 21 12:10:49 PDT 2017","Fri Jul 21 12:18:54 PDT 2017","Tue Jul 25 12:18:54 PDT 2017","Mon Jul 24 03:56:48 PDT 2017","","","485","85% (11/13)","85% (11/13)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_02_01.wav","put kitchen towel in bin
+pick up lunch box
+place lunch box
+pick up sandwiches
+put sandwiches in lunch  box
+pick up sandwiches
+put in lunch box
+pick up lid
+put lid on lunchbox
+pick up lunchbox
+open fridge
+place lunch box 
+close fridge
+open cupboard
+grab crisp packet
+grab crisp
+put crisp packet
+close cupboard
+open cupboard
+grab chocolate"
+"388FBO7JZQSCJJSCM1DYXDF1980NY8","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:44 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:44 PDT 2017","","","3YT88D1N08XDIU8FQ5XT4BX6FKOK3L","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:39:55 PDT 2017","Fri Jul 21 11:43:11 PDT 2017","Tue Jul 25 11:43:11 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","196","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_23_01.wav","Open salmonPick up foilCut foil Place foilOpen drawerClose drawerOpen drawerGet scissorsCut foil in halfPut scissors in drawerClose drawer Pick up salmonPut salmon on foilPick up salmonPut salmon on foil"
+"38F60IALAFGDH11BBPO1EKR9MD80TM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","31JLPPHS2UTW8LTUOXPMBSEFZPT3OJ","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 10:11:24 PDT 2017","Fri Jul 21 10:17:40 PDT 2017","Tue Jul 25 10:17:40 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","376","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_02.wav","open drawer
+put knife
+put wooden spoon
+close drawer
+wear gloves
+pick up sponge
+open tap
+put liquid
+pick up tupperware
+open tap
+rinse tupperware
+wash tupperware
+still washing tupperware
+open tap
+rinse tupperware
+close tap
+put tupperware
+pick up tupperware
+wash lid
+rinse lid
+put lid
+pick up spoon
+wash spoon
+pick up knife
+wash knife
+pick up knife
+wash knife"
+"35ZRNT9RUHXTL1V0YVKLM8JTQHAO3I","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:50 PDT 2017","","","33TIN5LC049UH1MCBTZU4WF3E7Q9Y2","A123JYV8EGIHA6","Approved","Mon Jul 24 04:59:43 PDT 2017","Mon Jul 24 05:05:36 PDT 2017","Fri Jul 28 05:05:36 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","353","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P11_18_00.wav","open cupboards
+pick up bowl
+close cupboards
+pick up spoon
+put down bowl
+put down spoon
+open fridge
+pick up milk 
+open milk 
+pour milk 
+put away milk 
+pick up cereal
+pour cereal
+pour cereal
+put down cereal
+pick up bowl
+put down bowl
+move mouse"
+"35ZRNT9RUHXTL1V0YVKLM8JTQHAO3I","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:50 PDT 2017","","","3Y5140Z9DXFTJONEO09O4YLUSCTIPM","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 11:53:41 PDT 2017","Fri Jul 21 11:56:48 PDT 2017","Tue Jul 25 11:56:48 PDT 2017","","Mon Jul 24 03:56:49 PDT 2017","No newline between actions (see instructions).","187","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_18_00.wav","Open cupboard.  Pick up bowl.  Close cupboard.  Pick up spoon.  Put down bowl.  Put down spoon.  Open Fridge.  Pick up milk.  Open milk.  Pour milk.  Put away milk.  Pick up cereal.  Pour cereal, pour cereal.  Put down cereal. Pick up bowl.  Put down bowl.  Move mouse."
+"3URJ6VVYUOME3XE4Y9P4WDBZ4H6O43","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3IUZPWIU1O6A9SA30P8V9883DDHWK2","A3PU538CX0YDKS","Approved","Fri Jul 21 11:12:37 PDT 2017","Fri Jul 21 11:15:04 PDT 2017","Tue Jul 25 11:15:04 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","147","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_07.wav","put strainer
+remove leaves from lettuce
+open bin
+throw leaves
+close bin
+put lettuce
+open drawer
+get knife
+remove plastic cover from cucumber
+put cover
+open tap
+wash cucumber
+close tap
+pick up strainer
+wash tomatoes"
+"3VGZ74AYTFFT6OAL35IEA2EL58WGCL","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3OLQQLKKNSOLH8IUX4EDMN1QRK7EJ0","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:44:35 PDT 2017","Fri Jul 21 09:49:50 PDT 2017","Tue Jul 25 09:49:50 PDT 2017","Mon Jul 24 03:56:49 PDT 2017","","","315","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_08.wav","Pick up olive oilAdd olive to bowlPick up mixtureForm mixture into bowlAdd olive oilForm mixture using two hands into bowlPick up mixtureSpread olive oilAdd olive oil to surfaceSpread olive oilForm bowl from mixture"
+"36D1BWBEHM0G0GE5HFR3BUPWP3W2M7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3TR2532VIPTH4TPFRMVFAZ9DAMI6J6","A37M5A56UNVLI9","Approved","Fri Jul 21 09:25:24 PDT 2017","Fri Jul 21 09:27:44 PDT 2017","Tue Jul 25 09:27:44 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","140","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_21.wav","put spoon on side
+grab 
+put stuff
+wash can
+grab lid
+wash lid
+put lid in can 
+turn off tap
+put can on side
+open lid
+close lid
+grab can
+put can
+grab knife"
+"3ZXNP4Z39QK3GZTQNF7J78RF0ERL73","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3Z3ZLGNNSITZTX6A3AHQ0X9FEL13Q7","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:20:35 PDT 2017","Fri Jul 21 05:23:11 PDT 2017","Tue Jul 25 05:23:11 PDT 2017","Mon Jul 24 03:56:40 PDT 2017","","","156","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_20_01.wav","Put saucepanTake saucepanScoop foodSpoon foodPut down saucepanPick up lidPut lid"
+"3NRZ1LDP7V5CRUEUY2S9F9TYFH5PZX","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","30H4UDGLT2HFF7D59F7GWRSB9LGPMC","A3PU538CX0YDKS","Approved","Fri Jul 21 12:12:30 PDT 2017","Fri Jul 21 12:15:07 PDT 2017","Tue Jul 25 12:15:07 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","157","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_04.wav","pick up knife
+pick up scissors
+open onion bag
+pick up onion
+pick up another onion
+put onion on chopping board
+open trash bin 
+throw onion
+return scissors
+pick up knife
+chop end of onion
+peel onion
+chop end of onion
+peel onion"
+"30P8I9JKOHKRP0R1DQUSWXBL06YV5H","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3483FV8BEEIHYXR7K1PNBINW8BH624","A7F176Y07MZRR","Approved","Fri Jul 21 07:42:01 PDT 2017","Fri Jul 21 07:44:22 PDT 2017","Tue Jul 25 07:44:22 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","141","100% (4/4)","100% (4/4)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_35.wav","put food on spoonopen drawer get forkpick up a bit of meat using forktaste meatput forklower heatpick up lidput lidset off timer"
+"3YO4AH2FPCJ0PL9JULU69FGM268Q0X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","30X31N5D63PBQYK84TL5I52M34EAS6","A3NUR2RQ5E6LTY","Rejected","Mon Jul 24 05:23:44 PDT 2017","Mon Jul 24 05:24:42 PDT 2017","Fri Jul 28 05:24:42 PDT 2017","","Thu Jul 27 02:34:16 PDT 2017","Poor quality – didn't match ground truth test.","58","0% (0/2)","0% (0/2)","0% (0/2)","http://bristolengineeringsurvey.esy.es/audio/P11_11_01.wav","walk
+doesn't close coverage
+turn on water
+rinse scissors
+scrub scissors
+rinse scissors
+shake off scissors
+put away scissors
+rinse hands
+shake off hands"
+"3YO4AH2FPCJ0PL9JULU69FGM268Q0X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","32KTQ2V7RDEUNKXYSQBJA1SW5F1M9E","AAHORLT31XGJV","Submitted","Fri Jul 28 02:48:21 PDT 2017","Fri Jul 28 02:51:09 PDT 2017","Tue Aug 01 02:51:09 PDT 2017","","","","168","0% (0/0)","0% (0/0)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_11_01.wav","walk
+close cupboard
+turn on water
+rinse scissors
+scrub scissors
+rinse scissors
+shake off scissors
+put away scissors
+rinse hands
+shake off hands"
+"3YO4AH2FPCJ0PL9JULU69FGM268Q0X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","3R5F3LQFV2JXTE0N94KVFTJUEKZOZ8","A3PU538CX0YDKS","Rejected","Fri Jul 21 11:59:23 PDT 2017","Fri Jul 21 12:01:11 PDT 2017","Tue Jul 25 12:01:11 PDT 2017","","Mon Jul 24 03:56:50 PDT 2017","Poor quality (didn't match ground truth example).","108","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_11_01.wav","work
+doesn't close cupboards
+turn on water
+rinse scissors
+scrub scissors
+rinse scissors
+shake off scissors
+put away scissors
+rinse hands
+shake off hands"
+"3YO4AH2FPCJ0PL9JULU69FGM268Q0X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","3WZ36BJEV3FHO82FZ7QRNLIENKRTBH","AYA56ADE84SWQ","Rejected","Thu Jul 27 03:11:54 PDT 2017","Thu Jul 27 03:16:54 PDT 2017","Mon Jul 31 03:16:54 PDT 2017","","Fri Jul 28 02:14:21 PDT 2017","No newline between instructions.  Poor quality.","300","0% (0/2)","0% (0/2)","0% (0/2)","http://bristolengineeringsurvey.esy.es/audio/P11_11_01.wav","Walk, close cupboards; turn on water; rinse scissors; scrub scissors; rinse scissors; shake off scissors; put away scissors; rinse hands; shake off hands."
+"3E24UO25QYPSIKIIHXIJTBVD08CO6O","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3HMVI3QICJRCSWJH7GK1PQXKFFB1YX","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:28:01 PDT 2017","Fri Jul 21 09:34:02 PDT 2017","Tue Jul 25 09:34:02 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","361","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_19.wav","Pick up olive oil bottlePour olive oil in platePut olive oil bottleOpen jarScoop thymePut thyme in plateMix thyme and olive oil in plateScoop thyme and olive oil using handPut thyme and olive oil on doughScoop thyme and olive oil using handPut thyme and olive oil on doughPut platePick up tray"
+"3X4Q1O9UBGLBMKWN07NBZPV9VJWO7N","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:51 PDT 2017","","","34BBWHLWHAAJ3XKF0MNJWSTQL9YWIX","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:08:59 PDT 2017","Fri Jul 21 12:10:40 PDT 2017","Tue Jul 25 12:10:40 PDT 2017","","Mon Jul 24 03:56:50 PDT 2017","No newline between actions (see instructions).","101","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_02_00.wav","Open the bin.  Pick up the bag.  Tie the bag.  Tie the bag again.  Pickup bag.  Put bag down.  Close drawer.  Open drawer.  Pick up bag.  A new bag.  Stretch the new bag.  Open the new bag.  Put bag into the bin.  Stretch bag.  Close the trash bin."
+"3X4Q1O9UBGLBMKWN07NBZPV9VJWO7N","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:51 PDT 2017","","","37QW5D2ZRGLX7ART7V1RMEWRDGES8K","AE1UDGB29G7X7","Approved","Mon Jul 24 05:36:05 PDT 2017","Mon Jul 24 05:40:23 PDT 2017","Fri Jul 28 05:40:23 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","258","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P02_02_00.wav","Open the bin
+Pick up the bag
+Tie the bag
+Tie the bag again
+Pick up bag
+Put bag down
+Close drawer
+Open drawer
+Pick up bag
+A new bag
+Stretch the new bag
+Open the new bag
+Put bag into the bin
+Stretch bag
+Close the trash bin"
+"3FO95NVK5BZ02V8VG22QOBWATKTSRN","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3WI0P0II61RXNQN79EC2IW5W1PARDM","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 12:02:49 PDT 2017","Fri Jul 21 12:05:22 PDT 2017","Tue Jul 25 12:05:22 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","153","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_19.wav","look around
+pick up bags
+open trash can
+throw bags
+pick up water filter
+pick up cup
+fill water
+drink water
+close cupboard
+open tap
+hold and fill water filter
+close tap
+put water filter"
+"3Y40HMYLL0H0E4MBE63ISU0MFYZXU4","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3E337GFOL97FKC56IXWTFX3JDKFNGI","A14EPEMGRA4FK6","Approved","Fri Jul 21 07:48:52 PDT 2017","Fri Jul 21 07:51:17 PDT 2017","Tue Jul 25 07:51:17 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","145","100% (5/5)","100% (5/5)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_24_02.wav","OPEN DRAWER
+GRAB KNIFE
+CLOSE DRAWER
+CUT POTATOES
+GRAB OIL
+OPEN OIL
+PUT SAUCEPAN ON PAN
+POUR OIL
+GRAB SPOON 
+TURN DOWN FAN
+MOVE POTATOES"
+"3GITHABACXKMIYZ5TG63O9EWUT62N7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3IJXV6UZ1XIEV13T1SDD9TL9TU3RI9","A35RQEPHNHWXSL","Approved","Fri Jul 21 08:39:07 PDT 2017","Fri Jul 21 08:46:16 PDT 2017","Tue Jul 25 08:46:16 PDT 2017","Mon Jul 24 03:56:50 PDT 2017","","","429","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_10.wav","Get bowl of doughGet some oilKnead bowl of doughRoll bowl of doughGet some oilRoll bowl of doughPut bowl of doughGet some oilSpread oil on handGet bowl of doughKnead bowl of doughGet some oil Knead bowl of doughKnead bowl of doughPick up oil bottlePour oil bottle into platePut bottle of oilGet some oilSpread oil on hand"
+"3ZQX1VYFTC4FMY16ACFHDPR4632O8A","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3X66WABAJWH8G8CW0ECE6J5D8373G1","A3PU538CX0YDKS","Approved","Fri Jul 21 11:36:13 PDT 2017","Fri Jul 21 11:38:27 PDT 2017","Tue Jul 25 11:38:27 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","134","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_15.wav","put back
+close drawer
+close drawer
+close freezer
+pick up tray
+open bin
+close bin
+open oven
+put tray
+close oven
+set timer
+open cupboard
+get vinegar
+get herbs
+get herb
+put herb on salad
+sprinkle herb
+sprinkle another herb
+put herb"
+"3LAZVA75NHQ40JZHUV6G3YE1K3B2OM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3E47SOBEYQVAPZEAJVNIKYMNTT7IC1","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:21:49 PDT 2017","Fri Jul 21 10:26:04 PDT 2017","Tue Jul 25 10:26:04 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","255","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P09_06_01.wav","open cabinettake oilrinse handsdry handsput oil on panput oil on panclose bottleplace oil on cabinetclose cabinettake panadd chicken to the pantake a spatula on panmove chicken"
+"3XAOZ9UYRYQ0WAU1Q4Y6NKZW7YEQ10","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","32KTQ2V7RDEUNKXYSQBJA1SW4HZ9M2","A1EA1LCQJOQ7W1","Approved","Fri Jul 21 12:17:16 PDT 2017","Fri Jul 21 12:21:03 PDT 2017","Tue Jul 25 12:21:03 PDT 2017","2017-07-25 19:21:27 UTC","","","227","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_06_08.wav","Close tap.  Pick up shopping board.  Put chopping board. But strainer on chopping board.  Pick up lettuce.  Remove leaves from lettuce. Put leaves in strainer.  Remove leaf.  Put leaf.  Remove leaf.  Put leaf.  Remove leaf.  Put leaf. Remove leaf.  Put leaf. Open trash bin.  Throw close trash bin.  Pick up strainer.  Wash lettuce.  Close tap.  Shake strainer.  Pick up chopping board."
+"3DGDV62G7N8MLJBI9VJVSYJRU872P3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3PQ8K71NHXJ7Q2YENTZEX58GGINAAT","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:46:06 PDT 2017","Fri Jul 21 11:49:25 PDT 2017","Tue Jul 25 11:49:25 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","199","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_02_03.wav","Take knifeSlice chivesSlice chivesOpen fridgeTake cheeseClose fridgeCut cheeseCut cheeseOpen fridgePlace cheese in fridgeClose fridgeTake a spatulaFlip omeletAdd chives to omelet"
+"3S8A4GJRD22N84RFI94XO3PLW19V6X","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3X73LLYYQ1DTK80H23EB0XFKSK8NHX","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:48:56 PDT 2017","Fri Jul 21 10:49:59 PDT 2017","Tue Jul 25 10:49:59 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","63","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_02_04.wav","close top
+put plate into drainer
+empty the sink
+remove gloves
+pick up water filter
+open tap while holding the water filter
+fill water filter
+close tap
+carry water filter
+put water filter down"
+"3LXX8KJXPV8F03KGF4LVDLMFQ9KO9Z","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3QIYRE09Y3GIGXF30EBQ8AZDBVGN12","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:50:06 PDT 2017","Fri Jul 21 11:51:49 PDT 2017","Tue Jul 25 11:51:49 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","103","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_08_02.wav","take porridge
+add some porridge
+place porridge on cabinet
+place honey on cabinet
+close door
+add water
+place bowl on table"
+"33QQ60S6ARHSHEG0BUEBJGDB5RF0UD","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3SEPORI8WNY8RA6MZLFDEYZPP3ZAZZ","A3PU538CX0YDKS","Approved","Fri Jul 21 12:16:12 PDT 2017","Fri Jul 21 12:16:50 PDT 2017","Tue Jul 25 12:16:50 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","38","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_20_07.wav","*BLANK CLIP*"
+"3JUDR1D0D5Q7LVCX98YKS391Z4T2QU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","35DR22AR5DJJ2U7MPOCIU558BT0X3K","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:56:39 PDT 2017","Fri Jul 21 10:59:53 PDT 2017","Tue Jul 25 10:59:53 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","194","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_04_01.wav","pick up knife
+ford sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+apply water
+change blade angle
+change blade sides
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening
+sharpening"
+"3SX4X51T8Z8T5MUL7AZV9GXZWR2OAE","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3YT88D1N08XDIU8FQ5XT4BX6FKRK3O","A35RQEPHNHWXSL","Approved","Fri Jul 21 12:02:43 PDT 2017","Fri Jul 21 12:11:12 PDT 2017","Tue Jul 25 12:11:12 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","509","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_07_01.wav","Open cupboardPick up platePut plateOpen fridgeGet mayoOpen mayoRemove somethingRemove coverOpen trash binThrow coverClose trash binClose mayoOpen mayoPut mayonnaise onto plateSqueeze mayonnaiseClose mayonnaiseOpen cupboardReturn mayonnaisePick up ketchupOpen ketchupSqueeze ketchup into plateClose ketchupOpen fridgeReturn ketchupClose fridgeOpen drawerGet spoonMix mayonnaise and ketchup in plateHold plate andMix mayonnaise and ketchup in plate"
+"3JUDR1D0D5Q7LVCX98YKS391Z4SQ2H","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","31LVTDXBL79GL2BZMVAQ19D1AYARL0","A3PU538CX0YDKS","Approved","Fri Jul 21 11:48:54 PDT 2017","Fri Jul 21 11:56:42 PDT 2017","Tue Jul 25 11:56:42 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","468","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_16.wav","roll ball of dough
+put ball of dough
+get some oil
+spread oil on hand
+get ball of dough
+kneed ball of dough
+get some oil
+roll ball of dough
+put ball of dough
+get some oil
+spread oil on hand
+get ball of dough
+get some oil
+spread oil on hand
+kneed ball of dough
+roll
+put ball of dough
+get meat mix
+put meat mix on dough
+get meat mix from pan
+put meat mix on dough
+get mix meat from pan
+put meat mix on dough"
+"3FK4G712NWZC3A88VR2VEL16FMCSSB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","31QTRG6Q2TCF9O2JSIVRQMFIIRKYPT","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:55:45 PDT 2017","Fri Jul 21 06:00:55 PDT 2017","Tue Jul 25 06:00:55 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","310","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_20.wav","Stir onion and garlic in pan using wooden spoonHold pan andStir onionMove knifePick meatPut meat into panBreak meat into pieces andPut meat in panPick up meatBreak meat into pieces andPut meat in panBreak meat into pieces andPut meat in panPick up spoonStir meat"
+"3BFF0DJK8WBDIALNKR7LOQXSH5QST0","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","3","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Thu Aug 03 02:34:16 PDT 2017","","","3G0WWMR1UVJ6X1ZKLT159B7LKNRNQD","AE1UDGB29G7X7","Rejected","Mon Jul 24 05:21:41 PDT 2017","Mon Jul 24 05:31:10 PDT 2017","Fri Jul 28 05:31:10 PDT 2017","","Thu Jul 27 02:34:16 PDT 2017","Poor quality – didn't match ground truth test.","569","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P11_22_01.wav","Open cover it
+Close cover it
+Open cover it
+Pick up bowl
+Put down bowls
+Open oven
+Put on oven gloves
+Take out fish cakes
+Pick up fork
+Push fish cake into bowl
+Push fish cake into bowl
+Push fish cake into bowl
+Push fish cake into bowl
+Put tray back in oven"
+"3BFF0DJK8WBDIALNKR7LOQXSH5QST0","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","3","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Thu Aug 03 02:34:16 PDT 2017","","","3I7DHKZYGNZ5GN353DUP3V3LMF45FR","A998KMG1CUMH6","Approved","Thu Jul 27 06:23:46 PDT 2017","Thu Jul 27 06:26:08 PDT 2017","Mon Jul 31 06:26:08 PDT 2017","Fri Jul 28 02:14:21 PDT 2017","","","142","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_22_01.wav","open cupboards
+close cupboards
+open cupboards
+pick up bowl
+put down bowls
+open oven
+put on oven gloves
+take out fish cakes
+pick up fork
+push fish cake into bowl
+push fish cake into bowl
+push fish cake into bowl
+push fish cake into bowl
+put tray back in oven"
+"3BFF0DJK8WBDIALNKR7LOQXSH5QST0","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","3","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Thu Aug 03 02:34:16 PDT 2017","","","3R2UR8A0IAF8OJ088MWAI83J6K1XOK","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:00:25 PDT 2017","Fri Jul 21 12:01:03 PDT 2017","Tue Jul 25 12:01:03 PDT 2017","","Mon Jul 24 03:56:51 PDT 2017","No newline between actions (see instructions).","38","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_22_01.wav","Open cupboard.  Close cupboard.  Open cupboard.  Pick up bowl.  Put down bowls.  Open oven.  Put on oven gloves.  Take out fish cakes.  Pick up fork.  Push fish cake into bowl.  Push fish cake into bowl.  Push fish cake into bowl.  Push fish cake into bowl.  Put tray back in oven."
+"33J5JKFMK5XW6D8GD8CPBDET5ISQ3S","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3IUZPWIU1O6A9SA30P8V9883DDIKWR","A3PU538CX0YDKS","Approved","Fri Jul 21 11:20:05 PDT 2017","Fri Jul 21 11:22:14 PDT 2017","Tue Jul 25 11:22:14 PDT 2017","Mon Jul 24 03:56:51 PDT 2017","","","129","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_19_00.wav","open cupboards
+pick up plates
+pick up knife
+put down plates
+put down knife
+open fridge
+open drawer
+pick up bread
+open bread
+take out bread
+close bread
+open fridge
+put away bread
+close fridge
+pick up knife
+open bread
+put down bread
+open hummus"
+"3J94SKDEKHO5VJRFM5UYQB5E0ZV5DT","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3U5JL4WY5K84KQQQP2H14AXEPT64XM","A3PU538CX0YDKS","Approved","Fri Jul 21 12:18:13 PDT 2017","Fri Jul 21 12:19:27 PDT 2017","Tue Jul 25 12:19:27 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","74","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_10.wav","measure pasta
+put away pasta
+pick up measuring jug
+take off lid
+pour pasta into pot
+put lid back on
+open cupboards
+put away measuring jug
+put away pasta
+put away measuring jug
+close cupboards
+set oven timer"
+"3S4TINXCCZMYOWZDDOZR4RH5E9NOB9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3R0T90IZ1SBWT88FT7NFZM97EGICG6","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:59:57 PDT 2017","Fri Jul 21 11:02:05 PDT 2017","Tue Jul 25 11:02:05 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","128","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_30.wav","cleaning sink
+still cleaning sink using sponge
+open tap
+wash sponge
+put sponge
+pick sponge
+pick washing liquid
+pour washing liquid
+pick glass
+wash glass
+pick spoon
+wash spoon
+pick spoon
+wash spoon
+pick spoon
+wash spoon
+put spoon
+pick glass
+open tap 
+rinse glass
+wash glass"
+"3EAWOID6MSWSUT50GKOGF2FUJYO0V2","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:52 PDT 2017","","","3EG49X351UBIZDU48QAG18HSM0QX6B","A3HGDDH6ILDHC5","Approved","Mon Jul 24 05:37:09 PDT 2017","Mon Jul 24 05:45:55 PDT 2017","Fri Jul 28 05:45:55 PDT 2017","Thu Jul 27 02:34:15 PDT 2017","","","526","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_03_01.wav","close cupboard
+close cupboard
+put pot on stove
+pick up chopping board
+put chopping board
+open fridge
+pick up yogurt
+put yogurt
+pick up broccoli
+get scissors
+open plastic cover using scissors
+remove plastic cover
+open trash bin
+throw cover
+close trash bin
+open cap
+rinse broccoli"
+"3EAWOID6MSWSUT50GKOGF2FUJYO0V2","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:52 PDT 2017","","","3Z3ZLGNNSITZTX6A3AHQ0X9FEQLQ3O","AYLAJHJXMPIBM","Rejected","Fri Jul 21 12:13:14 PDT 2017","Fri Jul 21 12:14:33 PDT 2017","Tue Jul 25 12:14:33 PDT 2017","","Mon Jul 24 03:56:52 PDT 2017","No newline between actions (see instructions).","79","0% (0/1)","0% (0/1)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_01.wav","remove plasting cover"
+"34R0BODSP0YANP5FI05IWTNZ0BW5EM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","33TIN5LC049UH1MCBTZU4WF3E7R9Y3","A3NUR2RQ5E6LTY","Rejected","Mon Jul 24 05:20:04 PDT 2017","Mon Jul 24 05:20:46 PDT 2017","Fri Jul 28 05:20:46 PDT 2017","","Thu Jul 27 02:34:16 PDT 2017","Poor quality – didn't match ground truth test.","42","0% (0/2)","0% (0/2)","0% (0/2)","http://bristolengineeringsurvey.esy.es/audio/P11_16_06.wav","Intense
+Check oven timer"
+"34R0BODSP0YANP5FI05IWTNZ0BW5EM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","36U2A8VAG1YEYX53FQQJU5TJPGIYKV","AYA56ADE84SWQ","Rejected","Thu Jul 27 03:17:17 PDT 2017","Thu Jul 27 03:17:49 PDT 2017","Mon Jul 31 03:17:49 PDT 2017","","Fri Jul 28 02:14:21 PDT 2017","No newline between instructions.  Poor quality.","32","0% (0/2)","0% (0/2)","0% (0/2)","http://bristolengineeringsurvey.esy.es/audio/P11_16_06.wav","Rinse hands; check over timer."
+"34R0BODSP0YANP5FI05IWTNZ0BW5EM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","39OWYR0EPKQ3IBDPEFZMES1EHNAYF8","AA4UZ431U2ES4","Submitted","Fri Jul 28 02:45:56 PDT 2017","Fri Jul 28 02:50:15 PDT 2017","Tue Aug 01 02:50:15 PDT 2017","","","","259","0% (0/0)","0% (0/0)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_16_06.wav","in suns shout up in tamil"
+"34R0BODSP0YANP5FI05IWTNZ0BW5EM","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","4","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Aug 04 02:14:22 PDT 2017","","","3WSELTNVR31C5YXNTTQVSAY847AATG","A3TX2KJ7VJG3N0","Rejected","Fri Jul 21 12:01:28 PDT 2017","Fri Jul 21 12:02:39 PDT 2017","Tue Jul 25 12:02:39 PDT 2017","","Mon Jul 24 03:56:52 PDT 2017","Poor quality (didn't match ground truth example).","71","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_16_06.wav","false hands
+check oven timer"
+"3BAWBGQGYKY6C45K1J9PUHPHRCTV7W","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3XC1O3LBOSLT1HORQKFL1OEJYJBLTB","A2HCJ21MPFU20O","Approved","Fri Jul 21 12:11:43 PDT 2017","Fri Jul 21 12:13:23 PDT 2017","Tue Jul 25 12:13:23 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","100","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_12.wav","put meat on bowl of doughsqueezeget some meat, put meat on bowl of doughget some meat, put meat on bowl of doughget meat put meat on bowl of doughget meat mix put meat on bowl of doughget meat mix put meat on bowl of doughget meat mix put mix on bowl of dough"
+"3DW3BNF1GGHACIA3BO1V8HLC2WZV8J","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3QBD8R3Z21IHQHCYOBU5LX6LDPV4OB","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:43:26 PDT 2017","Fri Jul 21 11:45:57 PDT 2017","Tue Jul 25 11:45:57 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","151","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_14_00.wav","Turn on hobOpen fridgeGrab sauce panClose fridgeOpen lidClose lid andPut sauce pan downTurn sauce panTurn lidGrab sauce panPut sauce pan on hobOpen cupboardGrab rice"
+"3SBX2M1TKCMHO9RKDMH8LI6ZJIOQ4D","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3PEIJLRY6TSGTS9AZ8NKZ2G59K5XWX","APILOZNIFB92X","Approved","Fri Jul 21 07:05:40 PDT 2017","Fri Jul 21 07:12:08 PDT 2017","Tue Jul 25 07:12:08 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","388","100% (1/1)","100% (1/1)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_15_01.wav","Place tupperwarepickup liddry lidhold and dry lidclose tupperwarepickup two tupperwaresplace tupperwaresopen fridgemove remove salad from fridgeput salad platemove stuff in fridgemove eggs in fridgeput tupperware in fridge"
+"31JUPBOORM37GDY9XKZPL8NABYXL8Q","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","35GCEFQ6I5N87P71Q603RQLJJTUZ3F","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:59:08 PDT 2017","Fri Jul 21 10:00:35 PDT 2017","Tue Jul 25 10:00:35 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","87","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_05_04.wav","Put spatulaTurn down heatPut spoonPick up glassPut glassTurn down hob"
+"3K3G488TR17ZKSVKRR0IQACDJEJQ5I","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3L4D84MILZRX1I9WN5MJ7QY3J1GJH4","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 12:24:56 PDT 2017","Fri Jul 21 12:28:23 PDT 2017","Tue Jul 25 12:28:23 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","207","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_15_02.wav","remove packaging
+remove packaging
+throw away packaging
+pick up measuring jug
+shake out measuring jug
+put away measuring jug
+pick up lids
+move pans
+pick up chopping block
+move salmon
+open leeks
+put leeks in sink
+throw away packaging"
+"3CMIQF80GMPV3WVYWAANIGQDF9UQ6Y","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:45 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:45 PDT 2017","","","3NC5L260MOLROX9N8SQOC13C2FAOFP","A3PU538CX0YDKS","Approved","Fri Jul 21 12:19:28 PDT 2017","Fri Jul 21 12:22:06 PDT 2017","Tue Jul 25 12:22:06 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","158","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_08.wav","put pine nuts in pan
+add pine nuts to pan
+open fridge
+return pine nuts
+close fridge
+move tray
+pick up plate
+open microwave
+put plate in microwave
+close microwave
+unplug
+unplug
+unplug
+move plug
+plug into socket
+switch microwave on"
+"3YGE63DIN7W59I556UTC14Y8Q7Q0WC","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","320DUZ38G7LJ1MEL3Z41MQM240XGJU","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:08:08 PDT 2017","Fri Jul 21 12:09:36 PDT 2017","Tue Jul 25 12:09:36 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","88","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_04_05.wav","Rinse sharpening standShake off sharpening standPlace sharpening stand on counterPick up sharpening guideWashDryPlace on dry rackShake off handsPick up knifeShake off knifePut away knife"
+"3MGHRFQY2KO9YN05LVB0M1JO1FQ0YB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3NJM2BJS4W526L1EWQD2TVNZF78CPD","A3PU538CX0YDKS","Approved","Fri Jul 21 11:46:07 PDT 2017","Fri Jul 21 11:48:53 PDT 2017","Tue Jul 25 11:48:53 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","166","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_12.wav","still pouring water
+put kettle down
+read the recipe on pasta
+put pasta down
+pick up scissors
+cut pasta bag
+switch stove on
+pour pasta into pot
+close pasta bag
+set timer on
+open fridge
+put pasta bag in fridge
+close fridge
+pick up plate from microwave
+close microwave"
+"3XU9MCX6VNB7XWRXMNNKXTJ6VQV2RV","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3B3WTRP3DB14GGT5I8SZVSEYYC429Q","A37M5A56UNVLI9","Approved","Fri Jul 21 09:29:51 PDT 2017","Fri Jul 21 09:30:48 PDT 2017","Tue Jul 25 09:30:48 PDT 2017","Mon Jul 24 03:56:52 PDT 2017","","","57","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_23.wav","turn down heat
+pick up glass
+put glass
+turn down heat"
+"3XQ4XW3OD8BJYBRA1CNPN3O2HSE2SJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3HMIGG0U4L5U3W3261TG40KSTLN8YU","A3PU538CX0YDKS","Approved","Fri Jul 21 11:04:19 PDT 2017","Fri Jul 21 11:07:50 PDT 2017","Tue Jul 25 11:07:50 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","211","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_11_00.wav","open drawer
+grab tongs
+close drawer
+remove pancake
+place pancake
+remove pancake
+place pancake
+flip tongs
+open butter
+pick up knife
+get butter
+spread butter
+spread more butter
+close butter
+cut knife
+pick up butter
+open fridge
+place butter
+close fridge"
+"3TLFH2L6Y8NKDB4PQCSFX8KOJBS2T8","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","39KFRKBFINUXOOQIDIIC1MAS8QIYOE","A3FY6THWKRYN9M","Approved","Fri Jul 21 08:52:39 PDT 2017","Fri Jul 21 08:56:09 PDT 2017","Tue Jul 25 08:56:09 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","210","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P09_06_04.wav","Wash knife
+Rinse knife
+Place knife on dryer
+Take slicing table
+Rinse slicing table
+Wash slicing table
+Wash slicing table
+Rinse slicing table
+Place the slicing table into the dryer. 
+Take a spatula
+Move chicken 
+Move chicken"
+"3UQ1LLR2697LZ1ROUIJ3HZT51MXLAU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3IQ1VMJRYTJTLJO9VNLE1AXWAVIA9H","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:15:45 PDT 2017","Fri Jul 21 05:20:28 PDT 2017","Tue Jul 25 05:20:28 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","283","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_19_05.wav","Put bottle in fridgeOpen bottleFill bottleClose lidShake bottleTurn down hobOpen bottlePour out bottleFill bottleTurn off tapClose bottlePut bottle in fridgeClose fridgeTurn on tapOpen cupboardPut plateGrab cutting boardGrab platesOpen cupboardPut cutting board"
+"3HA5ODM5K9RSV2PCPM70P8LDEQ6SVG","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","32KTQ2V7RDEUNKXYSQBJA1SW4HM9MP","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 09:40:51 PDT 2017","Fri Jul 21 09:50:26 PDT 2017","Tue Jul 25 09:50:26 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","575","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_12_00.wav","hold panmove panopen cupboardpickup herbopen herbsprinkle herb on meatsprinkle herb on meatclose herbput herbopen drawerget spoon open fridgepickup yogurtput yogurtput spoonpick up the honeyopen the honeypick up spoon mix the honey"
+"3OWZNK3RYKOZDOJEQHIP246Q2PZ2UZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:54 PDT 2017","","","35H6S234SAZ9XUAU2KRL9PQ8SLX56T","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 11:53:30 PDT 2017","Fri Jul 21 11:53:34 PDT 2017","Tue Jul 25 11:53:34 PDT 2017","","Mon Jul 24 03:56:53 PDT 2017","No newline between actions (see instructions).","4","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_11_00.wav","Remove Packaging, remove packaging.  Throw away packaging.  Pick up measuring jug.  Shake out measuring jug.  Put away measuring jug.  Pick up lid.  Move patterns.  Pick up chopping block.  Move salmon.  Open leeks.  Put leeks in sink. Throw away packaging."
+"3OWZNK3RYKOZDOJEQHIP246Q2PZ2UZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:54 PDT 2017","","","3QAVNHZ3EM3OMLPIKKO46JORBA3LA0","A123JYV8EGIHA6","Approved","Mon Jul 24 04:51:34 PDT 2017","Mon Jul 24 04:54:54 PDT 2017","Fri Jul 28 04:54:54 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","200","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P11_11_00.wav","open cupboards
+open cupboards
+take out plates
+put down plates
+open oven
+put on oven gloves
+remove pizza
+put pizza on plate
+put oven tray back
+close oven
+put away oven gloves
+pick up scissors
+cut pizza
+cut pizza
+cut pizza"
+"3Z33IC0JCZLAQNTDGG798DGNM2HV98","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","354P56DE9K2T7WMAXQ9L8E0W1GHS79","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 10:17:49 PDT 2017","Fri Jul 21 10:22:10 PDT 2017","Tue Jul 25 10:22:10 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","261","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_03.wav","put flour down
+pick up spoon
+open sugar jar
+scoop sugar
+put one spoon two spoons of sugar into bowl
+put sugar jar
+close sugar jar
+put spoon
+pick up salt
+pick up spoon
+pour salt into spoon
+empty spoon in bowl
+put salt
+put spoon
+pick up yeast
+read yeast recipe
+open yeast"
+"363A7XIFV3LOV63I8ML948R7SKZVAN","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3R2PKQ87NW7NYLQ1WKHWNURZN7AIMI","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:06:09 PDT 2017","Fri Jul 21 10:08:37 PDT 2017","Tue Jul 25 10:08:37 PDT 2017","Mon Jul 24 03:56:53 PDT 2017","","","148","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_24_10.wav","grab plateput salmon on plateput down spoongrab foilput foil in binput oven mitts on ovenopen drawergrab cutlery close drawer"
+"31GN6YMHLOR5ARPHFWCWBA4RLZ8SWQ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","39K0FND3AHE8S373KWPJ6W3GA0MMA1","A3PU538CX0YDKS","Approved","Fri Jul 21 12:26:55 PDT 2017","Fri Jul 21 12:32:14 PDT 2017","Tue Jul 25 12:32:14 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","319","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_22.wav","cut knife
+open drawer
+put counter
+close drawer
+grab almonds
+grab drink
+put drink
+turn up heat
+clean side
+put side in bin"
+"386659BNTKGC8HP2964R8E8EUUH10E","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3C6FJU71TQSS1TAF94UL0S2HQCAYUV","A35RQEPHNHWXSL","Approved","Fri Jul 21 09:57:24 PDT 2017","Fri Jul 21 09:59:01 PDT 2017","Tue Jul 25 09:59:01 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","97","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_18_00.wav","Open fridgePut grapes in fridgeClose fridgePut grapes in binTurn on tapWash handsTurn off tapDry hands"
+"3MNJFORX8A32T35BDBPOEB8ZCCB5F4","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3QIYRE09Y3GIGXF30EBQ8AZDBV9N1V","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:03:13 PDT 2017","Fri Jul 21 10:06:09 PDT 2017","Tue Jul 25 10:06:09 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","176","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_19_10.wav","put lunch boxgrab glasswash glassput glasswash forkput forkwash knifewash forkput knife and forkwash knifeput knifewash knifeput knifeput spongeturn on tap"
+"3I6NF2WGIFV87316OVV6WW8BDRB5G3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3QAPZX2QN4CMKM5SIC962HD5V8G20K","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:54:40 PDT 2017","Fri Jul 21 10:56:24 PDT 2017","Tue Jul 25 10:56:24 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","104","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_06.wav","put kettle down
+pick up glass
+pour the water into bowl
+put glass down
+mix bowl
+mix mixture into bowl
+mix mixture in bowl using spoon
+still mixing mixture
+still mixing mixture
+remove remainder of mixture from spoon
+mix mixture using hand"
+"3TUOHPJXYGWD68BG96IJAILJ0EAXW3","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","31JLPPHS2UTW8LTUOXPMBSEFZP13OR","A3PU538CX0YDKS","Approved","Fri Jul 21 12:01:31 PDT 2017","Fri Jul 21 12:07:46 PDT 2017","Tue Jul 25 12:07:46 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","375","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_22.wav","place pine nuts
+add pine nuts to pie
+pick up pine nuts from hand
+put pine nuts on pie
+put pine nuts on pie
+pick up pine nuts bag
+pour pine nuts bag into hand
+put pine nuts bag
+add pine nuts to pie
+add pine nuts to pie
+add pine nuts to pie
+add pine nuts to pie"
+"3DZKABX2ZH4COL0GS0H0A3HVSNKVCP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3UN61F00HWO2JD8EU8UJKKH4O8RR5T","A14EPEMGRA4FK6","Approved","Fri Jul 21 07:52:11 PDT 2017","Fri Jul 21 07:52:19 PDT 2017","Tue Jul 25 07:52:19 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","8","100% (5/5)","100% (5/5)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_19_11.wav","RINSE HANDS
+TURN OFF TAP
+DRY HANDS
+MOVE SAUCEPAN"
+"32K26U12DMNMTD6USWCBU9ZDDNWVDP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3CPLWGV3MOY052IY4RQJNGHW977N9E","A1BU0N2E6HM9YZ","Approved","Fri Jul 21 12:09:41 PDT 2017","Fri Jul 21 12:11:33 PDT 2017","Tue Jul 25 12:11:33 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","112","100% (8/8)","100% (8/8)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_15_06.wav","take out trayput pot in ovenclose oven doorset timerpick up potput water in potpour water in kettleturn on kettleput pot on hubopen cupboardsopen cupboardsput away platesput away bowlput away bowl"
+"3JTPR5MTZRBD9PXPEMGLUO04K8S5K6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3TUI152ZZBM3JUSVG637C4UIG6XQ1M","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 10:22:15 PDT 2017","Fri Jul 21 10:26:24 PDT 2017","Tue Jul 25 10:26:24 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","249","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_21.wav","add olive oil and thyme to dough
+pour olive oil and thyme from plate to dough
+put plate
+scoop thyme using spoon
+add thyme to dough
+pour thyme from plate to dough
+put plate in sink
+open tap
+wash hands
+pick up towel
+dry hands
+open cupboard
+pick up pine nuts
+pour pine nuts into hand"
+"3JMNNNO3B03C5S8JLHXQKSRNN5A2WY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:46 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:46 PDT 2017","","","3J2UYBXQQLBA2NOT5EL9SUUHBDE601","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 10:04:00 PDT 2017","Fri Jul 21 10:09:45 PDT 2017","Tue Jul 25 10:09:45 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","345","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_05.wav","dice onion 
+slice onion
+slice onion
+dice onion 
+throw onion in bin
+clean knife 
+open cupboards 
+take bowl 
+put bowl
+close cupboard 
+transfer onion"
+"37MQ8Z1JQDVGUX3J0IFE5PC3YDA2YX","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","339ANSOTR51S8XQYB84G8HZVY2EKIE","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 09:50:27 PDT 2017","Fri Jul 21 09:55:27 PDT 2017","Tue Jul 25 09:55:27 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","300","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_17_01.wav","continue screening rice onto plateput saucepan asidepick up saucepanput food onto plateput more food onto plateput saucepan downopen up drawergrab knivesgrab forkgrab fork"
+"31MBOZ6PANQ9SGOMEWFUNUJT1PILCW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:55 PDT 2017","","","3EFE17QCRC4Q0LSMAZVXZRPQGZ4HSO","AWDXILWQ7F3CC","Approved","Mon Jul 24 05:37:27 PDT 2017","Mon Jul 24 05:37:31 PDT 2017","Fri Jul 28 05:37:31 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","4","100% (3/3)","100% (3/3)","100% (3/3)","http://bristolengineeringsurvey.esy.es/audio/P03_04_13.wav","open drawer
+get spoon
+get can opener
+open can 
+put can on side
+stir onions
+open drawer
+close drawer 
+grab spoon 
+stir onions
+continue stirring onions"
+"31MBOZ6PANQ9SGOMEWFUNUJT1PILCW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:55 PDT 2017","","","3OLQQLKKNSOLH8IUX4EDMN1QRLMJEM","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:21:07 PDT 2017","Fri Jul 21 12:22:25 PDT 2017","Tue Jul 25 12:22:25 PDT 2017","","Mon Jul 24 03:56:54 PDT 2017","No newline between actions (see instructions).","78","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_04_13.wav","Open drawer.  Get can opener.  Open can.  Put can on side.  Stir onions.  Open drawer.  Close drawer.  Grab spoon.  Stir onions.  Continue stirring onions."
+"3D17ECOUODU8P9OZSTMAAC6LX61139","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3PH3VY7DJLW5YN9P0QB5WNWGHM0ZWX","A3PU538CX0YDKS","Approved","Fri Jul 21 12:10:04 PDT 2017","Fri Jul 21 12:12:29 PDT 2017","Tue Jul 25 12:12:29 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","145","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_15.wav","stir courgette
+adjust oven
+put with unsundried tomatoes
+put away sundried tomatoes
+pick up fork
+put fork in sink
+pick up guards
+pick up slicer
+put slicer on side
+pick up knife
+rearrange tomatoes
+pick up cheese
+empty cheese
+throw away cheese wrapper"
+"39WSF6KUV1KWVZBXNF1H5ZNQH60OE9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3JRJSWSMQHKAWUG5UJMQ6GK1VNS3EK","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:36:19 PDT 2017","Fri Jul 21 11:39:47 PDT 2017","Tue Jul 25 11:39:47 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","208","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_24_06.wav","Grab platesPut platePut rubbish in binGrab scissorsOpen drawerPut scissorsClose drawerGrab spoonPut spoonTear off plasticTear off paperPut rubbish in binShake potatoesStir potatoesTurn on waterWash handsGrab plasticWash plastic"
+"3Q7TKIAPOS9JX8U0ESA5701BMPULDW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3VE8AYVF8MWO35M71B1SFFDCNAY8FY","A3PU538CX0YDKS","Approved","Fri Jul 21 11:22:15 PDT 2017","Fri Jul 21 11:23:57 PDT 2017","Tue Jul 25 11:23:57 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","102","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_05_16.wav","move olives
+move sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+chop sun-dried tomatoes
+clean off knife
+put down knife
+check timer
+adjust hob
+stir courgette"
+"3BPP3MA3TBJOPE80ANLPDIJWM1VLEP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","39L1G8WVWQQBCTMTIVRBZW17684315","A3KLJKA10QECHZ","Approved","Fri Jul 21 04:50:58 PDT 2017","Fri Jul 21 04:56:09 PDT 2017","Tue Jul 25 04:56:09 PDT 2017","Mon Jul 24 03:56:54 PDT 2017","","","311","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_09.wav","Move pan
+Open draw
+Get wooden spoon
+Stir pine nuts in pan using wooden spoon
+Still stirring pine nuts  
+Move pan
+Hold pan and stir pine nuts
+Open cupboard
+Get plate
+Put plate down
+Hold pan and stir pine nuts
+Still stirring pine nuts."
+"3NBFJK3IOGHUFD7OTAR55282UMFOGQ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:55 PDT 2017","","","3PZDLQMM0TK6EE08US2QXIF64X62C6","A37M5A56UNVLI9","Rejected","Fri Jul 21 09:09:05 PDT 2017","Fri Jul 21 09:10:42 PDT 2017","Tue Jul 25 09:10:42 PDT 2017","","Mon Jul 24 03:56:55 PDT 2017","No newline between actions (see instructions).","97","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_12_01.wav","Rinse from the plates, turn off water, put plates in dry rack, shake off hands."
+"3NBFJK3IOGHUFD7OTAR55282UMFOGQ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:55 PDT 2017","","","3R0T90IZ1SBWT88FT7NFZM97FW3CGO","A123JYV8EGIHA6","Approved","Mon Jul 24 04:59:29 PDT 2017","Mon Jul 24 05:01:29 PDT 2017","Fri Jul 28 05:01:29 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","120","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P11_12_01.wav","rinse front of plates
+turn off water
+put plate in drying rack
+shake off hands"
+"36FFXPMST8N8F92ZDG9NQ2K39MSOHP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3LS2AMNW5FPOFMZWM81IO07Q9HCOQC","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:40:41 PDT 2017","Fri Jul 21 11:43:32 PDT 2017","Tue Jul 25 11:43:32 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","171","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_05_29.wav","scrub spatularinse spatulascrub spatularinse spatulaput away spatularinse panrinse panscrub panscrub panscrub panscrub panscrub pan"
+"38F60IALAFGDH11BBPO1EKR9MD7T0E","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3NS0A6KXC47911JPLL7NAKASNYOGZT","A14EPEMGRA4FK6","Approved","Fri Jul 21 07:52:24 PDT 2017","Fri Jul 21 07:54:45 PDT 2017","Tue Jul 25 07:54:45 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","141","100% (5/5)","100% (5/5)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_13_00.wav","OPEN FRIDGE
+PICK UP MILK
+TAKE OUT MILK
+PUT MILK IN FRIDGE
+CLOSE FRIDGE
+PICK UP BOWL
+CLOSE CUPBOARD DOOR
+PICK UP MILK
+POUR MILK IN BOWL
+PUT LID ON MILK
+PUT DOWN MILK
+PICK UP MILK
+OPEN MILK
+THROW LID IN BIN
+POUR MILK IN BOWL"
+"3L21G7IH46V95CLNHEF0062Y67VY1B","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","36H9ULYP62TDNMIQSFYJ45MQ3LNJFO","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:10:38 PDT 2017","Fri Jul 21 10:15:45 PDT 2017","Tue Jul 25 10:15:45 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","307","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_05_00.wav","pickup backpackput down backpackturn on ovenpickup kettlepour out kettlefill up kettlefill up kettleput down kettleturn on kettlepick up frying panput down frying panput down frying panpick up colanderpick up potsput down potsrearrange potspick up potfill pot with water"
+"3N2YPY1GI5XRLJKUORNV0RHYDZXVEI","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3X4JMASXCM8G8Z5O152H3AG9PESB0U","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:49:40 PDT 2017","Fri Jul 21 11:00:29 PDT 2017","Tue Jul 25 11:00:29 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","649","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_09_24.wav","turn meatturn meatholding pan and turning meatlower heatpickup spoon break meatturn meatstir meatmove spoonpickup lid cover panpickup packagingopen trash binthrow packageclose trash binopen fridgeget stockput stockget stock"
+"3M4KL7H8KUM7MSBHBVK8HFI57X316F","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3JZQSN0I3Q93WKSPK9DG7SUABPWFGY","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:47:17 PDT 2017","Fri Jul 21 05:51:57 PDT 2017","Tue Jul 25 05:51:57 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","280","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_02_00.wav","Put lunchboxPut lunchboxPick up lunchboxOpen lidPut lunchboxPut lidOpen binPick up lunchboxEmpty lunch boxPlace lunchboxOpen lidPick up lunchboxEmpty lunchboxPlace lunchboxPick up rubbishPut rubbish in binPush bin backPick up lunchboxPick up towelClean lunchbox"
+"3AFT28WXLE18B4DJJYR8QELI9Z7OII","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3P59JYT76LJN0V2JGEXGMSFASJE2TX","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:21:32 PDT 2017","Fri Jul 21 11:27:10 PDT 2017","Tue Jul 25 11:27:10 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","338","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_03_10.wav","Switch stove offPick up panSlide pine nuts from pan to plate using wooden spoonPut pan downSwitch of microwaveOpen microwaveOpen fridgeSearching fridgePick up cheesePick up pastaPick up pestoClose fridgePut pestoMove saltMove pestoPut pasta Put cheeseSwitch stove offOpen cupboard"
+"3OCZWXS7ZN6OTVF7ZMSM9ODJ98X5L9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3JPSL1DZ5SYEALS3WX4JJBSGFPRANI","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 12:15:59 PDT 2017","Fri Jul 21 12:20:12 PDT 2017","Tue Jul 25 12:20:12 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","253","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_16_00.wav","turn down hob
+pick up kettle
+fill kettle
+turn off tap
+put kettle
+turn on kettle
+grab spoon
+stir
+turn on hob
+open rice
+grab cup
+put cup
+pour rice into cup
+close rice
+put rice
+grab salt
+open salt
+pour cup
+pour salt
+put cup"
+"37M4O367VIH8ZDXSZYT191S89DN5MB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3PMBY0YE272HEYL7F1H575NKAYS9C7","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:34:14 PDT 2017","Fri Jul 21 05:37:50 PDT 2017","Tue Jul 25 05:37:50 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","216","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_04.wav","Move panOpen cupboardPick up trayPick up trayMove bagsClose cupboardPick up trayPut trayPut trayOpen cupboardReturn trayPick up another trayRemove lidPut lidClose cupboardShake tray"
+"3HRWUH63QT1EHVISBZ81MGH8E3X5NB","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3L6L49WXW0WVI76GJWY6CR6UWQX546","A35RQEPHNHWXSL","Approved","Fri Jul 21 05:37:55 PDT 2017","Fri Jul 21 05:47:08 PDT 2017","Tue Jul 25 05:47:08 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","553","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_04_16.wav","Grab garlic pasteOpen fridgePut garlic pasteClose fridgeStir foodCheck foodGrab pansGrab plateOpen cupboardPut platePut pansOpen cupboardPut plateClose cupboardGrab lidsGrab lunchboxGrab lunchboxOpen cupboardPut lunchboxPut lunchboxPut lidsGrab glassPut glassGrab cutleryOpen drawerPut cutlery"
+"35YHTYFL1F2JRXKQJ271I92YP0CVF0","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3W92K5RLWUGUCKPV3SZTLH679EJ5VF","A16KOBFLNCU3NB","Approved","Fri Jul 21 10:45:42 PDT 2017","Fri Jul 21 10:47:02 PDT 2017","Tue Jul 25 10:47:02 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","80","100% (11/11)","100% (11/11)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_12_11.wav","knead ball of dough
+roll ball of dough
+put ball of dough
+get some oil
+spread oil on hand
+get ball of dough
+knead ball of dough
+roll ball of dough
+put ball of dough
+get some meat from pan
+put meat on raw ball of dough
+get some meat"
+"3TLFH2L6Y8NKDB4PQCSFX8KOJBRT2Y","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3QEMNNSB2XYN573S00EWDFEW0D3D7W","A2954ZZILSPN4L","Rejected","Fri Jul 21 08:59:49 PDT 2017","Fri Jul 21 09:00:29 PDT 2017","Tue Jul 25 09:00:29 PDT 2017","","Mon Jul 24 03:56:55 PDT 2017","No newline between actions (see instructions).","40","0% (0/2)","0% (0/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_07_02.wav","Stir sauce, put plate"
+"3TLFH2L6Y8NKDB4PQCSFX8KOJBRT2Y","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3U0SRXB7CD4692EKY8Q5E1HQG9URNJ","AWDXILWQ7F3CC","Approved","Mon Jul 24 05:33:08 PDT 2017","Mon Jul 24 05:33:26 PDT 2017","Fri Jul 28 05:33:26 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","18","100% (3/3)","100% (3/3)","100% (3/3)","http://bristolengineeringsurvey.esy.es/audio/P02_07_02.wav","stir sauce
+put plate"
+"3JHB4BPSFJ8ILFXWUHDZ2QHF5A2Q99","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3A7Y0R2P2ONUN89BS945ACMX86BXJI","AE1UDGB29G7X7","Approved","Mon Jul 24 06:03:08 PDT 2017","Mon Jul 24 06:05:23 PDT 2017","Fri Jul 28 06:05:23 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","135","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P11_22_05.wav","Scrub pot
+Rinse off pot
+Rinse off pot
+Rinse off pot
+Put pot on stove
+Shake off hands"
+"3JHB4BPSFJ8ILFXWUHDZ2QHF5A2Q99","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3YJ6NA41JBFPEZ7K6IUOGZ0U5RIJPZ","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 11:57:05 PDT 2017","Fri Jul 21 11:57:41 PDT 2017","Tue Jul 25 11:57:41 PDT 2017","","Mon Jul 24 03:56:55 PDT 2017","No newline between actions (see instructions).","36","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_22_05.wav","Scrub pot.  Rinse off pot.  Rinse off pot.  Rinse off pot. Put pot on stove.  Shake off hands."
+"3P7QK0GJ3SKGZNDOW4HXJWL547E2ZO","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3SBEHTYCWN2NS2FFFN57HPE6WHMIY6","A37M5A56UNVLI9","Approved","Fri Jul 21 09:34:57 PDT 2017","Fri Jul 21 09:37:34 PDT 2017","Tue Jul 25 09:37:34 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","157","89% (8/9)","89% (8/9)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_09_16.wav","remove meat packaging
+cut meat packaging
+pick up knife
+cut meat
+still cutting meat
+still cutting meat
+remove packaging
+open trash bin
+throw cover
+close trash bin
+pick up oil
+open oil 
+pour oil into pan"
+"31HLTCK4BKUP5XGLUMDJ0U2AQFCVGZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","3AQF3RZ558H1ZR3J8W4UV1HLHF7F6I","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:00:29 PDT 2017","Fri Jul 21 11:04:08 PDT 2017","Tue Jul 25 11:04:08 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","219","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_04_17.wav","close draweropen fridgegrab squashclose fridgestir foodopen squashpour squashpour squashput down glassclose squashopen fridgeput squashclose fridgepickup squashturn on tapfill squashturn off tap"
+"3EFNPKWBMRN8IK3HWAIAW7NBSEV308","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","38F5OAUN5NB4HN8UMWXM40TUS507H3","A35RQEPHNHWXSL","Approved","Fri Jul 21 10:00:40 PDT 2017","Fri Jul 21 10:03:00 PDT 2017","Tue Jul 25 10:03:00 PDT 2017","Mon Jul 24 03:56:55 PDT 2017","","","140","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_21_00.wav","Open cupboardGrab glassClose cupboardOpen fridgeGrab juiceClose fridgeOpen juicePour juiceClose juiceOpen fridgePut juiceClose fridgePick up glass"
+"3DA79LNS58U9YT08UC6KGIPGPPRT39","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:47 PDT 2017","","","35L9RVQFCOH6FYKQZ4QXES7E0G4HUM","A3PU538CX0YDKS","Approved","Fri Jul 21 11:33:42 PDT 2017","Fri Jul 21 11:36:13 PDT 2017","Tue Jul 25 11:36:13 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","151","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_20_09.wav","wash plate
+put down plate
+pick up knife
+wash knife
+turn on tap
+rinse knife
+put away knife
+rinse plate
+rinse plate
+put plate in drying rack
+rinse glass
+rinse glass
+rinse glass
+put away glass
+rinse plate
+rinse plate
+rinse plate
+put away plates"
+"3ATYLI1PRS146FXP1GC82F0IMEWOJU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3O7L7BFSHEOPMXYOFMTDAMMQFL8EIB","A123JYV8EGIHA6","Approved","Mon Jul 24 04:59:36 PDT 2017","Mon Jul 24 05:03:02 PDT 2017","Fri Jul 28 05:03:02 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","206","100% (7/7)","100% (7/7)","100% (7/7)","http://bristolengineeringsurvey.esy.es/audio/P11_05_18.wav","clean off knife
+stir courgette
+adjust hobs
+stir onions
+adjust lid
+turn on taps
+rinse hands
+pour soap on hands
+rinse hands
+clean fork
+clean guard
+clean slicer
+scrub slicer
+turn on tap
+rinse slicer"
+"3ATYLI1PRS146FXP1GC82F0IMEWOJU","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3YW4XOSQKQKVBNZCXFNCM5R7JRE1UD","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:12:52 PDT 2017","Fri Jul 21 12:15:32 PDT 2017","Tue Jul 25 12:15:32 PDT 2017","","Mon Jul 24 03:56:56 PDT 2017","No newline between actions (see instructions).","160","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_05_18.wav","Clean off knife.  Stir courgette.  Adjust hobs.  Stir onions.  Adjust lid.  Turn on tap.  Rinse hands.  Pour soap on hands.  Rinse hands. Clean fork.  Clean guard.  Clean slicer.  Scrub slicer. Turn on tap.  Rinse slicer."
+"3QHITW7OYN8WQY71MNRZYLSZBSKQAO","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3HFNH7HEMHD0N9IYYPOAJRYOJB6GQZ","AE1UDGB29G7X7","Approved","Mon Jul 24 05:31:11 PDT 2017","Mon Jul 24 05:36:04 PDT 2017","Fri Jul 28 05:36:04 PDT 2017","Thu Jul 27 02:34:16 PDT 2017","","","293","88% (7/8)","88% (7/8)","88% (7/8)","http://bristolengineeringsurvey.esy.es/audio/P11_20_11.wav","Pour water into pot
+Put lid on pot
+Put down kettle
+Check timer
+Set timer
+Open fridge
+Take out wine
+Open cover it
+Pick up wine glass
+Pick up wine glass
+Close cover it
+Put down wine glasses
+Pick up bottle of wine
+Open bottle of wine
+Pour a glass of wine"
+"3QHITW7OYN8WQY71MNRZYLSZBSKQAO","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:47 PDT 2017","2","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 31 03:56:56 PDT 2017","","","3JRJSWSMQHKAWUG5UJMQ6GK1VNW3EO","A1EA1LCQJOQ7W1","Rejected","Fri Jul 21 12:06:38 PDT 2017","Fri Jul 21 12:08:55 PDT 2017","Tue Jul 25 12:08:55 PDT 2017","","Mon Jul 24 03:56:56 PDT 2017","No newline between actions (see instructions).","137","13% (2/16)","13% (2/16)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_20_11.wav","Pour water into put. Put lid on pot. Put down kettle.  Check timer.  Set timer.  Open fridge.  Take out wine.  Open cupboard.  Pickup wine glass.  Pickup wine glass.  Close cupboard.  Put down wine glasses.  Pick up bottle of wine.  Open bottle of wine.  Pour glass of wine."
+"388CL5C1RIM09OZ20OTVYLG9EHNLH5","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3E1QT0TDFP88DWOX2J7DICQ432T8IS","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:54:59 PDT 2017","Fri Jul 21 11:56:18 PDT 2017","Tue Jul 25 11:56:18 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","79","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P11_20_12.wav","Throw mail on the floorPick up glass of winePour glass of wineDrink glass of wineDrink other glass of winePut bottle in the fridge"
+"37MQ8Z1JQDVGUX3J0IFE5PC3YD9Y2S","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3WLEIWSYHOGXVMBOGKGR89CMHPMH25","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:57:53 PDT 2017","Fri Jul 21 12:00:44 PDT 2017","Tue Jul 25 12:00:44 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","171","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_17_00.wav","stir food
+turn down hot
+stir food
+continue stirring food
+pick up pan
+place pan
+stir food
+turn off hot
+open cupboard
+pick up plates
+place plates
+pick up spoon
+pick up lid
+pick up sole spoon
+spoon rice onto plate"
+"3QO7EE372NM198CTS1RVTWC5TA5QBJ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3DIP6YHAPCRWXRMB60HMXXSCB9KE8N","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 11:37:17 PDT 2017","Fri Jul 21 11:40:40 PDT 2017","Tue Jul 25 11:40:40 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","203","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_05_28.wav","pour food in bowlpour food in bowlpour food in bowlpour food in bowlpour food in bowlput pan in sinkturn on taprise handsrinse spatulascrub spatulapour soap in panscrub panscrub pan"
+"322ZSN9Z5FJUGPJCUQB3QNHM3PNT4U","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3KOPY89HM81I7A2X8KXH3WXT0VNJ3K","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:25:19 PDT 2017","Fri Jul 21 11:27:41 PDT 2017","Tue Jul 25 11:27:41 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","142","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_24_09.wav","put spoon
+grab oven mitts
+grab tray
+close oven
+put tray on side
+put down oven mitts
+open foil
+open foil
+grab spoon
+put on oven mitt
+spoon salmon
+spoon salmon"
+"37SDSEDIN81UQ6U54AH61TEWDST181","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3OF2M9AATGNE3NF8BCS28C2LUFJZKT","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:41:26 PDT 2017","Fri Jul 21 10:44:22 PDT 2017","Tue Jul 25 10:44:22 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","176","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P02_09_09.wav","put mixture back into bowlpickup olive oilpour olive oil into handspread olive oil on top of mixtureclear handpickup mixture from bowlput down mixture into bowlclear handstill clearing handopen tapwash hands"
+"3KLL7H3EGC035TBWESV1LUEB5FPVHY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3HVVDCPGTERD1GVQ9Z4BVWGF7Y6TY2","A1YHXHNMGBFQ4S","Approved","Fri Jul 21 10:38:05 PDT 2017","Fri Jul 21 10:41:26 PDT 2017","Tue Jul 25 10:41:26 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","201","100% (43/43)","100% (43/43)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P11_20_10.wav","rinse plate coverrinse plate coverput away plate coverrinse plate coverrinse plate coverrinse plate coverturn off tapput away plate covershake off handsrinse handsrearrange plate coverrearrange plate covershake off handspick up kettleopen lidpour water into pot"
+"3Y3CZJSZ9JSZWTAK46PIV0MIF0M5RZ","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","35LDD5557A3E4GGPWN280A6CFB4MK2","A35RQEPHNHWXSL","Approved","Fri Jul 21 11:27:27 PDT 2017","Fri Jul 21 11:36:08 PDT 2017","Tue Jul 25 11:36:08 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","521","99% (84/85)","99% (84/85)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_02_02.wav","Close cupboardPut chips in lunch boxPut chocolate in lunch boxClose lunch boxPick up lunch boxOpen fridgePut lunch boxClose fridgePick up bottlesOpen bottleTurn on waterFill bottleClose bottleClose bottleShake bottleOpen bottlePour out waterClose bottlePick up bottleOpen lidFill upClose bottleShake bottlePour out waterShakeOpen bottlePour out bottleFill up bottle"
+"3C8QQOM6JO005JAM66BGYXHOEU2LIY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3GDTJDAPVUAU9FEONY55A5XLKB9M8I","A3PU538CX0YDKS","Approved","Fri Jul 21 11:07:50 PDT 2017","Fri Jul 21 11:09:23 PDT 2017","Tue Jul 25 11:09:23 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","93","97% (36/37)","97% (36/37)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_02_07.wav","put lid on bin
+push bin back
+turn on tap
+turn off tap
+throw away sponge
+open cupboard
+take new sponge
+place sponge 
+close cupboard
+pick up plate
+brush crumbs
+put crumbs in bin
+wash side"
+"3OYHVNTV5SXZHZ37J1CK3U0V13WOKT","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","3O7L7BFSHEOPMXYOFMTDAMMQE5OEIU","A3TX2KJ7VJG3N0","Approved","Fri Jul 21 11:27:50 PDT 2017","Fri Jul 21 11:31:18 PDT 2017","Tue Jul 25 11:31:18 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","208","89% (17/19)","89% (17/19)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P03_08_00.wav","put grapes
+grab salmon
+put salmon
+grab sole spoon
+put sole spoon in fridge
+open washing machine
+check drains"
+"3RBI0I35XD25FFZ24ITJOZHV4R9Y33","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Fri Jul 21 04:26:48 PDT 2017","1","BatchId:2879363;OriginalHitTemplateId:920937308;","900","345600","Fri Jul 28 04:26:48 PDT 2017","","","33SA9F9TRXT7NSIT43XSBDVYT9UEWV","A3KLJKA10QECHZ","Approved","Fri Jul 21 04:45:00 PDT 2017","Fri Jul 21 04:50:58 PDT 2017","Tue Jul 25 04:50:58 PDT 2017","Mon Jul 24 03:56:56 PDT 2017","","","358","100% (2/2)","100% (2/2)","0% (0/0)","http://bristolengineeringsurvey.esy.es/audio/P02_06_18.wav","Wash chopping board
+Open Tap
+Rinse chopping board
+Return chopping board
+Open Tap
+Wash tap
+Wash mug
+Close tap
+Put mug
+pick up knife
+wash knife
+Pick up strainer
+Wash Strainer
+pick open tap
+rinse strainer
+close tap
+put strainer
+open tap
+rinse knife 
+close tap 
+put knife"

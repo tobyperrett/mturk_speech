@@ -1,0 +1,16 @@
+Open fridge
+
+Put grapes in fridge
+
+Close fridge
+
+Put grapes in bin
+
+Turn on tap
+
+Wash hands
+
+Turn off tap
+
+Dry hands
+

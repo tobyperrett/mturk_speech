@@ -1,0 +1,57 @@
+open drawer
+close drawer
+take fork
+take mug
+crack egg
+crack egg
+place eggshells on bin
+rinse hands
+scramble eggs
+scramble eggs
+place fork on sink
+take pan
+place pan on stove
+pour omelette on pan
+rinse mug
+wash mug
+wash mug
+rinse mug
+place mug on dryer
+open cabinet
+place oil on cabinet
+take bowl
+add water
+place bowl on counter
+take spoon
+mix porridge
+take spatula
+flip omelette
+cook omelette
+cook omelette
+open fridge
+take cheese
+close fridge
+take knife
+take slicing table
+slice cheese
+slice cheese
+add cheese omelette
+fold omelette
+turn off stove
+take cheese
+open fridge
+put cheese on fridge
+close fridge
+take plate
+put plate on dishwasher
+take plate
+wash plate
+wash plate
+rinse plate
+dry plate
+put towell on stove
+take towell
+dry plate
+put omelette on plate
+take spatula
+put plate on counter

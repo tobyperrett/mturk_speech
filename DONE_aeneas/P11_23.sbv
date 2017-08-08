@@ -1,0 +1,63 @@
+[SUBTITLE]
+
+00:00:00.000,00:00:01.920
+open fridge
+
+00:00:01.920,00:00:05.760
+pick out milk
+
+00:00:05.760,00:00:07.320
+open cupboards
+
+00:00:07.320,00:00:08.840
+pick up bowl
+
+00:00:08.840,00:00:11.920
+close cupboards
+
+00:00:11.920,00:00:13.400
+pick up spoon
+
+00:00:13.400,00:00:15.440
+put down bowl and spoon
+
+00:00:15.440,00:00:16.960
+open milk
+
+00:00:16.960,00:00:22.040
+pour milk into bowl
+
+00:00:22.040,00:00:23.160
+put on lid
+
+00:00:23.160,00:00:24.400
+put milk in fridge
+
+00:00:24.400,00:00:28.240
+pick up cereal
+
+00:00:28.240,00:00:36.000
+put down cereal
+
+00:00:36.000,00:00:36.880
+look around
+
+00:00:36.880,00:00:47.320
+pick up cereal
+
+00:00:47.320,00:00:52.680
+Open cereal
+
+00:00:52.680,00:00:54.240
+Pour cereal in bowl
+
+00:00:54.240,00:00:58.480
+Put down cereal
+
+00:00:58.480,00:01:00.400
+Pick up bowl
+
+00:01:00.400,00:01:03.280
+Put down bowl
+
+[END SUBTITLE]

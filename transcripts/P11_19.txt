@@ -1,0 +1,68 @@
+open cupboards
+
+pick up plates
+
+pick up knife
+
+put down plates
+
+put down knife
+
+open fridge
+
+open drawer
+
+pick up bread
+
+open bread
+
+take out bread
+
+close bread
+
+open fridge
+
+put away bread
+
+close fridge
+
+pick up knife
+
+open bread
+
+put down bread
+
+open hummus
+
+remove wrapper
+
+throw away wrapper
+
+pick up wrapper
+
+throw away wrapper
+
+pick up knife
+
+open hummus
+
+apply hummus
+
+apply hummus
+
+apply hummus
+
+wipe off knife
+
+apply more hummus
+
+wipe off knife
+
+close hummus
+
+wipe off knife
+
+put away hummus
+
+Close bread
+

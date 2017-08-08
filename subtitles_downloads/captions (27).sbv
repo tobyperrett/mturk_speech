@@ -1,0 +1,270 @@
+0:00:03.199,0:00:04.850
+walk to sink
+
+0:00:04.850,0:00:06.859
+put plate
+
+0:00:06.859,0:00:11.180
+put plate on the side
+
+0:00:11.180,0:00:13.730
+pick filter
+
+0:00:13.730,0:00:15.209
+open
+
+0:00:15.209,0:00:17.980
+put water into the coffee machine
+
+0:00:17.980,0:00:19.110
+close coffee machine
+
+0:00:19.110,0:00:20.340
+press button
+
+0:00:20.340,0:00:23.579
+put water filter down
+
+0:00:23.579,0:00:24.930
+open cupboard
+
+0:00:24.930,0:00:26.360
+pick mug
+
+0:00:26.360,0:00:29.770
+close cupboard
+
+0:00:29.770,0:00:30.770
+put cup
+
+0:00:30.770,0:00:35.800
+close cupboard
+
+0:00:35.800,0:00:37.530
+pick plate
+
+0:00:37.530,0:00:40.450
+close cupboard
+
+0:00:40.450,0:00:43.410
+put plate down
+
+0:00:43.410,0:00:46.720
+pick cereal
+
+0:00:46.720,0:00:48.829
+remove bag from cereal
+
+0:00:48.829,0:00:50.390
+open bag
+
+0:00:50.390,0:00:52.560
+put cereal in plate
+
+0:00:52.560,0:00:53.650
+put cereal in plate
+
+0:00:53.650,0:00:54.650
+put cereal box away
+
+0:00:54.650,0:00:55.880
+close bag
+
+0:00:55.880,0:00:58.420
+return bag into cereal box
+
+0:00:58.420,0:01:01.190
+put cereal box away
+
+0:01:01.190,0:01:05.430
+press button
+
+0:01:05.430,0:01:07.130
+open fridge
+
+0:01:07.130,0:01:08.560
+pick up milk
+
+0:01:08.560,0:01:11.939
+close fridge
+
+0:01:11.939,0:01:14.270
+put milk into cup
+
+0:01:14.270,0:01:17.649
+put milk into plate
+
+0:01:17.649,0:01:19.850
+close milk
+
+0:01:19.850,0:01:21.139
+open fridge
+
+0:01:21.139,0:01:22.539
+return milk
+
+0:01:22.539,0:01:23.579
+close fridge
+
+0:01:23.579,0:01:24.939
+open drawer
+
+0:01:24.939,0:01:27.240
+pick up two spoons
+
+0:01:27.240,0:01:31.780
+put spoon into the cereal plate
+
+0:01:31.780,0:01:33.380
+press button
+
+0:01:33.380,0:01:35.529
+open sugar jar
+
+0:01:35.529,0:01:37.069
+scoop sugar
+
+0:01:37.069,0:01:39.299
+put sugar into the coffee
+
+0:01:39.299,0:01:41.020
+close sugar jar
+
+0:01:41.020,0:01:44.090
+stir sugar
+
+0:01:44.090,0:01:49.810
+stir the coffee in the mug
+
+0:01:49.810,0:01:51.709
+pick up mug
+
+0:01:51.709,0:01:54.219
+mistake did not change the coffee pot
+
+0:01:54.219,0:01:56.499
+empty water
+
+0:01:56.499,0:01:57.499
+open sink
+
+0:01:57.499,0:01:58.499
+close sink
+
+0:01:58.499,0:02:02.729
+sink mug
+
+0:02:02.729,0:02:04.409
+put cup
+
+0:02:04.409,0:02:07.369
+pick up coffee pot
+
+0:02:07.369,0:02:08.560
+open the coffee machine
+
+0:02:08.560,0:02:09.560
+put coffee pot
+
+0:02:09.560,0:02:11.290
+close coffee machine
+
+0:02:11.290,0:02:12.290
+put mug
+
+0:02:12.290,0:02:16.269
+press button
+
+0:02:16.269,0:02:17.269
+open fridge
+
+0:02:17.269,0:02:18.269
+pick up milk
+
+0:02:18.269,0:02:21.000
+close fridge
+
+0:02:21.000,0:02:24.269
+put milk in cup
+
+0:02:24.269,0:02:26.689
+close milk
+
+0:02:26.689,0:02:27.850
+open milk
+
+0:02:27.850,0:02:29.360
+put milk
+
+0:02:29.360,0:02:33.069
+close fridge
+
+0:02:33.069,0:02:34.069
+hold sugar jar
+
+0:02:34.069,0:02:36.439
+open sugar jar
+
+0:02:36.439,0:02:38.280
+scoop sugar
+
+0:02:38.280,0:02:40.620
+put sugar
+
+0:02:40.620,0:02:42.769
+stir coffee mug
+
+0:02:42.769,0:02:46.719
+close sugar jar
+
+0:02:46.719,0:02:48.709
+wait for coffee
+
+0:02:48.709,0:02:51.019
+pick up water filter
+
+0:02:51.019,0:02:53.480
+open coffee machine
+
+0:02:53.480,0:02:57.680
+fill water into the coffee machine and close
+the lid
+
+0:02:57.680,0:03:00.349
+put water filter
+
+0:03:00.349,0:03:02.810
+press button
+
+0:03:02.810,0:03:05.840
+press button
+
+0:03:05.840,0:03:10.129
+wait for coffee
+
+0:03:10.129,0:03:17.269
+stir coffee
+
+0:03:17.269,0:03:21.060
+keep stirring coffee
+
+0:03:21.060,0:03:22.480
+pick up spoon
+
+0:03:22.480,0:03:26.290
+put spoon in sink
+
+0:03:26.290,0:03:33.230
+hold mug
+
+0:03:33.230,0:03:40.930
+keep holding mug
+
+0:03:40.930,0:03:45.790
+keep holding mug
+
+0:03:45.790,0:03:48.239
+press button
+
+0:03:48.239,0:03:48.909
+pick up mug

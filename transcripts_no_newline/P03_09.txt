@@ -1,0 +1,180 @@
+put lunchbox
+put bottle
+close washing machine
+open bottle
+turn on tap
+close bottle
+shake bottle
+open bottle
+pour bottle
+turn on tap
+fill bottle
+turn off tap
+close bottle
+open fridge
+put bottle in fridge
+grab squash
+close fridge
+put squash
+grab bottle
+open bottle
+fill bottle
+close bottle
+shake bottle
+put squash
+open bottle
+pour water
+open squash
+pour squash
+put bottle
+close squash
+open fridge
+put squash
+close fridge
+fill bottle
+turn off tap
+close bottle
+open fridge
+put bottle in fridge
+grab bread
+grab cheese
+grab butter
+close fridge
+put food
+open cupboard
+grab plate
+close cupboard
+move lunchbox
+put plate
+grab slices of bread
+put bread
+grab bread
+open fridge
+put bread
+close fridge
+open butter
+grab knife
+turn on water
+get butter
+spread butter
+spread butter
+wipe excess butter
+put lid on butter
+open up cheese
+turn on tap
+slice cheese
+put cheese on bread
+slice cheese
+put cheese on bread
+close sandwich
+cut sandwich
+test water
+grab washing up liquid
+pour washing up liquid
+put washing up liquid
+move tap
+open lunchbox
+tip out lunchbox
+put slices in lunchbox 
+close lunchbox
+put cheese in bag
+grab butter
+open fridge
+put butter in fridge
+put cheese in fridge
+grab lunchbox
+put lunchbox in fridge
+close fridge
+grab bowl
+grab spoon
+grab spatula
+grab knives and forks
+grab saucepan
+put saucepan
+grab plate
+grab sponge
+wash plate
+put plate
+grab plate
+wash plate
+grab plate
+wash plate
+put plate on rack
+wash plate
+put plate in rack
+grab bowl
+wash bowl
+put bowl in rack
+grab bowl
+wash bowl
+put bowl
+grab knife
+wash knife
+put knife in rack
+grab knife
+wash knife
+grab spoon and spatula
+grab cutting board
+put mess in bin
+wipe cutting board
+continue washing cutting board
+put cutting board in rack
+grab measuring cup
+wash measuring cup
+put measuring cup in rack
+grab saucepan
+grab sponge
+put sponge
+grab lid
+wash lid
+put lid in rack
+grab plate
+put knife
+wash plate
+put plate
+wash saucepan
+continue washing saucepan
+put saucepan
+wash spatula?
+wash spoon
+put spoon
+wash spatula
+put spatula*
+wash cutlery
+put cutlery
+wash spoon
+put spoon
+wash knife
+put knife
+wash knife
+put knife
+wash knife
+put knife
+wash knife
+put knife
+wash fork
+put fork
+clean side
+wipe hob
+clean hob
+put in bin
+pour water
+turn on tap
+rinse bowl
+put sponge
+wash hands
+rinse bowl
+rinse sink
+dry hands
+get kitchen towel
+dry side
+dry hob
+put kitchen towel in bin
+turn off tap
+put plug
+put bowl
+turn on tap
+clean side
+turn off tap
+wash
+dry hands

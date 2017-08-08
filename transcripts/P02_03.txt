@@ -1,0 +1,730 @@
+Open bag
+
+Get onion bag
+
+Put onion bag in lower shelf
+
+Get water filter 
+
+Get cup
+
+Fill water 
+
+Put water filter
+
+Drink from cup
+
+Put cup down
+
+Pick up lid
+
+Pick up pan
+
+Put pan
+
+Put lid
+
+Pick up pan 
+
+Put pan 
+
+Pick up lid
+
+Put lid
+
+Pick up pan 
+
+Move pan
+
+Put lid
+
+Pick up pan 
+
+Put pan 
+
+under the next one
+
+Open cupboard
+
+Open cupboard
+
+Pick up pot
+
+close cupboard
+
+close cupboard
+
+put pot on stove
+
+pick up chopping board
+
+put chopping board
+
+open fridge
+
+pick up yogurt
+
+put yogurt
+
+pick up broccoli
+
+get scissors
+
+open plastic cover using scissors
+
+remove plastic cover
+
+open trash bin
+
+throw cover
+
+close trash bin
+
+open cap
+
+rinse broccoli
+
+Sprinkle water on broccoli
+
+Close tap
+
+Pick up scissors
+
+Move broccoli and scissors to chopping board
+
+Cut broccoli
+
+Cut broccoli
+
+Still cutting broccoli
+
+Still cutting broccoli
+
+Separate broccoli using hands
+
+Pick up rest of broccoli
+
+Open trash bin
+
+Throw broccoli
+
+Close trash bin
+
+Remove from floor
+
+Open trash bin
+
+Close trash bin
+
+Open tap
+
+Rinse scissors
+
+Close tap
+
+Put scissors down
+
+Open lid
+
+Put lid
+
+Move pan
+
+Move broccoli from chopping board to pan using hands
+
+open tap
+
+fill pan with water
+
+close tap
+
+put pan with broccoli on stove
+
+switch stove on
+
+pick up towel
+
+dry hands
+
+put towel
+
+pick up towel from floor
+
+put towel
+
+open fridge
+
+get Tupperware
+
+pick up plate
+
+open Tupperware
+
+put plate
+
+open Tupperware
+
+pick up chicken from Tupperware
+
+put chicken on plate
+
+close Tupperware
+
+put Tupperware in sink
+
+pick up knife
+
+pick up scissors
+
+open onion bag
+
+pick up onion
+
+pick up another onion
+
+put onion on chopping board
+
+open trash bin 
+
+throw onion
+
+return scissors
+
+pick up knife
+
+chop end of onion
+
+peel onion
+
+chop end of onion
+
+peel onion
+
+Put onion
+
+Pick up chopping board
+
+Open trash bin
+
+Throw peels
+
+Close trash bin
+
+Put chopping board
+
+Put onion on chopping board
+
+Put knife
+
+Pick up kettle
+
+Open kettle
+
+Open tap
+
+Fill kettle
+
+Hold tap and
+
+Fill kettle
+
+Close tap
+
+Close kettle
+
+Put kettle down
+
+Switch kettle on
+
+Open cupboard
+
+“pick pot”
+
+“remove lid”
+
+“close cupboard”
+
+“put pot on stove”
+
+“move the other pot”
+
+“pick up lid of pan”
+
+“slice onions”
+
+“still slicing onions”
+
+“chop onions”
+
+“still chopping”
+
+“slices of onion”
+
+“still shopping onion”
+
+“still shopping onion”
+
+still chopping onion
+
+pick up breast of onion slices
+
+open trash bin
+
+throw slices
+
+close trash bin 
+
+get paper towel
+
+open trash bin
+
+throw paper towel
+
+close trash bin
+
+open fridge
+
+get pine nuts back
+
+put pine nuts back
+
+open cupboard
+
+get salt
+
+get oil 
+
+put oil down
+
+put salt down
+
+open oil
+
+sprinkle oil on pan
+
+pour oil pour oil in pan
+
+close oil
+
+put oil down
+
+switch stove on
+
+put pine nuts in pan
+
+add pine nuts to pan
+
+open fridge
+
+return pine nuts
+
+close fridge
+
+move tray
+
+pick up plate
+
+open microwave
+
+put plate in microwave
+
+close microwave
+
+unplug
+
+unplug
+
+unplug
+
+move plug
+
+plug into socket
+
+switch microwave on
+
+Move pan
+
+Open draw
+
+Get wooden spoon
+
+Stir pine nuts in pan using wooden spoon
+
+Still stirring pine nuts  
+
+Move pan
+
+Hold pan and stir pine nuts
+
+Open cupboard
+
+Get plate
+
+Put plate down
+
+Hold pan and stir pine nuts
+
+Still stirring pine nuts.
+
+Switch stove off
+
+Pick up pan
+
+Slide pine nuts from pan to plate using wooden spoon
+
+Put pan down
+
+Switch of microwave
+
+Open microwave
+
+Open fridge
+
+Searching fridge
+
+Pick up cheese
+
+Pick up pasta
+
+Pick up pesto
+
+Close fridge
+
+Put pesto
+
+Move salt
+
+Move pesto
+
+Put pasta 
+
+Put cheese
+
+Switch stove off
+
+Open cupboard
+
+pickup mesh
+
+pickup pot
+
+pour broccoli from pot to mesh
+
+shake mesh
+
+put mesh on plate
+
+move mesh
+
+put mesh onto
+
+put pan
+
+open cupboard
+
+get plate
+
+put mesh onto plate
+
+put plate and mesh down
+
+pickup kettle
+
+pour water
+
+from kettle to pot
+
+still pouring water
+
+put kettle down
+
+read the recipe on pasta
+
+put pasta down
+
+pick up scissors
+
+cut pasta bag
+
+switch stove on
+
+pour pasta into pot
+
+close pasta bag
+
+set timer on
+
+open fridge
+
+put pasta bag in fridge
+
+close fridge
+
+pick up plate from microwave
+
+close microwave
+
+move scissors 
+
+put plate
+
+pick up oil 
+
+sprinkle oil into pasta pot 
+
+pick up salt
+
+ put salt into pasta pot
+
+ put salt
+
+ lower heat on stove
+
+ pick up chopping board with onions 
+
+chop a few onions using knife 
+
+pick up chopping board 
+
+switch stove on
+
+move wooden spoon
+
+pick up knife
+
+slide onions from chopping board to pan
+
+put chopping board and knife into sink
+
+pick up knife
+
+stir onions in pan using wooden spoon
+
+divide onion into smaller pieces using wooden spoon
+
+pick up onion piece
+
+put onion piece
+
+stir onion in pan using wooden spoon
+
+Pickup garlic
+
+Put garlic into pan
+
+Close garlic
+
+Put garlic
+
+Stir garlic and onions in pan using wooden spoon
+
+Lower heat
+
+Stir onions using wooden spoon in pan
+
+Pick up knife
+
+Hold chicken piece 
+
+Chop chicken piece using knife
+
+Still chopping chicken
+
+Put knife down
+
+Pick up two spoons
+
+Put two spoons
+
+Hold pan 
+
+Stir onions in pan using wooden spoon
+
+Increase heat on stove
+
+Pick up two spoons
+
+Open pesto
+
+Scoop pesto using spoon
+
+Put pesto into pan
+
+Close pesto 
+
+Put pesto down
+
+Put spoon down
+
+Pick up cheese and
+
+Pick up spoon 
+
+Hold cheese and
+
+Scoop cheese using spoon 
+
+Put cheese into pan 
+
+Scoop more cheese 
+
+Put cheese into pan 
+
+Put spoon into sink 
+
+Put cheese down
+
+Pick up spoon
+
+Move water from pot to pan
+
+lower heat
+
+move water using spoon
+
+from pot to pan
+
+still moving more water
+
+put spoon down
+
+mix cheese pesto and onions in pan using wooden spoon
+
+still mixing cheese and pesto in pan using wooden spoon
+
+still mixing cheese and sauce into pan using wooden spoon
+
+pick up pinenuts(?) plate 
+
+pour pine nuts into pan
+
+ put plate
+
+pick up plate with chicken
+
+pour chicken into pan  using spoon
+
+put plate
+
+.pick up mushroom broccoli  
+
+pour broccoli into pan
+
+put mush down
+
+hold pan and mix sauce
+
+stir sauce use wooden spoon
+
+pick up spoon
+
+move water from pot to pan
+
+move water
+
+“put spoon”
+
+“increase heat”
+
+“hold pan” and
+
+“stir sauce”
+
+“increase heat”
+
+“hold pan” and
+
+“stir sauce”
+
+“set a timer”
+
+“stir sauce”
+
+“still stirring sauce”
+
+“lower heat”
+
+“hold pan” and
+
+“stir sauce”
+
+“open cupboard”
+
+“search in cupboard”
+
+“pick up steel mash”
+
+“close cupboard”
+
+hold stain and stir sauce
+
+set off time
+
+switch off stove
+
+pickup pot with pasta
+
+move chopping board from sink
+
+pour water and pasta from pot to mesh in on top of sink
+
+shake mesh with pasta
+
+pour pasta into pan
+
+put mesh in sink
+
+hold pan and stir pasta with sauce
+
+mix pasta with sauce
+
+still mixing pasta with sauce
+
+using wooden spoon
+
+set off alarm
+
+hold pan
+
+stir pasta with sauce
+
+increase heat
+
+switch off stove
+
+close oil
+
+pickup chopping board
+
+put chopping board
+
+pickup scissors
+
+return scissors
+
+pick up plate
+
+put plate
+
+put plate
+
+pick up pan
+
+pour pasta from pan to plate using wooden spoon
+
+still pouring pasta
+
+put pan
+
+put spoon
+
+check stove
+
+pick up plate
+
+open drawer
+
+pick up fork
+
+close drawer
+

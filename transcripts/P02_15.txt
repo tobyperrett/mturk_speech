@@ -1,0 +1,98 @@
+pickup Tupperware
+
+pickup pie
+
+place pie in Tupperware
+
+pickup pie 
+
+place in Tupperware
+
+pickup pie
+
+place pie
+
+pickup pie
+
+put pie
+
+pickup pie
+
+put pie
+
+pickup pie
+
+put pie
+
+pickup pie
+
+put pie
+
+move pie
+
+pick up lid
+
+close Tupperware
+
+pickup paper towel
+
+get paper towel
+
+pickup Tupperware
+
+dry Tupperware
+
+hold Tupperware and dry Tupperware
+
+pickup pie
+
+put in Tupperware
+
+pick up pie 
+
+put up pie
+
+pickup pie
+
+put pie
+
+pickup pie
+
+put pie
+
+pickup pie
+
+put pie
+
+Place tupperware
+
+pickup lid
+
+dry lid
+
+hold and dry lid
+
+close tupperware
+
+pickup two tupperwares
+
+place tupperwares
+
+open fridge
+
+move remove salad from fridge
+
+put salad plate
+
+move stuff in fridge
+
+move eggs in fridge
+
+put tupperware in fridge
+
+put Tupperware in  fridge
+
+move tupperware
+
+close fridge
+

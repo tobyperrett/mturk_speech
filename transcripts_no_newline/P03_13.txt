@@ -1,0 +1,21 @@
+put glass on the side
+put glass on the side 
+fill up glass 
+pour glass
+put glass on the side
+fill glass
+put glass on the side 
+open fridge
+grab saucepan
+check saucepan
+grab squash
+open squash
+pour squash
+close squash 
+open fridge 
+put squash 
+close fridge
+grab glass
+fill glass
+Pick up glass
+Place glass

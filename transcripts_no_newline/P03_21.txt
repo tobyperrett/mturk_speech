@@ -1,0 +1,13 @@
+Open cupboard
+Grab glass
+Close cupboard
+Open fridge
+Grab juice
+Close fridge
+Open juice
+Pour juice
+Close juice
+Open fridge
+Put juice
+Close fridge
+Pick up glass

@@ -1,0 +1,361 @@
+put bags
+take squash
+put squash
+take salmon
+put salmon
+take chicken
+put chicken 
+take can
+put can
+take squash
+take salmon
+put it in fridge
+put squash
+put salmon
+close fridge
+take squash
+open coverage
+put squash 
+close cover
+take chicken
+open fridge
+put chicken 
+close fridge
+take food 
+put food
+take onions
+put onions
+take crisps
+open coverage
+put crisps
+put food
+Take sweet corn
+Close cupboard
+Open freezer
+Pull out drawer
+Put sweet corn
+Close drawer
+Close freezer
+Take bag 
+Fold bag
+Take bag
+Take bag
+Fold bag
+Take box
+Put box
+Take knife sharpener
+Open drawer
+Take knife
+Close drawer
+Sharpen knife
+Continue sharpening knife
+Put knife sharpener back
+Take kitchen towel
+Clean knife 
+Put towel in bin
+Put knife
+Open cupboard
+Take cutting board
+Put cutting board
+Open fridge
+Pull out drawer
+Close fridge
+Take onion
+Take knife
+cut onion
+take bin
+take top off bin
+cut onions in bin
+peel onion
+put peel onion
+peel onion
+peel onion
+put peel in bin
+chop onion
+slice onion
+open cupboard 
+take bowl
+close cupboard 
+put bowl
+Put onion in bin
+Transfer onions
+Put knife
+Take onion
+Cut onion
+Peel onion
+Put peel in bin
+Peel onion
+Put peel in bin
+Pick up onion
+Peel onion
+Put peel in bin
+Slice onion
+Slice onion
+dice onion 
+slice onion
+slice onion
+dice onion 
+throw onion in bin
+clean knife 
+open cupboards 
+take bowl 
+put bowl
+close cupboard 
+transfer onion
+Put board 
+Put bin
+Put lid on bin
+Open fridge
+Take chicken
+Close fridge
+Put chicken
+Open drawer
+Get knife
+Close drawer
+Open chicken
+Put chicken on cutting board
+Slice chicken
+Dice chicken 
+Slice chicken 
+Cut chicken
+Put chicken in bin
+Slice chicken
+Dice chicken 
+Wash hands
+Get soap
+Wash hands
+Turn off tap
+Dry hands
+get sauce pan
+put sauce pan
+turn on hob
+get olive oil
+open olive oil
+pour olive oil
+close olive oil
+put olive oil
+get kettle
+fill kettle
+put kettle
+turn on kettle
+open cupboard
+grab measuring cup
+close cupboard
+get stock
+put stock
+open cupboard
+get almonds
+open fridge
+get garlic paste
+close fridge
+get stock cubes
+close cupboard
+put stock cubes
+put garlic paste
+put almonds
+get stock cubes
+open stock cubes
+take a stock cube
+close stock cubes
+put stock cubes
+open stock cube
+put wrapper in bin
+crumble stock cube
+open drawer
+get spoon
+close drawer
+open drawer
+get bag
+close drawer
+put onion in bin
+open bag
+put chicken in food bag
+take chicken out of food bag
+take chicken
+cut chicken
+dice chicken
+take onions
+put onions in sauce pan
+put bowl
+take chicken
+slice chicken
+dice chicken
+pour kettle into stock
+put kettle
+stir stock
+Turn on tap
+Stir stock
+Wash hands
+Shake pan
+Grasp it
+Turn off tap
+Dry hands
+Open drawer
+Grab spatcula
+Close drawer
+Stir
+Put plastic on side
+Put bag in bin
+open drawer
+get spoon
+get can opener
+open can 
+put can on side
+stir onions
+open drawer
+close drawer 
+grab spoon 
+stir onions
+continue stirring onions
+take chicken
+use smasher
+put chicken into pan
+put chopping board
+take ball
+put ball
+stir fudge
+grab garlic paste
+put garlic paste
+close garlic paste
+stir fudge
+grab spices
+open spice
+pour spice
+close spice
+put spice
+grab spice
+open spice
+pour spice
+Close spice
+Put spice
+Grab spice
+Open spice
+Pour spice
+Close spice 
+Put spice
+Grab spice 
+Open spice
+Pour spice
+Close spice
+Put spice
+Grab pepper
+Put pepper
+Close pepper
+Put pepper
+Stir food
+Grab olive oil
+Open olive oil
+Pour olive oil
+Close olive oil
+Put olive oil
+Stir food
+Grab garlic paste
+Open fridge
+Put garlic paste
+Close fridge
+Stir food
+Check food
+Grab pans
+Grab plate
+Open cupboard
+Put plate
+Put pans
+Open cupboard
+Put plate
+Close cupboard
+Grab lids
+Grab lunchbox
+Grab lunchbox
+Open cupboard
+Put lunchbox
+Put lunchbox
+Put lids
+Grab glass
+Put glass
+Grab cutlery
+Open drawer
+Put cutlery
+close drawer
+open fridge
+grab squash
+close fridge
+stir food
+open squash
+pour squash
+pour squash
+put down glass
+close squash
+open fridge
+put squash
+close fridge
+pickup squash
+turn on tap
+fill squash
+turn off tap
+put down glass
+stir food
+pick up bottle
+pour onions
+stir food
+put onions in pan
+stir food
+continue stirring food
+take spice
+open spice 
+pour spice
+close spice
+take spice
+open spice
+pour spice
+close spice
+put spice
+serve food
+pick up coconut milk
+pour coconut milk
+spoon coconut milk
+put can
+pour stock
+spoon stock
+put measuring cup
+stir food
+pickup stock
+pour granules
+close stock
+put stock
+stir food
+continue stirring food
+open cupboard
+grab lid
+put lid on saucepan
+turn down hob
+put spatula
+take spoon
+wash spoon
+put spoon on side
+grab 
+put stuff
+wash can
+grab lid
+wash lid
+put lid in can 
+turn off tap
+put can on side
+open lid
+close lid
+grab can
+put can
+grab knife
+cut knife
+open drawer
+put counter
+close drawer
+grab almonds
+grab drink
+put drink
+turn up heat
+clean side
+put side in bin
+turn down heat
+pick up glass
+put glass
+turn down heat

@@ -1,0 +1,12 @@
+open oven
+
+put on oven gloves
+
+put pizza in oven
+
+put away oven gloves
+
+turn off timer
+
+set timer
+

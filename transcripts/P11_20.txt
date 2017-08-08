@@ -1,0 +1,388 @@
+Set music 
+
+Move mouse
+
+Open fridge
+
+Pickup kale
+
+Put down kale
+
+Pickup leeks
+
+Put down leeks
+
+Pickup fish cakes
+
+Drop fish cake
+
+Put fish cake on counter
+
+Close fridge
+
+Open oven
+
+Put on oven gloves
+
+Take out oven tray
+
+Close oven
+
+Put away oven gloves
+
+Turn on stereo
+
+Turn up volume
+
+Open cupboard
+
+take out kitchen foil
+
+pull out kitchen foil 
+
+cut kitchen foil 
+
+put kitchen foil on hub
+
+open cupboard
+
+put away kitchen foil 
+
+close cupboard
+
+fold kitchen foil 
+
+fold kitchen foil 
+
+pick up knife
+
+open fish cakes
+
+put fish cakes on kitchen foil
+
+throw away packaging
+
+adjust fish cakes
+
+open fish cake packets
+
+turn off oven time 
+
+set oven timer
+
+open fish cake packaging
+
+pour fish cakes onto foil
+
+throw away packaging
+
+adjust fish cakes
+
+pick up oven gloves
+
+open oven
+
+put tray into oven
+
+close oven
+
+put away oven gloves
+
+set timer
+
+pick up knife
+
+open leek packaging
+
+take out leeks 
+
+walk to sink
+
+turn on tap
+
+rinse leeks
+
+rinse leeks
+
+shake off leeks
+
+pick up chopping board
+
+put down chopping board
+
+move kale 
+
+pick up knife
+
+adjust leeks
+
+chop off leeks
+
+pick up leek ends
+
+throw away leek ends
+
+pick up kettle
+
+empty kettle
+
+put water in kettle
+
+turn off tap
+
+put kettle onto boil
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+chop leeks
+
+pickup leeks
+
+rearrange leeks
+
+rearrange leeks
+
+chop leek
+
+chop chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+chop leek
+
+Chop leek
+
+Chop leek
+
+Chop leek
+
+Chop leek
+
+Chop leek
+
+Throw away leeks
+
+Turn on tap
+
+Rinse hands
+
+Pick up pot
+
+Turn on tap
+
+Put pot on hob
+
+Turn on hob
+
+Pick up onion
+
+Throw away packaging
+
+Pick up leek
+
+Put down leek
+
+Pick up kale
+
+Open kale package
+
+pick up pot lid
+
+put lid on pots
+
+open cupboards
+
+put away glass
+
+put away glass
+
+put away glass
+
+open cupboards 
+
+put away bowl
+
+put away slicer
+
+pick up bowl
+
+put away bowl
+
+replace measuring drums
+
+close cupboards
+
+close cupboards
+
+pick up sponge
+
+turn on tap
+
+Pour soap on sponge
+
+Wash dish cover
+
+Wash dish cover
+
+Wash dish cover
+
+Wash dish cover
+
+Turn on tap
+
+Wash plate
+
+Wash plate
+
+Wash glass
+
+Put down glass
+
+Pick up plate
+
+Wash plate
+
+wash plate
+
+put down plate
+
+pick up knife
+
+wash knife
+
+turn on tap
+
+rinse knife
+
+put away knife
+
+rinse plate
+
+rinse plate
+
+put plate in drying rack
+
+rinse glass
+
+rinse glass
+
+rinse glass
+
+put away glass
+
+rinse plate
+
+rinse plate
+
+rinse plate
+
+put away plates
+
+rinse plate cover
+
+rinse plate cover
+
+put away plate cover
+
+rinse plate cover
+
+rinse plate cover
+
+rinse plate cover
+
+turn off tap
+
+put away plate cover
+
+shake off hands
+
+rinse hands
+
+rearrange plate cover
+
+rearrange plate cover
+
+shake off hands
+
+pick up kettle
+
+open lid
+
+pour water into pot
+
+Pour water into pot
+
+Put lid on pot
+
+Put down kettle
+
+Check timer
+
+Set timer
+
+Open fridge
+
+Take out wine
+
+Open cover it
+
+Pick up wine glass
+
+Pick up wine glass
+
+Close cover it
+
+Put down wine glasses
+
+Pick up bottle of wine
+
+Open bottle of wine
+
+Pour a glass of wine
+
+Throw mail on the floor
+
+Pick up glass of wine
+
+Pour glass of wine
+
+Drink glass of wine
+
+Drink other glass of wine
+
+Put bottle in the fridge
+

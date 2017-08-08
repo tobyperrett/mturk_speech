@@ -1,0 +1,407 @@
+0:00:04.310,0:00:05.830
+put lunchbox
+
+0:00:05.830,0:00:06.830
+put lunchbox
+
+0:00:06.830,0:00:09.000
+pickup lunchbox
+
+0:00:09.000,0:00:10.000
+open lid
+
+0:00:10.000,0:00:11.000
+put lunchbox
+
+0:00:11.000,0:00:12.000
+put lid
+
+0:00:12.000,0:00:13.100
+open bin
+
+0:00:13.100,0:00:14.180
+pickup lunchbox
+
+0:00:14.180,0:00:15.209
+empty lunchbox
+
+0:00:15.209,0:00:16.209
+place lunchbox
+
+0:00:16.209,0:00:18.810
+open lid
+
+0:00:18.810,0:00:19.810
+pickup lunchbox
+
+0:00:19.810,0:00:22.560
+empty lunchbox
+
+0:00:22.560,0:00:23.900
+place lunchbox
+
+0:00:23.900,0:00:24.900
+pickup rubbish
+
+0:00:24.900,0:00:25.990
+put rubbish in the bin
+
+0:00:25.990,0:00:26.990
+push bin back
+
+0:00:26.990,0:00:28.800
+pickup lunchbox
+
+0:00:28.800,0:00:35.170
+pickup towel
+
+0:00:35.170,0:00:41.950
+clean lunchbox
+
+0:00:41.950,0:00:47.380
+put kitchen towel in bin
+
+0:00:47.380,0:00:48.380
+pick up lunchbox
+
+0:00:48.380,0:00:49.380
+place lunchbox
+
+0:00:49.380,0:00:52.000
+pick up sandwiches
+
+0:00:52.000,0:00:53.420
+put sandwiches in lunchbox
+
+0:00:53.420,0:00:55.090
+pick up sandwiches
+
+0:00:55.090,0:00:58.280
+put in lunchbox
+
+0:00:58.280,0:00:59.280
+pick up lid
+
+0:00:59.280,0:01:01.440
+put lid on lunchbox
+
+0:01:01.440,0:01:02.530
+pick up lunchbox
+
+0:01:02.530,0:01:03.690
+open fridge
+
+0:01:03.690,0:01:05.299
+place lunchbox
+
+0:01:05.299,0:01:06.430
+close fridge
+
+0:01:06.430,0:01:08.080
+open cupboard
+
+0:01:08.080,0:01:09.080
+grab crisp packet
+
+0:01:09.080,0:01:10.859
+grab crisps
+
+0:01:10.859,0:01:12.020
+put crisp packet
+
+0:01:12.020,0:01:13.020
+close cupboard
+
+0:01:13.020,0:01:14.020
+open cupboard
+
+0:01:14.020,0:01:17.979
+grab chocolate
+
+0:01:17.979,0:01:19.770
+close cupboard
+
+0:01:19.770,0:01:20.770
+put crisps in lunchbox
+
+0:01:20.770,0:01:21.770
+put chocolate in lunchbox
+
+0:01:21.770,0:01:23.210
+close lunchbox
+
+0:01:23.210,0:01:24.600
+pick up lunchbox
+
+0:01:24.600,0:01:26.060
+open fridge
+
+0:01:26.060,0:01:27.060
+put lunchbox
+
+0:01:27.060,0:01:28.109
+close fridge
+
+0:01:28.109,0:01:29.859
+pick up bottles
+
+0:01:29.859,0:01:30.859
+open bottle
+
+0:01:30.859,0:01:32.009
+turn on water
+
+0:01:32.009,0:01:34.630
+fill bottle
+
+0:01:34.630,0:01:37.170
+close bottle
+
+0:01:37.170,0:01:38.850
+close bottle
+
+0:01:38.850,0:01:43.429
+shake bottle
+
+0:01:43.429,0:01:44.899
+open bottle
+
+0:01:44.899,0:01:46.549
+pour out water
+
+0:01:46.549,0:01:47.810
+place bottle
+
+0:01:47.810,0:01:48.810
+pick up bottle
+
+0:01:48.810,0:01:49.810
+open lid
+
+0:01:49.810,0:01:50.810
+fill up
+
+0:01:50.810,0:01:53.729
+close bottle
+
+0:01:53.729,0:01:57.319
+shake bottle
+
+0:01:57.319,0:01:58.969
+pour out water
+
+0:01:58.969,0:01:59.969
+shake
+
+0:01:59.969,0:02:01.369
+open bottle
+
+0:02:01.369,0:02:03.520
+pour out bottle
+
+0:02:03.520,0:02:09.450
+fill up bottle
+
+0:02:09.450,0:02:10.450
+close bottle
+
+0:02:10.450,0:02:17.319
+open fridge
+
+0:02:17.319,0:02:23.849
+place bottle in fridge
+
+0:02:23.849,0:02:28.790
+pour squash
+
+0:02:28.790,0:02:30.720
+put down bottle
+
+0:02:30.720,0:02:32.720
+fill bottle
+
+0:02:32.720,0:02:33.720
+close bottle
+
+0:02:33.720,0:02:35.569
+shake bottle
+
+0:02:35.569,0:02:36.569
+open bottle
+
+0:02:36.569,0:02:38.799
+pour bottle
+
+0:02:38.799,0:02:39.799
+close bottle
+
+0:02:39.799,0:02:40.799
+place bottle
+
+0:02:40.799,0:02:42.459
+pickup bottle
+
+0:02:42.459,0:02:49.709
+fill bottle
+
+0:02:49.709,0:02:51.060
+turn off tap
+
+0:02:51.060,0:02:52.430
+pickup lid
+
+0:02:52.430,0:02:55.519
+close bottle
+
+0:02:55.519,0:02:56.709
+test bottle
+
+0:02:56.709,0:02:58.620
+open fridge
+
+0:02:58.620,0:03:01.280
+put bottle in fridge
+
+0:03:01.280,0:03:03.640
+close fridge
+
+0:03:03.640,0:03:08.140
+pick up bin bag
+
+0:03:08.140,0:03:10.599
+place bin
+
+0:03:10.599,0:03:15.110
+put in bin bag
+
+0:03:15.110,0:03:16.110
+pick up bin
+
+0:03:16.110,0:03:24.909
+turn on water
+
+0:03:24.909,0:03:33.870
+place bin open cupboard
+
+0:03:33.870,0:03:36.060
+take cleaning liquid
+
+0:03:36.060,0:03:39.829
+pour cleaning liquid
+
+0:03:39.829,0:03:40.829
+test water
+
+0:03:40.829,0:03:51.079
+fill bin
+
+0:03:51.079,0:03:55.280
+continue filling bin
+
+0:03:55.280,0:03:58.790
+pick up sponge
+
+0:03:58.790,0:04:10.090
+wash bin
+
+0:04:10.090,0:04:11.209
+continue washing bin
+
+0:04:11.209,0:04:21.130
+screw sponge
+
+0:04:21.130,0:04:26.840
+pour water out of bin
+
+0:04:26.840,0:04:30.840
+wash outside of bin
+
+0:04:30.840,0:04:31.840
+wipe bin
+
+0:04:31.840,0:04:34.430
+squeeze sponge
+
+0:04:34.430,0:04:36.340
+turn on tap
+
+0:04:36.340,0:04:43.750
+rinse bin
+
+0:04:43.750,0:04:47.520
+turn off tap
+
+0:04:47.520,0:04:53.300
+pour bin
+
+0:04:53.300,0:04:57.090
+pick up towel
+
+0:04:57.090,0:05:09.030
+wipe bin
+
+0:05:09.030,0:05:26.270
+continue wiping bin
+
+0:05:26.270,0:05:35.430
+wipe outside of bin
+
+0:05:35.430,0:05:39.120
+put bin down
+
+0:05:39.120,0:05:44.919
+put towel in bin
+
+0:05:44.919,0:05:53.889
+get bag
+
+0:05:53.889,0:05:57.470
+open bag
+
+0:05:57.470,0:06:01.349
+shake bag
+
+0:06:01.349,0:06:04.949
+put bag in bin
+
+0:06:04.949,0:06:08.889
+open bag
+
+0:06:08.889,0:06:12.050
+put lid on bin
+
+0:06:12.050,0:06:17.669
+push bin back
+
+0:06:17.669,0:06:19.990
+turn on tap
+
+0:06:19.990,0:06:22.009
+turn off tap
+
+0:06:22.009,0:06:25.750
+throw away sponge
+
+0:06:25.750,0:06:27.129
+open cupboard
+
+0:06:27.129,0:06:34.169
+take new sponge
+
+0:06:34.169,0:06:35.169
+place sponge
+
+0:06:35.169,0:06:41.039
+clear cupboard
+
+0:06:41.039,0:06:43.870
+pick up plate
+
+0:06:43.870,0:06:46.830
+brush crumbs
+
+0:06:46.830,0:06:53.419
+put crumbs in bid
+
+0:06:53.419,0:06:53.939
+wash side

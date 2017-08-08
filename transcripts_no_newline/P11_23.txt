@@ -1,0 +1,20 @@
+open fridge
+pick out milk
+open cupboards
+pick up bowl
+close cupboards
+pick up spoon
+put down bowl and spoon
+open milk
+pour milk into bowl
+put on lid
+put milk in fridge
+pick up cereal
+put down cereal
+look around
+pick up cereal
+Open cereal
+Pour cereal in bowl
+Put down cereal
+Pick up bowl
+Put down bowl

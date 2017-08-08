@@ -1,0 +1,26 @@
+put bag
+put glass
+open fridge
+grab lunch box 
+close fridge
+grab fork
+open bag
+put lunch box in bag
+put fork in back
+open fridge
+grab drink
+close fridge
+put drink in bag
+close bag
+pick up bag
+open fridge
+grab pancakes
+close fridge
+open 
+take plate
+put plate
+put pancakes on plate
+close cupboard
+put in bin
+take plate
+take bag

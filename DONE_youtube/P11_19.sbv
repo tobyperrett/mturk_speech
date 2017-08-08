@@ -1,0 +1,101 @@
+0:00:02.200,0:00:03.570
+open cupboards
+
+0:00:03.570,0:00:06.340
+pick up plates
+
+0:00:06.340,0:00:08.050
+pick up knife
+
+0:00:08.050,0:00:09.050
+put down plates
+
+0:00:09.050,0:00:10.050
+put down knife
+
+0:00:10.050,0:00:12.290
+open fridge
+
+0:00:12.290,0:00:13.679
+open drawer
+
+0:00:13.679,0:00:16.680
+pick up bread
+
+0:00:16.680,0:00:20.220
+open bread
+
+0:00:20.220,0:00:22.770
+take out bread
+
+0:00:22.770,0:00:24.850
+close bread
+
+0:00:24.850,0:00:27.020
+open fridge
+
+0:00:27.020,0:00:29.800
+put away bread
+
+0:00:29.800,0:00:31.030
+close fridge
+
+0:00:31.030,0:00:32.750
+pick up knife
+
+0:00:32.750,0:00:35.140
+open bread
+
+0:00:35.140,0:00:36.680
+put down bread
+
+0:00:36.680,0:00:39.910
+open hummus
+
+0:00:39.910,0:00:41.320
+remove wrapper
+
+0:00:41.320,0:00:43.360
+throw away wrapper
+
+0:00:43.360,0:00:44.360
+pick up wrapper
+
+0:00:44.360,0:00:45.930
+throw away wrapper
+
+0:00:45.930,0:00:47.829
+pick up knife
+
+0:00:47.829,0:00:52.190
+open hummus
+
+0:00:52.190,0:00:55.390
+apply hummus
+
+0:00:55.390,0:01:01.040
+apply hummus
+
+0:01:01.040,0:01:02.899
+apply hummus
+
+0:01:02.899,0:01:04.649
+wipe off knife
+
+0:01:04.649,0:01:08.280
+apply more hummus
+
+0:01:08.280,0:01:09.889
+wipe off knife
+
+0:01:09.889,0:01:12.530
+close hummus
+
+0:01:12.530,0:01:15.369
+wipe off knife
+
+0:01:15.369,0:01:20.229
+put away hummus
+
+0:01:20.229,0:01:20.770
+Close bread

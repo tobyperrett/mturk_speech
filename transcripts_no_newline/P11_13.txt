@@ -1,0 +1,24 @@
+OPEN FRIDGE
+PICK UP MILK
+TAKE OUT MILK
+PUT MILK IN FRIDGE
+CLOSE FRIDGE
+PICK UP BOWL
+CLOSE CUPBOARD DOOR
+PICK UP MILK
+POUR MILK IN BOWL
+PUT LID ON MILK
+PUT DOWN MILK
+PICK UP MILK
+OPEN MILK
+THROW LID IN BIN
+POUR MILK IN BOWL
+Put lid on milk.
+Put milk away.
+Pick up spoon.
+Put spoon in bowl.
+Pick up cereal.
+Pour cereal in bowl.
+Put down cereal.
+Pick up bowl.
+Put down bowl.
