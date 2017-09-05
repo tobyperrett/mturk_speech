@@ -7,7 +7,12 @@ from align_aeneas import align_aeneas
 
 
 print "merging and processing mturk transcripts"
-process_transcripts()
+errors_exist = process_transcripts()
+
+if errors_exist:
+	print "please clean up transcripts in {}, move them to {} and then rerun this script.".format(config.error_transcript_dir, config.subseq_transcript_dir)
+	exit(0)
+
 remove_newlines_from_transcripts()
 
 if config.use_aeneas:

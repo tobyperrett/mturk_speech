@@ -1,93 +1,0 @@
-"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.media-link","Answer.TranscriptionTexts","Approve","Reject"
-"3I6NF2WGIFV87316OVV6WW8BDBCG5J","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","3KAKFY4PGU1MCZIRQ2CHRVITLM83IC","AK3HZVOUWCZGL","Submitted","Thu Jul 13 05:39:47 PDT 2017","Thu Jul 13 05:45:39 PDT 2017","Mon Jul 17 05:45:39 PDT 2017","","","","352","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_00.wav","put lunchbox
-put lunchbox
-pickup lunchbox
-open lid
-put lunchbox
-put lid
-open bin 
-pickup lunchbox 
-empty lunchbox
-place lunchbox 
-open lid 
-pickup lunchbox 
-empty lunchbox 
-place lunchbox 
-pickup rubbish
-put rubbish in the bin
-push bin back 
-pickup lunchbox 
-pickup towel
-clean lunchbox"
-"3XWUWJ18TKP8X0SG91SV8N1IL0KUUF","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","3","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 05:58:57 PDT 2017","","","39ZSFO5CA8V264FGN4TIQ5NTBDFUJJ","A3JVLCY4IUJ9VX","Rejected","Thu Jul 13 04:53:29 PDT 2017","Thu Jul 13 04:58:18 PDT 2017","Mon Jul 17 04:58:18 PDT 2017","","Thu Jul 13 05:58:57 PDT 2017","No newline between actions (as specified in instructions).","289","0% (0/1)","0% (0/1)","0% (0/1)","http://kitchentranscription.esy.es/P03_02_01.wav","Put kitchen towel in bin. Pick up lunch box. Place lunch box. Pick up sandwiches. Put sandwiches in lunch box. Pick up sandwiches. Put in lunch box. Pick up lid. Put lid on lunch box. Pick up lunch box. Open fridge. Place lunch box. Close fridge. Open cupboard. Grab crisp packet. Grab crisps. Put crisps packet. Close cupboard. Open cupboard. Grab chocolate."
-"3XWUWJ18TKP8X0SG91SV8N1IL0KUUF","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","3","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 05:58:57 PDT 2017","","","3BQU611VFPJFG0E43H7E5FMC2OW99H","A2OERTEBD3NDL","Rejected","Thu Jul 13 06:03:51 PDT 2017","Thu Jul 13 06:11:46 PDT 2017","Mon Jul 17 06:11:46 PDT 2017","","Thu Jul 13 06:25:02 PDT 2017","Poor quality - didn't match ground truth.","475","0% (0/2)","0% (0/2)","0% (0/2)","http://kitchentranscription.esy.es/P03_02_01.wav","cries the lunch box  prepare lunch box cries lunch box  cries lunch box open the bottle cries the bottle open the bottle turn on water fill the bottle shake the bottle cries the bottle"
-"3XWUWJ18TKP8X0SG91SV8N1IL0KUUF","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","3","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 05:58:57 PDT 2017","","","3RYC5T2D73S6CNQXEN3XIQMLDEPRPM","A3GMF8ZLAZSL2Z","Submitted","Thu Jul 13 07:26:06 PDT 2017","Thu Jul 13 07:26:10 PDT 2017","Mon Jul 17 07:26:10 PDT 2017","","","","4","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_01.wav","put kitchen towel in bin
-pick up lunchbox
-place lunchbox
-pick up sandwiches
-put sandwiches in lunchbox
-pick up sandwiches
-put in lunchbox
-pick up lid
-put lid on lunchbox
-pick up lunchbox
-open fridge
-place lunchbox
-close fridge
-open cupboard
-grab crisp packet
-grab crisps
-put crisp packet
-close cupboard
-open cupboard 
-grab chocolate"
-"32LAQ1JNT8OTXNDR9W2L3RFG2MDUTO","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","2","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 06:23:38 PDT 2017","","","34J10VATJFXEJ0OTODOD43B4VESIQ0","A3GMF8ZLAZSL2Z","Submitted","Thu Jul 13 07:20:09 PDT 2017","Thu Jul 13 07:21:06 PDT 2017","Mon Jul 17 07:21:06 PDT 2017","","","","57","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_02.wav","close cupboard
-put crisps in lunchbox
-put chocolate in lunchbox
-close lunchbox
-pick up lunchbox 
-open fridge
-put lunchbox
-close fridge
-pick up bottles
-open bottle
-turn on water
-fill bottle
-close bottle
-close bottle
-shake bottle
-open bottle
-pour out water
-place bottle
-pick up bottle
-open lid
-fill up
-close bottle
-shake bottle
-pour out water
-shake
-open bottle
-pour out bottle
-fill up bottle"
-"32LAQ1JNT8OTXNDR9W2L3RFG2MDUTO","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","2","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 06:23:38 PDT 2017","","","3QAPZX2QN4CMKM5SIC962HD5TES206","A2OERTEBD3NDL","Rejected","Thu Jul 13 05:56:32 PDT 2017","Thu Jul 13 06:03:28 PDT 2017","Mon Jul 17 06:03:28 PDT 2017","","Thu Jul 13 06:23:38 PDT 2017","Transcription didn't match ground truth.","416","0% (0/2)","0% (0/2)","0% (0/2)","http://kitchentranscription.esy.es/P03_02_02.wav","cries coward  prepare  lunch box cries lunch box pick up lunch box keep in fridge pick up lunch box cries lunch pick up bottltles open bottle turn on water  fill the bottle cries bottle shake bottle open bottle turn on water fill the bottle"
-"39KV3A5D176QKCOG7O4KJU5ASS1S7U","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","3DR23U6WE5DFVBEZ9YSHOTOZNSETEA","AK3HZVOUWCZGL","Submitted","Thu Jul 13 05:45:56 PDT 2017","Thu Jul 13 05:49:51 PDT 2017","Mon Jul 17 05:49:51 PDT 2017","","","","235","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_03.wav","close bottle 
-open fridge
-place bottle in fridge
-pour squash
-put down bottle 
-fill bottle
-close bottle 
-shake bottle 
-open bottle 
-pour bottle
-close bottle
-place bottle
-pickup bottle
-fill bottle
-turn off tap 
-pickup lid
-close bottle"
-"3EFNPKWBMRN8IK3HWAIAW7NBSYX03B","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","3PJUZCGDJ6FF2VVUYP105JR1IIC98Q","A3T4SWIVIT1M8T","Submitted","Thu Jul 13 04:55:44 PDT 2017","Thu Jul 13 04:57:55 PDT 2017","Mon Jul 17 04:57:55 PDT 2017","","","","131","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_04.wav","test bottleopen fridgeput bottle in fridgeclose fridgepick up bin bagplace binput in bin bagpick up binturn on waterplace bin open cupboardtake cleaning liquidpour cleaning liquidtest waterfill bin"
-"3LAZVA75NHQ40JZHUV6G3YE1KNCO2D","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","3XCC1ODXDLARCZRCE0IMIVCVI93RQ3","A3T4SWIVIT1M8T","Submitted","Thu Jul 13 04:49:16 PDT 2017","Thu Jul 13 04:52:12 PDT 2017","Mon Jul 17 04:52:12 PDT 2017","","","","176","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_05.wav","continue filling binpick up spongewash bincontinue washing binscrew spongepour water out of binwash outside of binwipe binsqueeze spongeturn on taprinse binturn off tap"
-"33J5JKFMK5XW6D8GD8CPBDET52UQ3Y","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","3TR2532VIPTH4TPFRMVFAZ9D8SY6JW","A3T4SWIVIT1M8T","Submitted","Thu Jul 13 04:52:15 PDT 2017","Thu Jul 13 04:53:49 PDT 2017","Mon Jul 17 04:53:49 PDT 2017","","","","94","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_06.wav","pour binpick up towelwipe bincontinue wiping binwipe outside of binput bin downput towel in binget bagopen bagshake bagput bag in binopen bag"
-"337F8MIIMYCT0GMLWONT6CFH6YT04W","3C3LDH5JOKJKR1Z0Z2BQGTC95LCMFM","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long..","transcribe, audio","$0.05","Thu Jul 13 04:44:44 PDT 2017","1","BatchId:2868731;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 20 04:44:44 PDT 2017","","","32RIADZISS3WO94RVSBE52GM8J4S4A","A3T4SWIVIT1M8T","Submitted","Thu Jul 13 04:53:53 PDT 2017","Thu Jul 13 04:55:40 PDT 2017","Mon Jul 17 04:55:40 PDT 2017","","","","107","0% (0/0)","0% (0/0)","0% (0/0)","http://kitchentranscription.esy.es/P03_02_07.wav","put lid on binpush bin backturn on tapturn off tapthrow away spongeopen cupboardtake new spongeplace spongeclear cupboardpick up platebrush crumbsput crumbs in bidwash side"

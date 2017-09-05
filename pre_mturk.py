@@ -4,7 +4,7 @@ from generate_mturk_csvs import generate_csvs
 from create_youtube_videos import create_all_videos
 
 print "splitting audio files"
-split_all()
+# split_all()
 
 if config.use_youtube:
 	print "generating youtube videos"

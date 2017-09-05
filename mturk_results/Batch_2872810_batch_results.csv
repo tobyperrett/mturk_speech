@@ -1,127 +1,0 @@
-"HITId","HITTypeId","Title","Description","Keywords","Reward","CreationTime","MaxAssignments","RequesterAnnotation","AssignmentDurationInSeconds","AutoApprovalDelayInSeconds","Expiration","NumberOfSimilarHITs","LifetimeInSeconds","AssignmentId","WorkerId","AssignmentStatus","AcceptTime","SubmitTime","AutoApprovalTime","ApprovalTime","RejectionTime","RequesterFeedback","WorkTimeInSeconds","LifetimeApprovalRate","Last30DaysApprovalRate","Last7DaysApprovalRate","Input.media-link","Answer.TranscriptionTexts","Approve","Reject"
-"3K3IX1W4S5QBQM6MMACAYG2P6J5APY","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:30 PDT 2017","1","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 06:10:30 PDT 2017","","","3Y54SXRO1LKWK7BLZY7MSBA2APBUTE","A204ZNNA3G96F0","Approved","Mon Jul 17 09:47:19 PDT 2017","Mon Jul 17 09:49:10 PDT 2017","Fri Jul 21 09:49:10 PDT 2017","Thu Jul 20 03:41:52 PDT 2017","","","111","100% (2/2)","100% (2/2)","100% (2/2)","http://bristolengineeringsurvey.esy.es/audio/P02_12_08.wav","Roll dough.
-Put bowl of dough.
-get bowl of dough.
-Pickup oil.
-Knead dough.
-Pickup oil.
-Roll dough.
-Pickup oil 
-spread oil on hand.
-Get a bowl of dough.
-knead bowl of dough.
-roll bowl of dough.
-Put bowl of dough."
-"3JMQI2OLFY49L8XLQ5QKKS50R71DN7","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","1","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 06:10:31 PDT 2017","","","32AT8R96GL8V57Y6AY2WI6EG859USZ","AJJ4BIOVNSD8T","Approved","Mon Jul 17 07:01:16 PDT 2017","Mon Jul 17 07:03:29 PDT 2017","Fri Jul 21 07:03:29 PDT 2017","Thu Jul 20 03:41:52 PDT 2017","","","133","100% (15/15)","100% (15/15)","100% (15/15)","http://bristolengineeringsurvey.esy.es/audio/P03_24_04.wav","shake pan
-open drawer
-grab spoon
-close drawer
-grab spice
-shake pan
-stir potatoes
-shake pan
-stir potatoes
-grab pepper
-open pepper
-grind pepper"
-"3BPP3MA3TBJOPE80ANLPDIJWMO2LE6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:39:42 PDT 2017","","","34S6N1K2ZVI3W8XWQQYWN5BVNC9LH4","A2TGITLW5CHTG0","Submitted","Thu Jul 20 09:09:37 PDT 2017","Thu Jul 20 09:13:57 PDT 2017","Mon Jul 24 09:13:57 PDT 2017","","","","260","100% (1/1)","100% (1/1)","100% (1/1)","http://bristolengineeringsurvey.esy.es/audio/P03_05_02.wav","""spoon""
-""pour almonds""
-""spoon almonds""
-""close almonds""
-""stir food""
-""grab kettle ""
-""pour kettle""
-""put lid""
-""put kettle""
-""stir food""
-""grab almonds
-""pour almonds"" 
-""stir food"""
-"3BPP3MA3TBJOPE80ANLPDIJWMO2LE6","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:39:42 PDT 2017","","","384PI804XS0FPLMQCROCTZQ9SH60S5","A3NUUMIAEIAN5","Rejected","Mon Jul 17 12:07:26 PDT 2017","Mon Jul 17 12:11:35 PDT 2017","Fri Jul 21 12:11:35 PDT 2017","","Thu Jul 20 03:39:42 PDT 2017","Didn't match ground truth.","249","0% (0/1)","0% (0/1)","0% (0/1)","http://bristolengineeringsurvey.esy.es/audio/P03_05_02.wav","spear almonds
-pour almonds
-spear almonds 
-glaze almonds
-stir food
-grab kettle
-put sauce pan 
-pour kettle
-put lid
-put kettle
-stir food
-open almonds
-pour almonds
-stir food"
-"38Z7YZ2SB21BWGQZYBJCFJGIONWQI9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:30 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","33LK57MYLT4CR6SGGL14ZYTVA21SZT","A1E5J6R70RF4LA","Rejected","Wed Jul 19 02:53:46 PDT 2017","Wed Jul 19 02:54:49 PDT 2017","Sun Jul 23 02:54:49 PDT 2017","","Thu Jul 20 03:41:15 PDT 2017","didn't read instructions","63","0% (0/7)","0% (0/7)","0% (0/7)","http://bristolengineeringsurvey.esy.es/audio/P02_09_01.wav","Search for another olive oil. Open olive oil. Remove cover from olive oil bottle. Open trash can. Throw cover. Close trash can. Open drawer. Get two spoons. Get three spoons. Close drawer. Get sugar. Put sugar. Pick up kettle. Open kettle. Open tap. Hold kettle and fill kettle with water. Close tap. Close kettle. Put kettle. Switch kettle on."
-"38Z7YZ2SB21BWGQZYBJCFJGIONWQI9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:30 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","39N5ACM9HEM08NUBK63BR5MR90LP9H","A281CHDUJ731I6","Submitted","Thu Jul 20 04:43:45 PDT 2017","Thu Jul 20 04:46:51 PDT 2017","Mon Jul 24 04:46:51 PDT 2017","","","","186","100% (2/2)","100% (2/2)","100% (2/2)","http://bristolengineeringsurvey.esy.es/audio/P02_09_01.wav","search for another olive oil
-open olive oil
-remove cover from olive oil bottle
-open trash can
-throw cover
-close trash can
-open drawer
-get two spoons
-get three spoons
-close drawer
-get sugar
-put sugar
-pick up kettle
-open kettle
-open tap
-hold kettle and fill kettle with water
-close tap
-close kettle
-put kettle
-switch kettle on"
-"38Z7YZ2SB21BWGQZYBJCFJGIONWQI9","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:30 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","3GU1KF0O4I0JWG98IQH7IBHHW0ZPB1","A2HYS7U3UDC61N","Rejected","Mon Jul 17 07:43:49 PDT 2017","Mon Jul 17 07:52:55 PDT 2017","Fri Jul 21 07:52:55 PDT 2017","","Wed Jul 19 02:53:03 PDT 2017","Instructions specified one action per line.","546","0% (0/3)","0% (0/3)","0% (0/3)","http://bristolengineeringsurvey.esy.es/audio/P02_09_01.wav","Search for another olive oil, open olive oil, remove cover from olive oil bottle. Open trash can, throw cover, close trash can. Open drawer get two spoons, get three spoons, close drawer. Get sugar put sugar. Pick up kettle, open kettle, open tap, hold kettle, and fill kettle with water. Close tap, close kettle, put kettle, switch kettle on."
-"3BVS8WK9QZUOSAOAFTMMKULJ2NVIBP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","386PBUZZXFWZNESMEQ1HZIRAZVJLJW","A185AZCHDI3K4O","Rejected","Mon Jul 17 09:06:20 PDT 2017","Mon Jul 17 09:16:44 PDT 2017","Fri Jul 21 09:16:44 PDT 2017","","Wed Jul 19 02:53:03 PDT 2017","Instructions specified one action per line.","624","0% (0/1)","0% (0/1)","0% (0/1)","http://bristolengineeringsurvey.esy.es/audio/P02_09_11.wav","Open oven pull drawer return drawer put bowl in to  oven push drawer close oven set timer open fridge get meat put down meat"" pick a pan"" ""put pan"" "" pickup chopping board "" ""pickup knife"""
-"3BVS8WK9QZUOSAOAFTMMKULJ2NVIBP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","3I3WADAZ9Q3ZM0GY2GDFQPCZDYSO5S","A281CHDUJ731I6","Submitted","Thu Jul 20 04:33:13 PDT 2017","Thu Jul 20 04:38:47 PDT 2017","Mon Jul 24 04:38:47 PDT 2017","","","","334","100% (2/2)","100% (2/2)","100% (2/2)","http://bristolengineeringsurvey.esy.es/audio/P02_09_11.wav","open oven
-pull drawer
-return drawer
-put bowl into oven
-push drawer
-close oven
-set timer
-open fridge
-get meat
-put down meat
-pick up pan
-put pan
-pick up chopping board
-pick up knife"
-"3BVS8WK9QZUOSAOAFTMMKULJ2NVIBP","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","3","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Thu Jul 27 03:41:16 PDT 2017","","","3VJ40NV2QIM172RO3CVDT5IDSHETOJ","A1E5J6R70RF4LA","Rejected","Wed Jul 19 02:55:05 PDT 2017","Wed Jul 19 02:55:50 PDT 2017","Sun Jul 23 02:55:50 PDT 2017","","Thu Jul 20 03:41:16 PDT 2017","didn't read instructions","45","0% (0/7)","0% (0/7)","0% (0/7)","http://bristolengineeringsurvey.esy.es/audio/P02_09_11.wav","Open oven. Pull drawer. Return drawer. Put bowl into oven. Push drawer. Close oven. Set timer. Open fridge. Get meat. Put down meat. Pick up pan. Put pan. Pick up chopping board. Pick up knife."
-"3IKDQS3DQDZ72FGGTTIHVER1K8VICW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Wed Jul 26 02:53:04 PDT 2017","","","3C6FJU71TQSS1TAF94UL0S2HPQ3UYB","A2B0Y8A9NMCF6J","Rejected","Mon Jul 17 06:16:25 PDT 2017","Mon Jul 17 06:21:23 PDT 2017","Fri Jul 21 06:21:23 PDT 2017","","Wed Jul 19 02:53:03 PDT 2017","Instructions specified one action per line.","298","0% (0/1)","0% (0/1)","0% (0/1)","http://bristolengineeringsurvey.esy.es/audio/P03_19_04.wav","Check room.  Close bottle.  Pour Kettle. Put Kettle. Put lid on rice.  Grab salt.  Open salt. Pour salt. Put salt inside. Put lid. Grab bottle. Open/close bottle. Open bottle.  Check seal. Screw on lid."
-"3IKDQS3DQDZ72FGGTTIHVER1K8VICW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Wed Jul 26 02:53:04 PDT 2017","","","3EQHHY4HQSRBUNZ0EX07LG3XL2WG57","A35RQEPHNHWXSL","Approved","Wed Jul 19 09:25:31 PDT 2017","Wed Jul 19 09:29:37 PDT 2017","Sun Jul 23 09:29:37 PDT 2017","Thu Jul 20 03:41:51 PDT 2017","","","246","98% (50/51)","98% (50/51)","98% (50/51)","http://bristolengineeringsurvey.esy.es/audio/P03_19_04.wav","Check rimClose bottlePour kettlePut kettlePut lid on riceGrab saltOpen saltPour saltPut salt insidePut lidGrab bottleClose bottleOpen bottleCheck sealScrew on lid"
-"375VMB7D4IIH77MUTPDSFK9J587IDW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Wed Jul 26 02:53:03 PDT 2017","","","3907X2AHF04P839CZXOWHIED2VE2P6","AOJL84CWO29O2","Rejected","Mon Jul 17 10:56:17 PDT 2017","Mon Jul 17 10:58:59 PDT 2017","Fri Jul 21 10:58:59 PDT 2017","","Wed Jul 19 02:53:02 PDT 2017","Instructions specified one action per line.","162","0% (0/1)","0% (0/1)","0% (0/1)","http://bristolengineeringsurvey.esy.es/audio/P03_19_00.wav","put lunch box, put bottle, put bottle, grab saucepan, put saucepan, grab saucepan,  grab kettle, fill up kettle, put kettle, turn on kettle grab sauce pan, turn on tap, fill sauce pan, pour water, grab sponge, wash pan."
-"375VMB7D4IIH77MUTPDSFK9J587IDW","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","2","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Wed Jul 26 02:53:03 PDT 2017","","","3E4GGUZ1T8QOXCCWM5JOL1SE89LK2C","A33VJJ7V3XRYKJ","Approved","Wed Jul 19 09:16:01 PDT 2017","Wed Jul 19 09:19:11 PDT 2017","Sun Jul 23 09:19:11 PDT 2017","Thu Jul 20 03:41:51 PDT 2017","","","190","82% (9/11)","82% (9/11)","82% (9/11)","http://bristolengineeringsurvey.esy.es/audio/P03_19_00.wav","put lunch box
-put bottle
-put bottle
-grab sauce pan 
-put sauce pan
-grab sauce pan
-grab kettle
-fill up kettle
-put kettle
-turn on kettle
-grab sauce pan
-turn on tap
-fill sauce pan
-pour water
-grab quartz sponge
-wash pan"
-"3M4KL7H8KUM7MSBHBVK8HFI57K9610","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","1","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 06:10:31 PDT 2017","","","3IHR8NYAM70ZBHOZ3B7KAXBBM99P4O","A3PU538CX0YDKS","Approved","Mon Jul 17 10:53:42 PDT 2017","Mon Jul 17 10:57:37 PDT 2017","Fri Jul 21 10:57:37 PDT 2017","Thu Jul 20 03:41:52 PDT 2017","","","235","100% (3/3)","100% (3/3)","100% (3/3)","http://bristolengineeringsurvey.esy.es/audio/P03_24_00.wav","turn down hob
-turn on extractor fan
-open freezer
-open drawer
-grab sweet corn
-grab carrots
-close freezer drawer
-close freezer
-move lunchbox
-grab saucepan
-place saucepan
-turn on hob
-open drawer
-grab scissors
-close drawer
-open carrot bag"
-"38O9DZ0A61MEBDTDUZKMMYSAZQN62H","3OYYRRZZOLP3F6TGUSCWNRGVLMOI3U","Transcribe a short audio clip (<1min)","Transcribe a short audio clip of cooking task narrations from one speaker, e.g. ""pickup pan"" or ""chop onion.""  Most are around 30s long.","transcribe, audio","$0.05","Mon Jul 17 06:10:31 PDT 2017","1","BatchId:2872810;OriginalHitTemplateId:920937308;","900","345600","Mon Jul 24 06:10:31 PDT 2017","","","3ZR9AIQJUB8WN0KFMQSUVWA3E0240Z","A35RQEPHNHWXSL","Approved","Mon Jul 17 06:35:18 PDT 2017","Mon Jul 17 06:43:08 PDT 2017","Fri Jul 21 06:43:08 PDT 2017","Thu Jul 20 03:41:51 PDT 2017","","","470","98% (50/51)","98% (50/51)","98% (50/51)","http://bristolengineeringsurvey.esy.es/audio/P02_06_12.wav","Remove PackagingPick up sweet corn canPick up canLook at canReturn canClose cupboardPut canRemove LadderPut towelOpen canOpen TapRinse sweet cornOpen tapFill can with waterRinse sweet cornPut sweet cornon salad"

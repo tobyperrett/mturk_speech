@@ -31,6 +31,10 @@ ____________Assumptions:____________
 
         subtitles_downloads: .sbvs from youtube should be downloaded here
 
+        subseq_transcript_dir: temp folder for correct transcriptions
+        
+        error_transcript_dir = temp folder for incorrect transcriptions
+
         transcripts: merged transcript files are here, ready for upload to youtube (they contain a blank line between each action)
 
         transcripts_no_newline: merged transcript files are here, ready for use by aeneas (no blank line between each action)
